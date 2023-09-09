@@ -2,3 +2,6 @@ langchain
 langchain-experimental
 openai
 python-dotenv
+tiktoken
+faiss-gpu
+faiss-cpu
