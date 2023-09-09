@@ -1,0 +1,6022 @@
+[
+  {
+    "province": "Aceh",
+    "city": "Kota Banda Aceh",
+    "hospitals": [
+      {
+        "id": "1171015",
+        "name": "RS Umum Daerah  Dr. Zainoel Abidin",
+        "address": "Jl. Tgk Daud Beureueh, NO. 108 B. Aceh",
+        "phone": "065134571",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KLS 1 ARAFAH 3",
+            "info": "Diupdate 57 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1171143",
+        "name": "RS Bhayangkara Banda Aceh",
+        "address": "Jl. Cut Nyak Dhien No. 23, Lamteumen Barat Banda Aceh",
+        "phone": "065141470",
+        "available_beds": [
+          {
+            "available": 35,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DUKU, MANGGA, APEL, MELON, BOUGENVILLE, SERUNE,KAMBOJA,LILI",
+            "info": "Diupdate 1 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Aceh",
+    "city": "Kota Subulussalam",
+    "hospitals": [
+      {
+        "id": "1102027",
+        "name": "RS Umum Daerah Kota Subulussalam",
+        "address": "Jl. Hamzah Fansyuri (Subulussalam-Rundeng) Kec. Simpang Kiri Kota Subulussalam Aceh 24782",
+        "phone": "085260077824",
+        "available_beds": [
+          {
+            "available": 15,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 10",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Utara",
+    "city": "Toba Samosir",
+    "hospitals": [
+      {
+        "id": "1205046",
+        "name": "RS Umum Daerah Porsea",
+        "address": "Jl Raja Sipakko Napitulu, Ds. Parparean, Kec. Porsea, Kab. Toba Samosir",
+        "phone": "08116210890",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anggrek",
+            "info": "Diupdate 24 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Utara",
+    "city": "Simalungun",
+    "hospitals": [
+      {
+        "id": "1209065",
+        "name": "RS Umum Daerah Parapat",
+        "address": "Jl Kolonel TPR Sinaga Parapat",
+        "phone": "085372989347",
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang ANGGREK 1,4  RUANG INFEKSIUS",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Utara",
+    "city": "Deli Serdang",
+    "hospitals": [
+      {
+        "id": "1212171",
+        "name": "RS Umum Rahmad Hidayah",
+        "address": "Jl Limau Manis Pasar XIII No.61, Desa Limau Manis, Kecamatan Tanjung Morawa, Kabupaten Deli Serdang, Provinsi Sumatera Utara",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1212175",
+        "name": "RS Umum Mitra Sehat",
+        "address": "Jl. Sei Merah No. 300 Desa Dagang Kerawan - Tanjung Morawa",
+        "phone": "0985270253369",
+        "available_beds": [
+          {
+            "available": 24,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang JASMINE",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1212177",
+        "name": "RS Umum Yoshua",
+        "address": "Jl. Medan Lubuk Pakam N0. 70",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang NURSE STATION",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1212179",
+        "name": "RS Umum Citra Medika",
+        "address": "Jl Medan-Bt Kuis No 377 Pasar X Desa Bandar Klippa",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang LT.  4 Gedung Baru",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1212185",
+        "name": "RS Umum Pancur Batu",
+        "address": "Jl. Jamin Ginting KM. 17,5 Desa Tengah Kec. Pancur Batu",
+        "phone": "081376257161",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Merak 1, Merak 2",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Utara",
+    "city": "Kota Medan",
+    "hospitals": [
+      {
+        "id": "1275013",
+        "name": "RS Umum Daerah Dr. Pirngadi",
+        "address": "Jl Prof H M Yamin SH No. 47, Medan",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Dahlia1Genek Onkologi +Bedah",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1275046",
+        "name": "RS Bhayangkara Tingkat II",
+        "address": "Jl KH Wahid Hasyim No.1, Medan",
+        "phone": "081361462147",
+        "available_beds": [
+          {
+            "available": 15,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK, MELATI, FLAMBOYAN, PAV. DHIRA BRATA, CATUR PRASETYA",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1275655",
+        "name": "RS Umum Pusat H. Adam Malik",
+        "address": "Jl Bunga Lau No. 17, Medan",
+        "phone": "0618363000",
+        "available_beds": [
+          {
+            "available": 92,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Utara",
+    "city": "Kota Padang Sidempuan",
+    "hospitals": [
+      {
+        "id": "1277011",
+        "name": "RS Umum Daerah Padang Sidempuan",
+        "address": "Jl Dr. F.L. Tobing No. 10, Kel. Wek. V Kec. Padangsidimpuan Utara Kota Padangsidimpuan",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I ( TERATAI )",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Barat",
+    "city": "Pasaman Barat",
+    "hospitals": [
+      {
+        "id": "1309022",
+        "name": "RS Umum Islam Ibnu Sina",
+        "address": "Jl M Natsir pasaman baru",
+        "phone": "082386160552",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 2 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Barat",
+    "city": "Kota Padang Panjang",
+    "hospitals": [
+      {
+        "id": "1374024",
+        "name": "RS Umum Ibnu Sina Padang Panjang",
+        "address": "Jl. Sukarno. Hatta No. 17, Kel. Bukit Surungan, Kec. Padang Panjang Barat",
+        "phone": "085274551137",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 2 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Barat",
+    "city": "Kota Bukittinggi",
+    "hospitals": [
+      {
+        "id": "1375040",
+        "name": "RS Umum Ibnu Sina Bukittinggi",
+        "address": "Jl. Batang Agam, Belakang Balok",
+        "phone": "075221185",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Riau",
+    "city": "Rokan Hulu",
+    "hospitals": [
+      {
+        "id": "1407013",
+        "name": "RS Umum Azzahra",
+        "address": "Jl. Rambutan No. 03 RK Harapan, Ujung Batu",
+        "phone": "082388797008",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Riau",
+    "city": "Bengkalis",
+    "hospitals": [
+      {
+        "id": "1408011",
+        "name": "RS Umum Daerah  Bengkalis",
+        "address": "Jl Kelapapati Tengah No.90, Bengkalis",
+        "phone": "07667008400",
+        "available_beds": [
+          {
+            "available": 21,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 33 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Riau",
+    "city": "Rokan Hilir",
+    "hospitals": [
+      {
+        "id": "1409022",
+        "name": "RS Umum Daerah  Dr. RM. Pratomo Bagansiapiapi",
+        "address": "Jl Pahlawan No.13, Bagansiapiapi",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 17 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Riau",
+    "city": "Kota Pekanbaru",
+    "hospitals": [
+      {
+        "id": "1471022",
+        "name": "RS Tk. IV Pekanbaru",
+        "address": "Jl Kesehatan No 2 Pekanbaru",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Fla.boyan",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1471146",
+        "name": "RS Jiwa Tampan",
+        "address": "Jl H.R. Subrantas Km.12,5 Pekanbaru",
+        "phone": "076163240",
+        "available_beds": [
+          {
+            "available": 16,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 20 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1471384",
+        "name": "RS Awal Bros A. Yani",
+        "address": "Jln. Jend. A. Yani No. 73",
+        "phone": "076121000",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jambi",
+    "city": "Merangin",
+    "hospitals": [
+      {
+        "id": "1502014",
+        "name": "RS Umum Daerah Kolonel Abundjani/Bangko",
+        "address": "Jln. Kesehatan No. 20 Kelurahan Pematang Kandis Kecamatan Bangko Kabupaten Merangin Provinsi Jambi",
+        "phone": "07462145921118",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang anak",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1502018",
+        "name": "RS Andimas",
+        "address": "Jl. Sapta Marga RT. 021 RW. 003 Kel. Pematang Kandis Kec. Bangko",
+        "phone": "085369522723",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AR-RAHMAN 3",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jambi",
+    "city": "Batang Hari",
+    "hospitals": [
+      {
+        "id": "1504018",
+        "name": "RS Mitra Medika Batang Hari",
+        "address": "Jl. Gajah Mada Kel. Teratai Kec. Muara Bulian",
+        "phone": "074321555",
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Mahoni",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jambi",
+    "city": "Muaro Jambi",
+    "hospitals": [
+      {
+        "id": "1505016",
+        "name": "RS Umum Daerah Ahmad Ripin",
+        "address": "Jl. Lintas Timur Komp. Perkantoran Bukit Cinto Kenang",
+        "phone": "0741590056",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Zaal Anak",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jambi",
+    "city": "Bungo",
+    "hospitals": [
+      {
+        "id": "1509028",
+        "name": "RS Umum Permata Hati",
+        "address": "Jl.Lebai Hasan, Rt 06/02, Sungai Pinang, Muara Bungo",
+        "phone": "08117444118",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bougenvile 1,2,4,6",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1509029",
+        "name": "RS Ibu dan Anak Moelia",
+        "address": "Jl. Diponegoro RT. 13 RW. 04 Pasir Putih Muara Bungo",
+        "phone": "085267660592",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 2",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jambi",
+    "city": "Kota Jambi",
+    "hospitals": [
+      {
+        "id": "1571158",
+        "name": "RS Umum Daerah H. Abdul Manap",
+        "address": "Jl. SK.Rd.Syahbuddin Kel. Mayang Mangurai Kec.Kota Baru Jambi",
+        "phone": "07415910180",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anak",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1571163",
+        "name": "RS Umum Baiturahim Jambi",
+        "address": "Jl. Prof. M. Yamin SH, No. 30 Kel. Lebak Bandung",
+        "phone": "074135165",
+        "available_beds": [
+          {
+            "available": 25,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUBI",
+            "info": "Diupdate 52 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Selatan",
+    "city": "Muara Enim",
+    "hospitals": [
+      {
+        "id": "1603090",
+        "name": "RS Ibu dan Anak Karunia Indah Medika",
+        "address": "Jl. Mayor Tjik Agus Kiemas Lintas Kepur Muara Enim (Kawasan Perkantoran Islamic Center)",
+        "phone": "081273373378",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang B100,D114,D115,D117, D224",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Selatan",
+    "city": "Banyuasin",
+    "hospitals": [
+      {
+        "id": "1607016",
+        "name": "RS Umum Daerah Sukajadi",
+        "address": "Jl. Palembang Betung Km. 14.5 Kel. Tanah Mas Kec. Talang kelapa.",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang Rawat Inap Kelas I",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671072",
+        "name": "RS Umum Pusat Dr. Rivai Abdullah",
+        "address": "Jl. Sungai Kundur Kelurahan Mariana Kec. Banyuasin I",
+        "phone": "07117537201",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Asoka PERINA",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Selatan",
+    "city": "Penukal Abab Lematang Ilir ",
+    "hospitals": [
+      {
+        "id": "1603085",
+        "name": "RS Umum Daerah Talang Ubi",
+        "address": "Jl. Taman Siswa RT. 014 RW. 05 Kel. Pasar Bhayangkara Kec. Talang Ubi",
+        "phone": "0713390566",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAWAR",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Selatan",
+    "city": "Kota Palembang",
+    "hospitals": [
+      {
+        "id": "1671013",
+        "name": "RS Umum Pusat Dr. Mohammad Hoesin Palembang",
+        "address": "Jl. Jendral Sudirman KM 3,5 Palembang",
+        "phone": "0711354088",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Rupit 1.2",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671024",
+        "name": "RS Umum Pertamina Palembang",
+        "address": "JL. Pengantingan NO I Komplek Pertamina Plaju, Palembang",
+        "phone": "0711597444",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bungur",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671046",
+        "name": "RS Umum Pusri Palembang",
+        "address": "Jl May Zen Kompl Pusri, 2 Ilir Palembang",
+        "phone": "0711721313",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KEBIDANAN",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671083",
+        "name": "RS Islam Siti Khadijah",
+        "address": "Jl. Demang Lebar Daun No.26",
+        "phone": "0711536008",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang HUMAIROH BAWAH",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671301",
+        "name": "RS Muhammadiyah Palembang",
+        "address": "Jl. A. Yani 13 Ulu, Palembang",
+        "phone": "0711511446",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAS MANSYUR",
+            "info": "Diupdate 25 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671331",
+        "name": "RS Bhayangkara M. Hasan Palembang",
+        "address": "Jl. Jenderal Sudirman KM. 4.5",
+        "phone": "0711414855",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "id": "1671335",
+        "name": "RS Siloam Sriwijaya Palembang",
+        "address": "JL.POM IX (KOMPLEK PS MALL) KELURAHAN LOROK PAKJO",
+        "phone": "07115229100",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Rawat Inap",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671343",
+        "name": "RS Umum Ar-Rasyid Palembang",
+        "address": "JL. H. M. Saleh No. 02 KM. 7 Kel. Sukarami Kec. Sukarami Palembang",
+        "phone": "07115610503",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang FIRDAUS",
+            "info": "Diupdate 12 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1671347",
+        "name": "RS Umum Daerah Siti Fatimah Provinsi Sumatera Sela",
+        "address": "Jl. Kol. H. Burlian Km 6",
+        "phone": "07115718889",
+        "available_beds": [
+          {
+            "available": 18,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang PaviliunCendana LT 7",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sumatera Selatan",
+    "city": "Kota Prabumulih",
+    "hospitals": [
+      {
+        "id": "1672002",
+        "name": "RS Umum Fadhilah Kota Prabumulih",
+        "address": "Jl. Jenderal Sudirman No.01 Kel. Patih Galung Kec. Prabumulih Barat",
+        "phone": "07133300032",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Anggrek",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1672015",
+        "name": "RS Umum Daerah Kota Prabumulih",
+        "address": "Jl. Lingkar, Kel. Gunung Ibul, Kec. Prabumulih Timur",
+        "phone": "07133300400",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas 1",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1672026",
+        "name": "RS Pertamina Kota Prabumulih",
+        "address": "Jl. Kesehatan No. 100 Komperta Prabumulih",
+        "phone": "0713382742",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Pandan",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bengkulu",
+    "city": "Kota Bengkulu",
+    "hospitals": [
+      {
+        "id": "1771007",
+        "name": "RS Umum Ummi Bengkulu",
+        "address": "Jln. Hibrida Raya No. 01 RT 23 RW 08",
+        "phone": "073624832",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang YASMINE 9",
+            "info": "Diupdate 4 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lampung",
+    "city": "Lampung Selatan",
+    "hospitals": [
+      {
+        "id": "1803034",
+        "name": "RS Ibu Anak Hidayah Ibu",
+        "address": "Jl. Kesuma Bangsa Kel. Way Urang Kec. Kalianda",
+        "phone": "0727322195",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas 1",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lampung",
+    "city": "Lampung Utara",
+    "hospitals": [
+      {
+        "id": "1806035",
+        "name": "RS Umum Handayani",
+        "address": "Jl. Soekarno - Hatta No.94,Kotabumi lampung Utara",
+        "phone": "0811725127",
+        "available_beds": [
+          {
+            "available": 15,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Dahlia",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "1806036",
+        "name": "RS Umum HI. Muhammad Yusuf",
+        "address": "Jl. Lintas Sumatera No. 12 Ds. Kalibalangan Kec. Abung Selatan",
+        "phone": "081279509699",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bougenvil, Melati",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lampung",
+    "city": "Way Kanan",
+    "hospitals": [
+      {
+        "id": "1807014",
+        "name": "RS Umum Daerah Zainal Abidin Pagar Alam",
+        "address": "Jl. Raya Lintas Sumatera, Umpu Semenguk",
+        "phone": "082176038182",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang BEDAH / NON BEDAH",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lampung",
+    "city": "Pringsewu",
+    "hospitals": [
+      {
+        "id": "1810003",
+        "name": "RS Umum Surya Asih",
+        "address": "Jl. A. Yani No.51, Pringsewu",
+        "phone": "085273345287",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lili 1",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lampung",
+    "city": "Pesisir Barat",
+    "hospitals": [
+      {
+        "id": "1813001",
+        "name": "RS Umum Daerah KH. Muhammad Thohir KRUI",
+        "address": "Jl. Atar Sedangkek Pekon Way Suluh Kecamatan Krui Selatan Kabupaten Pesisir Barat",
+        "phone": "082372298787",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang Perawatan laki-laki",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Lampung",
+    "city": "Kota Bandar Lampung",
+    "hospitals": [
+      {
+        "id": "1801017",
+        "name": "RS Umum Daerah Dr H Abdul Moeloek",
+        "address": "Jl. Dr. Rivai 6, Kelurahan Penengahan Kecamatan Tanjungkarang Pusat, Kota Bandar Lampung, Provinsi Lampung  35112",
+        "phone": "0721703312",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Puri Betik Hati Lt. 2",
+            "info": "Diupdate 8 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kepulauan Bangka Belitung",
+    "city": "Bangka",
+    "hospitals": [
+      {
+        "id": "1901043",
+        "name": "RS Umum Daerah Dr. (HC) Ir. Soekarno",
+        "address": "Jl. Zipur Desa Air Anyir Kec. Merawang",
+        "phone": "07179106750",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RAWAT DEWASA PEREMPUAN",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kepulauan Riau",
+    "city": "Kota Batam",
+    "hospitals": [
+      {
+        "id": "2071012",
+        "name": "RS Umum Budi Kemuliaan Batam",
+        "address": "Jl. Budi Kemuliaan No.1,Batam",
+        "phone": "0778454044",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lotus",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "2071103",
+        "name": "RS Umum Awal Bros Batam",
+        "address": "Jl. Gajah Mada Kav.I Baloi",
+        "phone": "0778431777",
+        "available_beds": [
+          {
+            "available": 29,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kepulauan Riau",
+    "city": "Kota Tanjung Pinang",
+    "hospitals": [
+      {
+        "id": "2072012",
+        "name": "RS Umum Daerah Kota Tanjung Pinang",
+        "address": "Jl. Sudirman 795,Tanjungpinang",
+        "phone": "077121733",
+        "available_beds": [
+          {
+            "available": 20,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 7 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DKI Jakarta",
+    "city": "Kota Jakarta Selatan",
+    "hospitals": [
+      {
+        "id": "3171574",
+        "name": "RS Umum Prikasih",
+        "address": "Jl. RS Fatmawati Raya No. 74, Pondok Labu, Cilandak",
+        "phone": "0217504669",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Mawar",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171781",
+        "name": "RS Muhammadiyah Taman Puring",
+        "address": "Jl. Gandaria 1 No.20, RT.1/RW.2, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang INAYAH",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171782",
+        "name": "RS Umum Andhika",
+        "address": "Jl. Warung Sila No. 8, RT.06/RW.04, Gudang Baru Ciganjur, Jagakarsa Jakarta Selatan",
+        "phone": "089699999796",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK 101 EDELWEISS 101 EDELWEISS 102 MAWAR 101 MAWAR 102 LILY 101 LILY 102",
+            "info": "Diupdate 1 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171790",
+        "name": "RS Umum Daerah Tebet",
+        "address": "Jl. Prof. Dr. Soepomo, SH. No. 54, Tebet, Jakarta Selatan",
+        "phone": "0218314955",
+        "available_beds": [
+          {
+            "available": 40,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang KELAS III",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171793",
+        "name": "RS Umum Daerah Mampang Prapatan",
+        "address": "Jl. Kapten P. Tendean No. 9A Jakarta Selatan",
+        "phone": "0217971115",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang MELATI BAYI",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171800",
+        "name": "RS Umum Daerah Jati Padang",
+        "address": "Jl. Raya Ragunan No. 16 dan 17, Kelurahan Pasar Minggu, Kecamatan Pasar Minggu, Kota Administrasi Jakarta Selatan, Provinsi DKI Jakarta. Kode pos 12520",
+        "phone": "02122784477",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang RAWAT INAP LANTAI 4",
+            "info": "Diupdate 9 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171801",
+        "name": "RS Umum Daerah Kebayoran Baru",
+        "address": "Jl. Abdul Majid No 28, Kelurahan Cipete Utara, Kecamatan Kebayoran Baru, Kota Administrasi Jakarta S",
+        "phone": "02122774469",
+        "available_beds": [
+          {
+            "available": 17,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang Rawat Inap Kelas III",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3171803",
+        "name": "RS Umum Daerah Kebayoran Lama",
+        "address": "Jl. Jatayu RT. 001 RW. 012 Kelurahan Kebayoran Lama Selatan Kecamatan Kebayoran Lama Jakarta Selatan",
+        "phone": "02127939067",
+        "available_beds": [
+          {
+            "available": 26,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang Rawat Inap Kelas III",
+            "info": "Diupdate 9 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DKI Jakarta",
+    "city": "Kota Jakarta Timur",
+    "hospitals": [
+      {
+        "id": "3172013",
+        "name": "RSUP Persahabatan",
+        "address": "Jl. Persahabatan Raya No. 1, Jakarta Timur",
+        "phone": "089638516606",
+        "available_beds": [
+          {
+            "available": 50,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3172126",
+        "name": "RS Umum Daerah Pasar Rebo",
+        "address": "Jl. TB Simatupang No.30",
+        "phone": "085880466933",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DELIMA",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3172243",
+        "name": "RS Umum Hermina Jatinegara",
+        "address": "Jl. Jatinegara Barat 126, Jakarta Timur",
+        "phone": "0218191223",
+        "available_beds": [
+          {
+            "available": 25,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 50",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3172553",
+        "name": "RS Umum Harapan Bunda",
+        "address": "Jl. Raya Bogor Km.22 No.44 Jakarta Timur",
+        "phone": "0218400257",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Tulip",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3172749",
+        "name": "RS Pusat Otak Nasional Prof DR. dr. Mahar Mardjono",
+        "address": "Jl. MT Haryono Kav. 11 Kel. Cawang Kec. Kramat Jati",
+        "phone": "02122040055",
+        "available_beds": [
+          {
+            "available": 14,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang R3",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3172756",
+        "name": "RS Ibu dan Anak SamMarie Basra",
+        "address": "Jl. Basuki Rachmat No. 31 Pondok Bambu, Kota Administrasi Jakarta Timur, Provinsi DKI Jakarta",
+        "phone": "02186613145",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3172761",
+        "name": "RS Umum Daerah Kramat Jati",
+        "address": "Jln. Raya Inpres No. 48",
+        "phone": "02187791352",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RAWAT INAP NON ISOLASI",
+            "info": "Diupdate 9 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DKI Jakarta",
+    "city": "Kota Jakarta Pusat",
+    "hospitals": [
+      {
+        "id": "3173014",
+        "name": "RSUPN Dr. Cipto Mangunkusumo",
+        "address": "Jl. Diponegoro 71 Jakarta Pusat",
+        "phone": "0213924268",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 29 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3173062",
+        "name": "RS Primaya PGI Cikini",
+        "address": "Jl. Raden Saleh No. 40 Jakpus",
+        "phone": "02138997777",
+        "available_beds": [
+          {
+            "available": 32,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang BANGSAL E, BANGSAL F,  BANGSAL G, BANGSAL K, BANGSAL , BANGSAL M3",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3173441",
+        "name": "RS Umum Primaya Evasari Hospital",
+        "address": "Jl. Rawamangun No. 47, Rawasari, Cempaka Putih, Jakarta Pusat",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Tulip",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3173474",
+        "name": "RS Umum Pertamina Jaya",
+        "address": "Jl. A. Yani No. 2 By Pass Jakarta Pusat",
+        "phone": "081285864999",
+        "available_beds": [
+          {
+            "available": -5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DELUXE PLUS",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3173645",
+        "name": "RS Menteng Mitra Afia",
+        "address": "Jl. Kalipasir No.9 Kel. Kebon Sirih, Kec. Menteng, Jakarta Pusat",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang A02",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3173700",
+        "name": "RS Umum Daerah Cempaka Putih",
+        "address": "Jl.Rawasari Selatan No1",
+        "phone": "088211510697",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang EDELWEIS",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3173705",
+        "name": "RS Umum Daerah Tanah Abang",
+        "address": "Jalan K.H. Mas Mansyur No. 30 Kelurahan Kebon Kacang Kecamatan Tanah Abang, Jakarta Pusat 10240",
+        "phone": "081585212731",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang ANGGREK",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DKI Jakarta",
+    "city": "Kota Jakarta Barat",
+    "hospitals": [
+      {
+        "id": "3174063",
+        "name": "RS Kanker Dharmais",
+        "address": "Jl. S Parman Kav.84-86 Slipi Jakarta Barat",
+        "phone": "081318238366",
+        "available_beds": [
+          {
+            "available": 15,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang kelas 1",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3174260",
+        "name": "RS Anak dan Bunda Harapan Kita",
+        "address": "Jl. Let.Jend. S Parman Kav. 87 Slipi Jakbar",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perawatan Bunda - Kenanga",
+            "info": "Diupdate 29 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3174282",
+        "name": "RS Jantung dan Pembuluh Darah Harapan Kita",
+        "address": "Jl. S. Parman Kav 87, Slipi",
+        "phone": "0215682424",
+        "available_beds": [
+          {
+            "available": 19,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Rwt Dws (Lt.5),Rwt Anak (Lt.7) , Rawat Bedah (Lt.4)",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3174351",
+        "name": "RS Umum Siloam Hospitals Kebon Jeruk",
+        "address": "Jl. Perjuangan Raya Kav.8 Jakarta Barat",
+        "phone": "081585340200",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Sinai",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DKI Jakarta",
+    "city": "Kota Jakarta Utara",
+    "hospitals": [
+      {
+        "id": "3175413",
+        "name": "RS Umum Daerah  Pademangan",
+        "address": "Jl. Budi Mulia Raya No.2 Pademangan Barat",
+        "phone": "081317895868",
+        "available_beds": [
+          {
+            "available": 25,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang RUANG PERAWATAN NON COVID",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Bogor",
+    "hospitals": [
+      {
+        "id": "3201024",
+        "name": "RS Paru Dr. M. Goenawan Partowidigdo",
+        "address": "Jl. Raya Puncak KM.83, Po Box 28 Cisarua Bogor 16750",
+        "phone": "02518253630",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang TANJUNG MELATI KC PIRING ANGGREK",
+            "info": "Diupdate 26 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201083",
+        "name": "RS Umum Daerah Leuwiliang",
+        "address": "Jl. Raya Cibeber - Leuwiliang Bogor",
+        "phone": "02518643490",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lily 2",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201130",
+        "name": "RS Ibu dan Anak Citra Insani",
+        "address": "Jl. Raya Parung No.242 Lebakwangi, Pemagarsari - Bogor",
+        "phone": "08111111900",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 6",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201150",
+        "name": "RS Umum Family Medical Center",
+        "address": "Jl. Raya Bogor Km.51 Ciluar, Bogor",
+        "phone": "02518665000",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DIAMOND, RUANG",
+            "info": "Diupdate 3 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201231",
+        "name": "RS Sentosa",
+        "address": "Jl. Raya Kemang No. 18 Desa Pondok Udik Kec. Kemang Kab. Bogor",
+        "phone": "02517541900",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Dahlia",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201232",
+        "name": "RS Umum Daerah Cileungsi",
+        "address": "Jl. Raya Cileungsi - Jonggol KM. 10 Cipeucang, Kecamatan Cileungsi",
+        "phone": "02189934668",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang GLADIOL",
+            "info": "Diupdate 29 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Sukabumi",
+    "hospitals": [
+      {
+        "id": "3202086",
+        "name": "RS Umum Kartika Cibadak",
+        "address": "Jl. Siliwangi No.139",
+        "phone": "02667160068",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang IRNA 4B",
+            "info": "Diupdate 7 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Cianjur",
+    "hospitals": [
+      {
+        "id": "3203015",
+        "name": "RS Umum Daerah Sayang",
+        "address": "Jl. Rumah Sakit No.1 Cianjur",
+        "phone": "08112079673",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bougenville 2",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3203037",
+        "name": "RS Umum Daerah Cimacan",
+        "address": "Jl. Raya Cimacan No.17, Cianjur",
+        "phone": "02632950771",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Mawar",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Bandung",
+    "hospitals": [
+      {
+        "id": "3204086",
+        "name": "RS Umum Daerah Al Ihsan Provinsi Jawa Barat",
+        "address": "Jl. Ki Astramanggala Bale Endah Kab. Bandung",
+        "phone": "02287799430",
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang R. SALMAN AL FARIZI LEVEL 2 INFEKSI KELAS 3",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3204134",
+        "name": "RS Umum Daerah Kesehatan Kerja",
+        "address": "Jl. Raya Rancaekek KM. 27 NO. 612 Desa Nanjungmekar Kec. Rancaekek",
+        "phone": "0227798778",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perawatan Umum Kelas I",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3204168",
+        "name": "RS Oetomo",
+        "address": "Jl. Raya Bojongsoang No. 156 RT. 003 RW. 002 Desa Lengkong Kec. Bojongsoang",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ONYX",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Garut",
+    "hospitals": [
+      {
+        "id": "3205023",
+        "name": "RS Umum Nurhayati Garut",
+        "address": "Jl. Jendral Sudirman No. 6",
+        "phone": "0262238966",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RAJAWALI",
+            "info": "Diupdate 17 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Ciamis",
+    "hospitals": [
+      {
+        "id": "3207059",
+        "name": "RS Khusus Orthopedi RSOP Ciamis",
+        "address": "Jl. Raya Ciamis Banjar KM 7 No. 341 RT 16 RW 06 Desa Cijeungjing Kec Cijeungjing",
+        "phone": "02657600450",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 2",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kuningan",
+    "hospitals": [
+      {
+        "id": "3208035",
+        "name": "RS Umum Sekar Kamulyan",
+        "address": "Jl. Rumah Sakit No. 28 Kec.  Cigugur Kab. Kuningan",
+        "phone": "0232873206",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DAUD",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3208046",
+        "name": "RS Umum Juanda",
+        "address": "Jl. Ir. H. Juanda No. 207 RT.006 RW.002 Kel.Purwawinangun  Kec.Kuningan Kab.Kuningan Propinsi.Jawabarat",
+        "phone": "0232876433",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang NEMO RPA",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3208059",
+        "name": "RS Umum Daerah Linggajati Kuningan",
+        "address": "Jln. Raya Bandorasa Wetan - Cilimus No.36 Kec.Cilimus  Kab. Kuningan",
+        "phone": "0232614884",
+        "available_beds": [
+          {
+            "available": 13,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3208061",
+        "name": "RS Jantung Hasna Medika Kuningan",
+        "address": "Jl. Raya Cigugur Lingkungan Manis RT. 030 RW. 011 Kecamatan Cigugur",
+        "phone": "02328611111",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang BOUGENVILLE",
+            "info": "Diupdate 2 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Cirebon",
+    "hospitals": [
+      {
+        "id": "3209014",
+        "name": "RS Umum Daerah Waled",
+        "address": "Jl. Prabu Kiansantang No. 4 Waled, Cirebon",
+        "phone": "0231661275",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang NUSA INDAH",
+            "info": "Diupdate 39 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3209025",
+        "name": "RS Pertamina Cirebon",
+        "address": "Jl. Patra Raya Klayan No 1 Cirebon",
+        "phone": "08112433338",
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang TULIP, FLAMBOYAN, SAKURA",
+            "info": "Diupdate 16 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3209051",
+        "name": "RS Umum Mitra Plumbon",
+        "address": "Jl. Raya Plumbon Km.11 Cirebon",
+        "phone": "0231323100",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RANAP 1-DELUXE-109",
+            "info": "Diupdate 14 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3274136",
+        "name": "RS Jantung Hasna Medika",
+        "address": "Jl. Raden Gilap No 8 Palimanan, Kabupaten Cirebon",
+        "phone": "0231343405",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang CAMELIA 3",
+            "info": "Diupdate 28 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Majalengka",
+    "hospitals": [
+      {
+        "id": "3210014",
+        "name": "RS Umum Daerah Majalengka",
+        "address": "Jl. Kesehatan No.77 Majalengka",
+        "phone": "0233281043",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Dahlia",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3210036",
+        "name": "RS Bedah Budi Kasih",
+        "address": "Jl. Raya Siliwangi Panyingkiran Km.7 No.84 Kel. Karyamukti Kec. Panyingkiran Kab. Majalengka Prov. Jawa Barat",
+        "phone": "02338665509",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Perawatan Kelas 1",
+            "info": "Diupdate 15 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3210037",
+        "name": "RS Mitra Plumbon Majalengka",
+        "address": "Jl. Raya Barat Pasar Prapatan No. 109  Desa Panjalin Kidul \nKec. Sumberjaya , Kab. Majalengka 45455",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RANAP 1-DELUXE-105",
+            "info": "Diupdate 29 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Indramayu",
+    "hospitals": [
+      {
+        "id": "3212071",
+        "name": "RS Islam Zam-Zam Muhammadiyah Jatibarang",
+        "address": "Jl. Raya Letnan Joni 1231, Jatibarang, Indramayu",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang HASAN  (1A)",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Purwakarta",
+    "hospitals": [
+      {
+        "id": "3214036",
+        "name": "RS Ibu dan Anak Dian",
+        "address": "Jl. Raya Cibogo Hilir Kec. Plered Kab. Purwakarta",
+        "phone": "087812653989",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 1 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3214038",
+        "name": "RS Umum Bhakti Husada II Purwakarta",
+        "address": "Jl. Raya Sadang-Subang KM 5 RT 01/01 Cikumpay Campaka Purwakarta",
+        "phone": "02648225255",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ARJUNA",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Karawang",
+    "hospitals": [
+      {
+        "id": "3215012",
+        "name": "RS Umum Daerah Karawang",
+        "address": "Jl. Galuh Mas Raya No.1, Sukaharja, Teluk Jambe, Karawang",
+        "phone": "0267640118",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RAWAMERTA 147",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3215045",
+        "name": "RS Umum Dewi Sri",
+        "address": "Jl. Arif Rahman Hakim No. 1 A Karawang",
+        "phone": "0267402855",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anggrek | Dahlia | Mawar | Melati | Paviliun dr. H. Yunanto | Paviliun H. Yati | Tulip",
+            "info": "Diupdate 9 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3215100",
+        "name": "RS Umum Delima Asih Sisma Medika",
+        "address": "Jl. Wirasaba No.54, Johar - Karawang",
+        "phone": "0267403073",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAWAR VI",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3215123",
+        "name": "RS Umum Citra Sari Husada",
+        "address": "Jl. Raya Kosambi -Telaga Sari Km.3 Klari, Karawang",
+        "phone": "02678617972",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Mawar",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3215160",
+        "name": "RS Umum Puri Asih",
+        "address": "Jl. Raya Jatisari No. 3 Jatisari Karawang",
+        "phone": "0264361459",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang Perinatologi",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Bekasi",
+    "hospitals": [
+      {
+        "id": "3216152",
+        "name": "Siloam Hospitals Lippo Cikarang",
+        "address": "Jl. MH Thamrin Kav.105 Bekasi",
+        "phone": "02129636911",
+        "available_beds": [
+          {
+            "available": 18,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Fortune",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216387",
+        "name": "RS Umum Dokter Adam Talib",
+        "address": "JL. TEUKU UMAR NO. 25 CIKARANG BARAT",
+        "phone": "082112767778",
+        "available_beds": [
+          {
+            "available": 23,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang PLATINUM",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216388",
+        "name": "RS Umum Cibitung Medika",
+        "address": "Jl. H. Bosih No.117 Cibitung Kabupaten Bekasi",
+        "phone": "02188323444",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RANAP 1-DELUXE-107",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216397",
+        "name": "RS Umum Asri Medika",
+        "address": "Jl. Citanduy Raya L 11 No 1, Simpangan, Cikarang Utara, Kab Bekasi, Jawa Barat",
+        "phone": "0218914296869",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 206",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216399",
+        "name": "RS Mitra Medika Narom",
+        "address": "Jl. Raya Jatiwangi Ds. Cikedokan  001/001 Cikarang Barat, Kab. Bekasi Jawa Barat",
+        "phone": "02189983741",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang SAKURA",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216400",
+        "name": "RS Uni Medika Setu Bekasi",
+        "address": "Jl. Raya setu No.99 Desa Lubang Buaya Kec. Setu",
+        "phone": "085891000553",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang C3",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216408",
+        "name": "RS Umum Harapan Mulia",
+        "address": "Jl. Raya Cibarusah No. 5 Kebon Kopi Cibarusah Kelurahan Cibarusah Jaya, Kecamatan Cibarusah, Kabupaten Bekasi, Jawa Barat",
+        "phone": "02189952340",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "id": "3216413",
+        "name": "RS Umum Kartika Husada Setu",
+        "address": "Jl. Raya Burangkeng Desa Burangkeng Rt. 001 Rw.06 Kec. Setu",
+        "phone": "02182610003",
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 114, 218, 206, 219, 205, 220,",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216439",
+        "name": "RS Umum Dr. Iqbali Taufan",
+        "address": "Villa Mutiara Cikarang 2 Blok. E3 No.16-20 Sukasejati Kec. Cikarang Selatan Kab. Bekasi",
+        "phone": "081383215660",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 209",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216441",
+        "name": "RS Umum Permata Keluarga Jababeka",
+        "address": "Jl. DR. Cipto Mangunkusumo Blok A Nomor  1 A Medical City Kota Jababeka",
+        "phone": "082112722965",
+        "available_beds": [
+          {
+            "available": 20,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 202,301,302,303,304,501,502,503,504,505,506,507,514,515,517,518,604,605,606,607,608",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3216450",
+        "name": "RS Eka Bekasi",
+        "address": "Kota Harapan Indah Blok i2-9 No. 9",
+        "phone": "02150935577",
+        "available_beds": [
+          {
+            "available": 20,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas 1",
+            "info": "Diupdate 17 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3275054",
+        "name": "RS Umum As-Shofwan",
+        "address": "Jl. Raya Karawang - Bekasi km.30 Ds. Bojongsari, Kec. Kedungwaringin.",
+        "phone": "02189141890",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK 2",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Bandung Barat",
+    "hospitals": [
+      {
+        "id": "3217006",
+        "name": "RS Umum IMC",
+        "address": "Jl. Raya Cimareme RT. 01 RW. 02 Ds Cimareme Kec Ngamprah Kab Bandung Barat",
+        "phone": "0226620923",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang Kelas II",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3217121",
+        "name": "RS Umum Cahya Kawaluyan",
+        "address": "Jl. Parahyangan KM. 3 - Kota Baru Parahyangan Kec. Padalarang KBB",
+        "phone": "0226803700",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Pangandaran",
+    "hospitals": [
+      {
+        "id": "3218001",
+        "name": "RS Umum Daerah Pandega Pangandaran",
+        "address": "Jl. Merdeka No. 412 Desa Pananjung Kec.Pangandaran Kab. Pangandaran",
+        "phone": "02657503045",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Bogor",
+    "hospitals": [
+      {
+        "id": "3201236",
+        "name": "RS Umum Medika Dramaga",
+        "address": "Jl. Raya Dramaga Km.7,3 Margajaya-Bogor Barat-Kota Bogor",
+        "phone": "02518308900",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RINJANI KELAS 1",
+            "info": "Diupdate 2 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201246",
+        "name": "RS Ibu dan Anak Bunda Suryatni",
+        "address": "Jl. KH. Sholeh Iskandar No,21 Tanah Sareal Kota Bogor",
+        "phone": "02517535976",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas 1",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201251",
+        "name": "RS Umum Siloam Hospitals Bogor",
+        "address": "Jl. Pajajaran No. 27 Bogor Tengah, Kota Bogor",
+        "phone": "02518303900",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Deluxe A",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3271046",
+        "name": "RS Jiwa dr. H. Marzoeki Mahdi",
+        "address": "Jl. dr. Sumeru No.114 Kota Bogor",
+        "phone": "8310611",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bisma Anak - I - IRNA UMUM",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3271072",
+        "name": "RS Umum Azra",
+        "address": "Jl. Raya Pajajaran No.219, Bogor Utara Kota Bogor",
+        "phone": "02518318456",
+        "available_beds": [
+          {
+            "available": 20,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang B",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3271104",
+        "name": "RS Umum Daerah Kota Bogor",
+        "address": "Jl. DR. Sumeru No.120, Kota Bogor, Jawa Barat",
+        "phone": "02518312292",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Tulip",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3271115",
+        "name": "RS Umum Hermina Bogor",
+        "address": "Jl. Ring Road I Kav. 23,25,27 Perum Taman Yasmin Bogor",
+        "phone": "02518382525",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3271161",
+        "name": "RS Umum Melania",
+        "address": "Jl. Pahlawan No.91, Kota Bogor",
+        "phone": "02518321196",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas 1",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Bandung",
+    "hospitals": [
+      {
+        "id": "3204129",
+        "name": "RS Ibu dan Anak Grha Bunda",
+        "address": "Jl. Terusan Jakarta No. 15-17 Kec. Kiaracondong kota Bandung",
+        "phone": "02287256789",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Umum",
+            "info": "Diupdate 16 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273015",
+        "name": "RS Umum Pusat Dr. Hasan Sadikin",
+        "address": "Jl. Pasteur No. 38 Bandung",
+        "phone": "0222551189",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KENANGA 2",
+            "info": "Diupdate 1 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273052",
+        "name": "RS Umum Immanuel Bandung",
+        "address": "Jl. Kopo 161 Bandung",
+        "phone": "081312620066",
+        "available_beds": [
+          {
+            "available": 14,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Alkema 4, Alkema 5, Alkema  7 , Alkema 8 ,Petra , LCB,  Lukas, Magdalena, Debora",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273096",
+        "name": "RS Umum Pindad",
+        "address": "Jl. Gatot Soebroto No. 517 Kel. Sukapura Kec. Kiaracondong",
+        "phone": "0227322877",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273145",
+        "name": "RS Umum Hermina Arcamanik",
+        "address": "Jl. A.H. Nasution No. 50 Antapani Kota Bandung",
+        "phone": "02287242525",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Rawat Inap Obsgyn, Rawat Inap Anak, Rawat Inap Umum",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273165",
+        "name": "RS Ibu dan Anak Limijati",
+        "address": "Jl. LLRE. Martadinata No. 39 Kota Bandung",
+        "phone": "0224207770",
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 25",
+            "info": "Diupdate 16 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273176",
+        "name": "RS Umum Tk. IV 03.07.03 Sariningsih",
+        "address": "Jl. L. L. R.E. Martadinata No.09, Kel.Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MELATI",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273260",
+        "name": "RS Umum Daerah Bandung Kiwari",
+        "address": "Jl. KH. Wahid Hasyim No. 311 Bandung",
+        "phone": "02286037777",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Ranap Rara Santang",
+            "info": "Diupdate 3 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273528",
+        "name": "RS Ibu dan Anak Melinda ",
+        "address": "Jl. Pajajaran No.46 Kel Pasirkaliki, Kec. Cicendo, Kota Bandung",
+        "phone": "0224222788",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 112 dan 307",
+            "info": "Diupdate 16 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273539",
+        "name": "RS Umum Hermina Pasteur ",
+        "address": "Jl. Dr. Djundjunan No.107 Kota Bandung",
+        "phone": "0226072525",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang keperawatan",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273541",
+        "name": "RS Ibu dan Anak Harapan Bunda Bandung",
+        "address": "Jl. Pluto Raya Blok C Margahayu Raya, Buah Batu, Kota Bandung",
+        "phone": "0227506490",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 37 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273546",
+        "name": "RS Ibu dan Anak Al Islam ",
+        "address": "Jl. Awibitung No. 29-31 Kelurahan Cicadas Kecamatan Cibeunying Kidul",
+        "phone": "0227208284",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3273559",
+        "name": "RS Umum Mayapada Hospital Bandung",
+        "address": "Jl. Terusan Buah Batu No. 05 002/004 Batununggal",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Executive",
+            "info": "Diupdate 16 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Cirebon",
+    "hospitals": [
+      {
+        "id": "3274020",
+        "name": "RS Umum Tk. III Ciremai",
+        "address": "Jl. Kesambi No. 237 Cirebon",
+        "phone": "0231238335",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KENCANA,KARTIKA,YUDHA,PUSPA,WIDYA,CHANDRA",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Bekasi",
+    "hospitals": [
+      {
+        "id": "3275052",
+        "name": "RS Umum Juwita",
+        "address": "Jl. M. Hasibuan No.78, Bekasi Timur",
+        "phone": "0218829590",
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang JAMRUD",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3275060",
+        "name": "RS Umum Satria Medika",
+        "address": "Jl. Raya Bantar Gebang Setu No 119 Kel Padurenan Kec Mustika Jaya",
+        "phone": "021222105678",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang PINUS",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3275066",
+        "name": "RS Umum Daerah Jatisampurna",
+        "address": "Jl. Raya Pasar Kranggan No. 26 RT 01 RW 04 Kelurahan Jatisampurna Kecamatan Jatisampurna Kota Bekasi Provinsi Jawa Barat 17433",
+        "phone": "081389977722",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 201",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3275196",
+        "name": "RS Umum Bella",
+        "address": "Jl. Ir. H .Juanda No. 141, Bekasi",
+        "phone": "0218801778",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 208,210,303,309,310,403,404",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3275274",
+        "name": "RS Umum Jati Sampurna",
+        "address": "Jl. Rawa Dolar RT. 003 RW. 007 Kel. Jatiraden Kec. Jatisampurna",
+        "phone": "0218451457",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUANG EBONI LT3",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Depok",
+    "hospitals": [
+      {
+        "id": "3201061",
+        "name": "RS Umum Tugu Ibu",
+        "address": "Jl. Raya Bogor Km 29 Cimanggis - Depok",
+        "phone": "0218708268",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Babusalam",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201141",
+        "name": "RS Ibu dan Anak Tumbuh Kembang",
+        "address": "Jl. Raya Bogor Km.31 No.23 Cimanggis Kota Depok",
+        "phone": "0218701873",
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 10",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3201256",
+        "name": "RS Universitas Indonesia",
+        "address": "Jl. Prof. Dr. Bahder Djohan, Kampus Universitas Indonesia Depok",
+        "phone": "02150829282",
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 24",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3276124",
+        "name": "RS Umum Daerah Khidmat Sehat Afiat Kota Depok",
+        "address": "Jl. Raya Muchtar No. 99 Sawangan",
+        "phone": "082298661201",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ASOKA 703-706, AMARYLIS 603-606, ASTER 802 - 806",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3276135",
+        "name": "RS Umum Simpangan Depok",
+        "address": "Jl. Raya Bogor Km.36 , Kel. Sukamaju, Kec. Cilodong, Depok 16414, Jawa Barat",
+        "phone": "0218741549",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kenanga 2, Kenanga 4, Kenanga 5, Kenanga 6,Anggrek 4",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Tasikmalaya",
+    "hospitals": [
+      {
+        "id": "3206011",
+        "name": "RS Umum Daerah dr. Soekardjo",
+        "address": "Jl. Rumah Sakit 33 Tasikmalaya",
+        "phone": "0265331683",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kenanga",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3206070",
+        "name": "RS Umum Jasa Kartini",
+        "address": "Jalan Otto Iskandardinata No. 15 Kel. Empangsari Kec. Tawang Kota Tasikmalaya",
+        "phone": "08112163983",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 1A,2A,2B,3A,3C,4C,GK 3,GK 4",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3278014",
+        "name": "RS Umum Tasik Medika Citratama (TMC)",
+        "address": "Jl. K.H.Z. Mustofa No. 310 Kel. Tuguraja Kec. Cihideung",
+        "phone": "0265323555",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 3A,5A,5B,6C",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3278015",
+        "name": "RS Ibu dan Anak Ummi",
+        "address": "Jl. Paseh No. 10 Tuguraja Cihideung Kota Tasikmalaya",
+        "phone": "085322726133",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang I/H",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Barat",
+    "city": "Kota Banjar",
+    "hospitals": [
+      {
+        "id": "3207023",
+        "name": "RS Umum Daerah Banjar",
+        "address": "Jl. Rumah Sakit No. 5 Kota Banjar",
+        "phone": "0265744242",
+        "available_beds": [
+          {
+            "available": 35,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bougenvile. Kenanga,Melati, Anggrek, Dahlia,Flamboyan, Aster, Kemuning,",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Cilacap",
+    "hospitals": [
+      {
+        "id": "3301014",
+        "name": "RS Umum Daerah Cilacap",
+        "address": "Jl. Gatot Subroto 28 Cilacap RT 04 / RW 05 Kel. Sidanegara Kec. Cilacap Tengah Kab. Cilacap",
+        "phone": "0282533010",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 34 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3301036",
+        "name": "RS Umum Pertamina Cilacap",
+        "address": "Jl. Dr. Setiabudi No.1 Tegal Kamulyan, Cilacap Selatan, Cilacap",
+        "phone": "0282509922",
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUANG",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3301073",
+        "name": "RS Umum Islam Fatimah",
+        "address": "Jl. Ir.H.Juanda No.20 Cilacap",
+        "phone": "0282542396",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ARAFAH 4",
+            "info": "Diupdate 31 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3301095",
+        "name": "RS Ibu dan Anak Annisa",
+        "address": "Jl. Gatot Subroto 31 A Cilacap",
+        "phone": "0282533550",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 2 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3301108",
+        "name": "RS Umum Aghisna Medika Kroya",
+        "address": "Jl. Yos Sudarso No. 1 Karangmangu Kroya",
+        "phone": "0282492260",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 3 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Banyumas",
+    "hospitals": [
+      {
+        "id": "3302015",
+        "name": "RS umum Daerah Banyumas",
+        "address": "Jl. Rumah Sakit No.1 Banyumas",
+        "phone": "0281796031",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KAMAR BERSALIN",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3302074",
+        "name": "RS Umum An Ni'mah",
+        "address": "Jalan Raya Klapagading Kulon Rt 01 Rw 14 Kec Wangon - Banyumas",
+        "phone": "02815700170",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3302121",
+        "name": "RS Umum Amanah",
+        "address": "Jl Raya Kebokura No.37 Kec Sumpiuh Kab Banyumas",
+        "phone": "0282497548",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "id": "3302191",
+        "name": "RS Umum Daerah Ajibarang",
+        "address": "Jl. Raya Pancasan No.1,Ajibarang Banyumas",
+        "phone": "02816570004",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang CENDRAWASIH BAWAH",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Purbalingga",
+    "hospitals": [
+      {
+        "id": "3303016",
+        "name": "RS Umum Daerah dr. R. Goeteng Taroenadibrata",
+        "address": "Jl. Tentara Pelajar Purbalingga No. 22",
+        "phone": "0281891016",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MENUR",
+            "info": "Diupdate 25 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3303075",
+        "name": "RS Umum Harapan Ibu",
+        "address": "Jl. May.Jend.Soengkono KM.1,Kec. Kalimanah, Purbalingga dan JL. Soekarno Hatta No.02 Kec. Kalimanah",
+        "phone": "0281892222",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kamila Atas",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3303099",
+        "name": "RS Ibu dan Anak Ummu Hani",
+        "address": "Jl. D I Panjaitan No 40 A Purbalingga Jawa Tengah",
+        "phone": "0281891373",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MARWAH 8,9,10",
+            "info": "Diupdate 8 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kebumen",
+    "hospitals": [
+      {
+        "id": "3305033",
+        "name": "RS Umum Palang Biru Gombong",
+        "address": "Jl. Yos Sudarso Timur Desa Kedungpuji Gombong",
+        "phone": "0287471290",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lukas Lantai 2",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Boyolali",
+    "hospitals": [
+      {
+        "id": "3309085",
+        "name": "RS Umum  Karanggede Sisma Medika",
+        "address": "Jl. Raya Karanggede - Solo KM.1, Boyolali",
+        "phone": "0298610600",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 6",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3309136",
+        "name": "RS Umum Islam Boyolali",
+        "address": "Jl. Raya Boyolali Klaten Kemiri Mojosongo",
+        "phone": "(0276)3282158",
+        "available_beds": [
+          {
+            "available": -1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUANG ANAK, RUANG MATERNAL, RUANG BEDAH, RUANG MEDIKAL",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Klaten",
+    "hospitals": [
+      {
+        "id": "3310015",
+        "name": "RS Umum Pusat Dr. Soeradji Tirtonegoro",
+        "address": "Jl. KRT. Suraji Tirtonegoro No.1, Klaten",
+        "phone": "0272321020",
+        "available_beds": [
+          {
+            "available": -40,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUANG DAHLIA IV, RUANG MELATI 1, RUANG DAHLIA II, RUANG LILY II (KENANGA)",
+            "info": "Diupdate 21 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3310395",
+        "name": "RS Umum Cakra Husada",
+        "address": "Jl. Merbabu No. 7 Klaten",
+        "phone": "0272321123",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAHESWARI Kelas I",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3310405",
+        "name": "RS Khusus Bedah Diponegoro",
+        "address": "Jl. Diponegoro No.21 Klaten",
+        "phone": "0272325127",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Pisang Ambon 1, Pisang Ambon 2",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3310416",
+        "name": "RS Umum PKU Muhammadiyah Delanggu",
+        "address": "Jl. Raya Delanggu Utara No. 19 Desa/Kel. Gatak Kec. Delanggu Kab. Klaten",
+        "phone": "0272551051",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 47 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3310417",
+        "name": "RS Umum Islam Cawas Klaten",
+        "address": "Jl. Raya Tugu - Cawas, Kelurahan Tugu, Kecamatan Cawas, Kabupaten Klaten, Provinsi Jawa Tengah. 57463",
+        "phone": "02723359222",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ALI BIN ABI THOLIB - KL1",
+            "info": "Diupdate 6 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Sukoharjo",
+    "hospitals": [
+      {
+        "id": "3311016",
+        "name": "RS Umum Daerah Ir. Soekarno Kabupaten Sukoharjo",
+        "address": "Jl. Dr. Muwardi 71, Sukoharjo",
+        "phone": "0271593118",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang EDELWEIS",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3311027",
+        "name": "RS Khusus Orthopedi Karima Utama",
+        "address": "Jl. Amarta 8-10 Ngabeyan Kartasura, Sukoharjo - Jawa Tengah",
+        "phone": "0271783331",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 7 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3311225",
+        "name": "RS Umum PKU Muhammadiyah Sukoharjo",
+        "address": "Jl. Mayor Sunaryo No. 37 Gawanan, Kelurahan Sukoharjo, Kecamatan Sukoharjo, Kabupaten Sukoharjo, Provinsi Jawa Tengah",
+        "phone": "0271593979",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3311228",
+        "name": "RS Umum Universitas Sebelas Maret",
+        "address": "Jl. Ahmad Yani 200 Makamhaji Kartasura Sukoharjo",
+        "phone": "02716775000",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 14 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372063",
+        "name": "RS Orthopedi Prof. Dr. R. Soeharso",
+        "address": "Jl. Jenderal Ahmad Yani Pabelan, Surakarta 57162",
+        "phone": "0271718079",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Cempaka",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Wonogiri",
+    "hospitals": [
+      {
+        "id": "3312021",
+        "name": "RS Umum Maguan Husada",
+        "address": "Jl. Raya Pracimantoro-Giribelah Km.6  Suci, Kec. Pracimantoro, Kab. Wonogiri, Provinsi Jawa Tengah",
+        "phone": "081329534400",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3312284",
+        "name": "RS Umum Muhammadiyah Selogiri",
+        "address": "Jl. Lama Bulak, RT.02, RW.04 Desa Nambangan Selogiri, Wonogiri",
+        "phone": "0273322624",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 26 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Karanganyar",
+    "hospitals": [
+      {
+        "id": "3313011",
+        "name": "RS Umum Daerah Karanganyar",
+        "address": "Jl. Laksda Yos Sudarso Karanganyar",
+        "phone": "0271495673/495025 ext 118",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang CEMPAKA 2",
+            "info": "Diupdate 21 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3313042",
+        "name": "RS Ibu dan Anak Dian Pertiwi ",
+        "address": "Jl. Lawu Papahan, Tasikmadu Karanganyar",
+        "phone": "0271494829",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang MAWAR III",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Sragen",
+    "hospitals": [
+      {
+        "id": "3314056",
+        "name": "RS Umum Islam Amal Sehat Sragen",
+        "address": "Jl. Veteran No.35, Sragen, Jawa Tengah",
+        "phone": "0271891977",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AL-KAUSAR",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3314090",
+        "name": "RS Umum PKU Muhammadiyah Sragen ",
+        "address": "Jl. Raya Sragen - Solo Km.8, Masaran, Sragen",
+        "phone": "0271644370",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang As syifa",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Blora",
+    "hospitals": [
+      {
+        "id": "3316014",
+        "name": "RS Umum Daerah Dr. R. Soetijono Blora",
+        "address": "Jl. Dr Sutomo No. 42,Blora Jawa Tengah",
+        "phone": "0296531118",
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 5 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3316040",
+        "name": "RS Umum Permata Blora",
+        "address": "Jl. Reksodiputro No.57,Blora",
+        "phone": "081229021229",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3316062",
+        "name": "RS Umum Bantuan Blora",
+        "address": "Jl. Dr. Sutomo No.45, Blora",
+        "phone": "0296531041",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RAJAWALI I",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3316063",
+        "name": "RS Umum PKU Muhammadiyah Blora",
+        "address": "Jl. Raya Blora-Cepu Km 3 Desa Seso Kecamatan Jepon Kabupaten Blora Provinsi Jawa Tengah",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MULTAZAM",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Rembang",
+    "hospitals": [
+      {
+        "id": "3317015",
+        "name": "RS Umum Daerah dr. R. Soetrasno Rembang",
+        "address": "Jl. Pahlawan No.16 Rembang",
+        "phone": "0295691444",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK",
+            "info": "Diupdate 40 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Pati",
+    "hospitals": [
+      {
+        "id": "3318016",
+        "name": "RS Umum Daerah RAA Soewondo",
+        "address": "Jl. Dr Soesanto  No. 114 Pati",
+        "phone": "082295005505",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang TULIP 1",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kudus",
+    "hospitals": [
+      {
+        "id": "3319032",
+        "name": "RS Umum Mardi Rahayu",
+        "address": "Jl. AKBP R Agil  Kusumadya 110,Kudus",
+        "phone": "0291434707",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang BETHESDA, EVA, STROKE UNIT, KANA",
+            "info": "Diupdate 6 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Semarang",
+    "hospitals": [
+      {
+        "id": "3322023",
+        "name": "RS Umum Daerah dr. Gondo Suwarno",
+        "address": "Jl. Diponegoro 125,Ungaran",
+        "phone": "0246921006",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang R. Rawat Umum Kelas I",
+            "info": "Diupdate 3 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Temanggung",
+    "hospitals": [
+      {
+        "id": "3323024",
+        "name": "RS Umum Ngesti Waluyo",
+        "address": "Jl. Pahlawan Parakan,Temanggung",
+        "phone": "0293596008",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bogenvil, Dahlia dan Tulip",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Batang",
+    "hospitals": [
+      {
+        "id": "3325037",
+        "name": "RS Umum Qim",
+        "address": "Jl. Urip Sumoharjo, Sambong",
+        "phone": "02854495222",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang GARUDA 407",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Pekalongan",
+    "hospitals": [
+      {
+        "id": "3326011",
+        "name": "RS Umum Daerah Kraton Kab. Pekalongan",
+        "address": "Jl. Veteran 31,Pekalongan",
+        "phone": "0285421621",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Kenanga",
+            "info": "Diupdate 31 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3326038",
+        "name": "RS Umum Daerah Kajen Kab. Pekalongan",
+        "address": "Jl. Raya Karangsari Karanganyar Kab. Pekalongan",
+        "phone": "081229355569",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MATAHARI KELAS 1",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Tegal",
+    "hospitals": [
+      {
+        "id": "3328078",
+        "name": "RS Umum Adella",
+        "address": "Jl. Prof.Moh. Yamin No.77 Slawi",
+        "phone": "0283491154",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 46 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kota Magelang",
+    "hospitals": [
+      {
+        "id": "3371025",
+        "name": "RS Umum Tk. II Dr. Soedjono",
+        "address": "Jl. Urip Soemoharjo No 48 Kelurahan Wates Kec. Magelang Utara",
+        "phone": "0293362813",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Flamboyan",
+            "info": "Diupdate 31 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3371040",
+        "name": "RS Jiwa Prof. Dr. Soerojo",
+        "address": "Jl. Jenderal Ahmad Yani 169 Magelang",
+        "phone": "0293363601",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kota Surakarta",
+    "hospitals": [
+      {
+        "id": "3372015",
+        "name": "RS Umum Daerah Dr. Moewardi Surakarta",
+        "address": "Jl. Kol Sutarto 132,Surakarta",
+        "phone": "0271642642",
+        "available_beds": [
+          {
+            "available": 69,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK III, ANGGREK II - UNIT STROKE, ASTER V, PONEK RANAP, FLAMBOYAN 6, FLAMBOYAN 7, MAWAR 3, TULIP 4, TULIP 6",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372074",
+        "name": "RS Umum Panti Waluyo",
+        "address": "Jl. Jend A Yani No.1",
+        "phone": "0271712077",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anggrek",
+            "info": "Diupdate 11 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372132",
+        "name": "RS Umum Islam Kustati",
+        "address": "Jl. Kapt. Mulyadi No.249",
+        "phone": "0271643013",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AL - ATHFAL",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372191",
+        "name": "RS Umum Triharsi",
+        "address": "Jl. Monginsidi No.82,Surakarta",
+        "phone": "02712936000",
+        "available_beds": [
+          {
+            "available": 19,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 11",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372201",
+        "name": "RS Umum Pusat Surakarta",
+        "address": "Jl. Profesor DR. Soeharso No.28, Jajar, Kec. Laweyan",
+        "phone": "0271713055",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KAMAR RI NAKULA NON INFEKSI",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372234",
+        "name": "RS Umum Daerah Ibu Fatmawati Soekarno",
+        "address": "Jl. Lettu Sumarto No. 1 Kel. Kadipiro Kec. Banjarsari",
+        "phone": "0271715700",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372236",
+        "name": "RS Umum Hermina Solo",
+        "address": "jl kolonel sutarto no 16",
+        "phone": "0271638989",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS 1",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3372241",
+        "name": "RS JIH Solo",
+        "address": "Jl. Adi Sucipto No 118 Jajar Laweyan",
+        "phone": "02717469100",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ASOKA",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kota Salatiga",
+    "hospitals": [
+      {
+        "id": "3373020",
+        "name": "RS Umum Tk. IV 04.07.03 dr. Asmir",
+        "address": "Jl. Dr Muwardi No. 50 Salatiga",
+        "phone": "0298326045",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KRISAN",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3373042",
+        "name": "RS Paru Dr. Ario Wirawan",
+        "address": "Jl. Hasanudin No.806,Salatiga",
+        "phone": "0298313514",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "id": "3373092",
+        "name": "RS Ibu dan Anak Hermina Mutiara Bunda",
+        "address": "Jl. Merak No. 8 Mangunsari Sidomukti",
+        "phone": "0298328873",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 121/ Kelas I",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kota Semarang",
+    "hospitals": [
+      {
+        "id": "3374043",
+        "name": "RS Umum Telogorejo Semarang",
+        "address": "Jl. KH. Ahmad Dahlan Semarang",
+        "phone": "02486466000",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Amaryllis dan Bougenvile",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3374080",
+        "name": "RS Roemani Muhammadiyah Semarang",
+        "address": "Jl. Wonodri No. 22 Semarang",
+        "phone": "0248444623",
+        "available_beds": [
+          {
+            "available": 13,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AYUB 1, 3 SULAIMAN 3, 4, 6",
+            "info": "Diupdate 3 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3374112",
+        "name": "RS Umum Panti Wilasa Citarum",
+        "address": "Jl. Citarum No 98 Semarang",
+        "phone": "0243542224",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Dahlia",
+            "info": "Diupdate 5 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3374134",
+        "name": "RS Umum Daerah Tugurejo Semarang",
+        "address": "Jl. WALISONGO KM 8,5 NO 137  Semarang",
+        "phone": "0247609100",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AMARYLIS 2",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3374240",
+        "name": "RS Panti Wilasa ",
+        "address": "Jl. Dr. Cipto 50, Bugangan, Semarang Timur",
+        "phone": "08156696040",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DELTA",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3374342",
+        "name": "RS Daerah KRMT Wongsonegoro",
+        "address": "Jl. Fatmawati Raya No.1",
+        "phone": "1500219",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang GATOTKACA IV",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Tengah",
+    "city": "Kota Pekalongan",
+    "hospitals": [
+      {
+        "id": "3375033",
+        "name": "RS Umum Siti Khodijah",
+        "address": "Jl. Bandung No.39-47,Pekalongan",
+        "phone": "085641000058",
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang SHOFA",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DI Yogyakarta",
+    "city": "Kulon Progo",
+    "hospitals": [
+      {
+        "id": "3401037",
+        "name": "RS Umum Rizki Amalia Medika",
+        "address": "Jl raya Brosot - Wates Km.5 Jogahan Bumirejo Lendah Kulon Progo",
+        "phone": "02747721425",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang NUSA INDAH",
+            "info": "Diupdate 26 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DI Yogyakarta",
+    "city": "Bantul",
+    "hospitals": [
+      {
+        "id": "3402016",
+        "name": "RS Umum Daerah Panembahan Senopati",
+        "address": "Jl Dr. Wahidin Sudiro Husodo Bantul",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RR. Arjuna, RR. Bisma, RR. Pergiwa/Pergiwati, RR. Nakula Sadewa, RR. Parikesit, RR. Setyaki",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3402020",
+        "name": "RS Umum Santa Elisabeth",
+        "address": "Ganjuran Sumbermulyo Bambanglipuro",
+        "phone": "02746460400",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lukas 2",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3402053",
+        "name": "RS Umum Nur Hidayah",
+        "address": "Jl Imogiri Timur Km. 11,5 Trimulyo Jetis Bantul",
+        "phone": "085100472941",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MARWA 1",
+            "info": "Diupdate 30 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3402064",
+        "name": "RS Umum Rachma Husada ",
+        "address": "Jl Parangtritis Km.16 Gerselo Patalan Jetis Bantul",
+        "phone": "02746460089",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang SULAIMAN",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3402076",
+        "name": "RS Khusus Bedah Ring Road Selatan",
+        "address": "Glugo Panggungharjo Sewon Bantul Yogyakarta",
+        "phone": "0274376115",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anggrek",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3402086",
+        "name": "RS Rajawali Citra ",
+        "address": "Jl Pleret Km.2,5, Banjardadap Potorono Banguntapan Bantul",
+        "phone": "02744435620",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Pringgodani",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DI Yogyakarta",
+    "city": "Gunung Kidul",
+    "hospitals": [
+      {
+        "id": "3403010",
+        "name": "RS Umum Daerah Wonosari",
+        "address": "Jl Taman Bakti No. 06 Wonosari",
+        "phone": "0274391007",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang WIJAYA KUSUMA",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DI Yogyakarta",
+    "city": "Sleman",
+    "hospitals": [
+      {
+        "id": "3404011",
+        "name": "RS Umum Daerah Sleman",
+        "address": "JL Bhayangkara No 48 Triharjo Sleman",
+        "phone": "0274868437ext 180",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Cempaka 1, Cempaka 3, Cempaka 4, Cendana 1",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3404183",
+        "name": "RS Umum PKU Muhammadiyah Gamping",
+        "address": "Jl. Wates KM 5,5 Gamping Sleman",
+        "phone": "02746499118",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang WARDAH",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3404191",
+        "name": "RS Universitas Ahmad Dahlan",
+        "address": "Jl Cindelaras Raya - Karangsari, Wedomartani, Ngemplak",
+        "phone": "02744477030",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 31 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "DI Yogyakarta",
+    "city": "Kota Yogyakarta",
+    "hospitals": [
+      {
+        "id": "3471041",
+        "name": "RS PKU Muhammadiyah Yogyakarta",
+        "address": "Jl K.H. Ahmad Dahlan No. 20 Ngupasan Gondomanan Yogyakarta",
+        "phone": "0274512653",
+        "available_beds": [
+          {
+            "available": 14,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Shofa; Sakinah; Ibnu Sina",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3471052",
+        "name": "RS Umum Panti Rapih",
+        "address": "Jl. Cik Di Tiro 30 Yogyakarta",
+        "phone": "0274552118",
+        "available_beds": [
+          {
+            "available": 36,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Maria, Carolus II, Carolus III, Carolus IV, Elisabeth I, Elisabeth II, Elisabeth III",
+            "info": "Diupdate 10 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3471063",
+        "name": "RS Bethesda Yogyakarta",
+        "address": "Jl Jend. Sudirman No. 70 Kotabaru Yogyakarta",
+        "phone": "0274586688",
+        "available_beds": [
+          {
+            "available": 21,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Flamboyan, Cattleya, Hibiscus,Ruang B,   Galilea 3, Galilea 2 Obsgyn, Galilea 2 Syaraf, Galilea IV",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3471096",
+        "name": "RS  Mata Dr. Yap",
+        "address": "Jl Cik Di Tiro No. 5 Yogyakarta",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Arjuna",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3471234",
+        "name": "RS Umum Daerah Kota Yogyakarta",
+        "address": "Jl Wirosaban No. 1 Yogyakarta",
+        "phone": "0274371195",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 32 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Pacitan",
+    "hospitals": [
+      {
+        "id": "3501017",
+        "name": "RSU Agung Mulia",
+        "address": "Jl. Sasuit Tubun Lingk. Bleber Kel. Sidoharjo Kec. Pacitan Kab. Pacitan",
+        "phone": "0357884466",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3501019",
+        "name": "RS Umum Medical Mandiri Pacitan",
+        "address": "Jalur Lintas Selatan,Suruhan Desa Sirnoboyo, Kecamatan Pacitan, Kabupaten Pacitan, Provinsi Jawa Timur",
+        "phone": "0357883989",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Amanah",
+            "info": "Diupdate 17 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Ponorogo",
+    "hospitals": [
+      {
+        "id": "3502123",
+        "name": "RS Umum Darmayu Ponorogo",
+        "address": "Jl. Dr. Sutomo No. 44-50 Ponorogo",
+        "phone": "0352481320",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang FLAMBOYAN 2",
+            "info": "Diupdate 14 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3502134",
+        "name": "RS Umum Muhammadiyah Ponorogo",
+        "address": "Jalan Diponegoro No. 50, Kelurahan Mangkujayan, Kecamatan Ponorogo, Kabupaten Ponorogo, Provinsi Jawa Timur, Kode Pos 63413",
+        "phone": "0352485928",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KH. AHMAD DAHLAN, AR FAHRUDIN, MAS MANSUR, SITI WALIDAH,DARWIS",
+            "info": "Diupdate 32 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3502146",
+        "name": "RS Umum Muslimat Ponorogo",
+        "address": "Jl. Jend. A. Yani 155, Ponorogo",
+        "phone": "0352481986",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Al-Luqman",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Tulungagung",
+    "hospitals": [
+      {
+        "id": "3504012",
+        "name": "RS Umum Daerah Dr. Iskak Tulungagung",
+        "address": "Jl. Dr. Wahidin Sudiro Husodo Tulungagung",
+        "phone": "0355322609",
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang GRAHA MANDIRI LANTAI 2, GRAHA MANDIRI LANTAI 3",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3504057",
+        "name": "RS Ibu dan Anak Fauziah ",
+        "address": "Jl. Dr. Sutomo 47 Tulungagung",
+        "phone": "0355326515",
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bilqis,Faiza,Farah",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3504069",
+        "name": "RS Umum Satiti Prima Husada",
+        "address": "Ds. Balesono, Kec. Ngunut Kab. Tulungagung",
+        "phone": "082132814910",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAWAR, DAHLIA, ANGGREK, BIMA",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Blitar",
+    "hospitals": [
+      {
+        "id": "3505024",
+        "name": "RS Umum  Aulia Blitar",
+        "address": "Jl. Raya Utara No. 3 Kembangarum, Sutojayan, Kab. Blitar",
+        "phone": "0342444168",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang TERATAI 1-4, NIFAS 1",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kediri",
+    "hospitals": [
+      {
+        "id": "3506063",
+        "name": "RS Umum  Wilujeng",
+        "address": "Jl. Joyoboyo No.4 Padangan Kec Kayen Kidul, Kab. Kediri",
+        "phone": "081235846900",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RAJAWALI",
+            "info": "Diupdate 2 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3506064",
+        "name": "RS Ibu dan Anak Permata Hati Pare Kediri",
+        "address": "Jl. Raya Kediri Nomor 48, Ds. Darungan, Kec Pare Kab Kediri",
+        "phone": "0354390212",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ZAMRUD",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Malang",
+    "hospitals": [
+      {
+        "id": "3507015",
+        "name": "RS Bala Keselamatan Bokor",
+        "address": "Jl. A.Yani  No.91 Turen , Kab.Malang",
+        "phone": "0341824002",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK 103",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3507026",
+        "name": "RS Jiwa Dr. Radjiman Wediodiningrat Lawang",
+        "address": "Jl. A. Yani, Lawang, Malang, Jawa Timur",
+        "phone": "0341426015",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perawatan Fisik",
+            "info": "Diupdate 32 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3507096",
+        "name": "RS Umum Wava Husada ",
+        "address": "Jln. Panglima Sudirman 99a Kepanjen Malang",
+        "phone": "0341393000",
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3507230",
+        "name": "RS Sumber Sentosa",
+        "address": "Jl. Kebonsari No. 221 Malang, RT 003, RW 002 Desa Tumpang, Kec. Tumpang, Kab. Malang",
+        "phone": "0341787233",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang K. ST. YOSEF",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Lumajang",
+    "hospitals": [
+      {
+        "id": "3508058",
+        "name": "RS Umum Daerah Pasirian Kabupaten Lumajang",
+        "address": "Jl. Raya Pasirian No. 225A. Kec. Pasirian",
+        "phone": "03345761044",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Berlian",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Jember",
+    "hospitals": [
+      {
+        "id": "3509010",
+        "name": "RS Umum Daerah Dr. Soebandi",
+        "address": "Jl. Dr. Soebandi No.124, Jember",
+        "phone": "0331487441",
+        "available_beds": [
+          {
+            "available": 33,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas 1",
+            "info": "Diupdate 38 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3509135",
+        "name": "RS Bina Sehat Jember",
+        "address": "Jl. Jayanegara 7 Kaliwates Jember",
+        "phone": "0331422701",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I",
+            "info": "Diupdate 32 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3509136",
+        "name": "RS Umum Citra Husada Jember",
+        "address": "jl. Teratai No. 22 Jember",
+        "phone": "0331486200",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 13",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3509137",
+        "name": "RS Umum Srikandi IBI Jember",
+        "address": "Jl. KH Agus Salim No. 20",
+        "phone": "0331335290",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bima 3",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3509138",
+        "name": "RS Kaliwates Jember",
+        "address": "Jl. Diah Pitaloka Nomor 4 Jember",
+        "phone": "0331483505",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3509140",
+        "name": "RS Siloam Jember",
+        "address": "Jl. Gajah Mada 104 Kelurahan Jember Kidul Kecamatan Kaliwates",
+        "phone": "03312861900",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DELUXE",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Banyuwangi",
+    "hospitals": [
+      {
+        "id": "3510021",
+        "name": "RS Umum Bhakti Husada",
+        "address": "Jl. Krikilan-Glenmore Dusun Krajan, Tegalharjo",
+        "phone": "0333821118",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bugenvile 101-116",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3510103",
+        "name": "RS Al Huda ",
+        "address": "Jl. Raya Gambiran No. 225, Desa Gambiran, Kec. Gambiran, Kab. Banyuwangi",
+        "phone": "0333842034",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang INTERNA 1 B (KEBANGSAAN)",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Sidoarjo",
+    "hospitals": [
+      {
+        "id": "3515136",
+        "name": "RS Mata Fatma",
+        "address": "Jl. Raya Kalijaten No. 40",
+        "phone": "0317879857",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anyelir",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Mojokerto",
+    "hospitals": [
+      {
+        "id": "3516016",
+        "name": "RS Umum Daerah Sumberglagah",
+        "address": "Dsn. Sumberglagah Ds. Tanjungkenongo Kec. Pacet Mojokerto",
+        "phone": "0321690441",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang TULIP",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Magetan",
+    "hospitals": [
+      {
+        "id": "3520041",
+        "name": "RS Angkatan Udara dr. Efram Harsana",
+        "address": "Jl. Marsma TNI Anumerta R.Iswahjudi, Kelurahan Maospati, Kecamatan Maospati, Kab. Magetan",
+        "phone": "0351864653",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Mars",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Lamongan",
+    "hospitals": [
+      {
+        "id": "3524047",
+        "name": "RS Muhammadiyah Babat",
+        "address": "Jl. KH. Ahmad Dahlan No. 14 Babat, Lamongan",
+        "phone": "0322451391",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 33 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3524048",
+        "name": "RS Umum Citra Medika Lamongan",
+        "address": "Jl. Lamongrejo No. 28 Lamongan",
+        "phone": "0322312444",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lavender 1",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Gresik",
+    "hospitals": [
+      {
+        "id": "3525076",
+        "name": "RS Petrokimia Gresik",
+        "address": "Jl. Jend. A. Yani No. 69 Kel. Ngipik, Kec. Ngipik, Kab. Gresik",
+        "phone": "0313978658",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS 1",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3525092",
+        "name": "RS Grha Husada Gresik ",
+        "address": "Komplek Perum PT Petrokimia Gresik, Jalan Padi No.3, Tlogopojok, Kroman, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61118",
+        "phone": "0313973401",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAWAR TERATAI",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3525099",
+        "name": "RS Umum Rachmi Dewi ",
+        "address": "Jl. Jawa No. 79 - 81, Gresik Kota Baru, Kec. Manyar, Kab. Gresik, Provinsi Jawa Timur 61151",
+        "phone": "0313957448",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Sakura",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kota Blitar",
+    "hospitals": [
+      {
+        "id": "3572073",
+        "name": "RS Islam Aminah",
+        "address": "Jl. Kenari No. 54 Blitar",
+        "phone": "0342801662",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ar-Rahman 11",
+            "info": "Diupdate 32 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kota Probolinggo",
+    "hospitals": [
+      {
+        "id": "3574012",
+        "name": "RS Umum Daerah dr. Mohamad Saleh Kota Probolinggo",
+        "address": "Jl. Mayjend Panjaitan No.65 Kota Probolinggo",
+        "phone": "085231229303",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Kemuning Bawah",
+            "info": "Diupdate 3 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kota Mojokerto",
+    "hospitals": [
+      {
+        "id": "3576074",
+        "name": "RS Kamar Medika",
+        "address": "Jl. Empunala No.351, Kel. Kedundung, Kec. Magersari, Kota Mojokerto",
+        "phone": "0321330066",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK 8",
+            "info": "Diupdate 33 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kota Madiun",
+    "hospitals": [
+      {
+        "id": "3577015",
+        "name": "RS Umum Daerah Dr. Soedono Madiun",
+        "address": "Jl. Dr. Soetomo 59, Madiun",
+        "phone": "082139645425",
+        "available_beds": [
+          {
+            "available": 16,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 23 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kota Surabaya",
+    "hospitals": [
+      {
+        "id": "3578086",
+        "name": "RS Primasatya Husada Citra (PHC) Surabaya",
+        "address": "Jl. Prapat Kurung Selatan no 1 Tanjung Perak Surabaya",
+        "phone": "0313294118",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang NEW SAFIR 08",
+            "info": "Diupdate 3 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3578122",
+        "name": "RS Umum Tk. III Brawijaya",
+        "address": "Jl. Kesatrian No.17 Surabaya",
+        "phone": "0315668343",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Anggrek",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3578224",
+        "name": "RS Umum Islam Surabaya Jemursari ",
+        "address": "Jl. Jemursari No 51-57, Surabaya",
+        "phone": "0318471877",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Mawar",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3578571",
+        "name": "RS Umum Daerah dr. Mohamad Soewandhie",
+        "address": "Jl. Tambakrejo No. 45-47 Surabaya",
+        "phone": "0313717141",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DAHLIA",
+            "info": "Diupdate 18 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3578593",
+        "name": "RS Ibu dan Anak Pura Raharja",
+        "address": "Jl. Pucang Adi No.12 - 14 Surabaya",
+        "phone": "0315019898",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 9",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3578773",
+        "name": "RS Ibu dan Anak Bantuan 05.08.05 Surabaya",
+        "address": "Gubeng Pojok No.21 Surabaya",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang FLAMBOYAN 1,  ANGGREK 1,  ANGGREK 2",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Jawa Timur",
+    "city": "Kota Batu",
+    "hospitals": [
+      {
+        "id": "3579030",
+        "name": "RS Umum Karsa Husada Kota Batu ",
+        "address": "Jl. A.Yani No.10-13 Kota Batu",
+        "phone": "0341591036",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Matahari",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3579074",
+        "name": "RS Baptis Batu",
+        "address": "Jln. Raya Panglima Sudirman No. 33 Desa Tlekung Kec. Junrejo Kota Batu",
+        "phone": "0341594161",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Mawar",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Banten",
+    "city": "Tangerang",
+    "hospitals": [
+      {
+        "id": "3603157",
+        "name": "RS Umum Daerah Balaraja",
+        "address": "Jl.Rumah Sakit NO. 88 Desa Tobat Kec. Balaraja",
+        "phone": "082213620551",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Syech Nawawi Al Bantani",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3603172",
+        "name": "RS St. Carolus Summarecon Serpong ",
+        "address": "Jl Gading Golf Boulevard Kav. 08 Desa Cihuni Kec. Pagedangan",
+        "phone": "02154220818",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Maria",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3603175",
+        "name": "RS Umum Murni Asih",
+        "address": "Jl. Raya Legok No.86, Bojongnangka Kelurahan Medang, Kecamatan Pagedangan Kabupaten Tangerang - Banten",
+        "phone": "081219089112",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang NIFAS 208",
+            "info": "Diupdate 23 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3603176",
+        "name": "RS Umum Keluarga Kita",
+        "address": "Jl. Raya PLP Curug KM. 4 No. 8 Curug",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ORCHID",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3603189",
+        "name": "RS UniMedika Sepatan",
+        "address": "Jl. Raya Pakuhaji No. 3 RT. 002 RW. 001 Kel. Sepatan Kab. Tangerang",
+        "phone": "0215518888",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ADELIA",
+            "info": "Diupdate 21 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671054",
+        "name": "RS Siloam Hospitals Lippo Village",
+        "address": "Jl. Siloam No. 6  Lippo Village Tangerang",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 60,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang UMUM",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Banten",
+    "city": "Serang",
+    "hospitals": [
+      {
+        "id": "3604013",
+        "name": "RS Umum Daerah dr. Drajat Prawiranegara ",
+        "address": "Jl. Rumah Sakit No. 1 Serang",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Flamboyan 1",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3604047",
+        "name": "RS Kurnia Serang",
+        "address": "Jl. Raya Cilegon KM 8 Kramatwatu",
+        "phone": "087808876896",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang PERAWATAN 2 (NON BEDAH)",
+            "info": "Diupdate 24 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Banten",
+    "city": "Kota Tangerang",
+    "hospitals": [
+      {
+        "id": "3671021",
+        "name": "RS Daan Mogot Kesdam Jaya",
+        "address": "Jl. Daan Mogot No. 59 Kota Tangerang",
+        "phone": "081222227259",
+        "available_beds": [
+          {
+            "available": 10,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Wira 1, Wira 2, Wira 3, Kartika 3, Kartika 4, Sakti 1, Hesti 3",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671126",
+        "name": "RS Murni Teguh Ciledug",
+        "address": "Jl. HOS Cokroaminoto (Ciledug Raya) No. 4A Kreo Selatan Larangan Tangerang 15156",
+        "phone": "0217371919",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AMARILYS",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671136",
+        "name": "RS Umum Hermina Tangerang",
+        "address": "Jl. KS, Tubun No.10 Kel. Pasar Baru Kec. Karawaci Kota Tangerang",
+        "phone": "02155771920",
+        "available_beds": [
+          {
+            "available": 18,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lantai 5",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671208",
+        "name": "RS Umum Daerah Kota Tangerang",
+        "address": "Jl Pulau Puteri Raya Perumahan Modernland, Kel. Kelapa Indah Kec. Tangerang",
+        "phone": "02129720200",
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang CENDANA 1",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671214",
+        "name": "RS Tiara ",
+        "address": "JALAN BERINGIN RAYA NO.3,4,5 KEL.NUSA JAYA. KEC.KARAWACI",
+        "phone": "02129238000",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUBY",
+            "info": "Diupdate 14 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671217",
+        "name": "RS Ibu dan Anak Karunia Bunda",
+        "address": "Jl. Aria Santika No. 28, Kel. Margasari, Kec. Karawaci, Kota Tangerang 15113",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perina",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671222",
+        "name": "RS Ibu dan Anak Makiyah",
+        "address": "Jl. KH. Kuding RT. 005 RW. 006, Kelurahan Belendung, Kecamatan Benda, Kota Tangerang, Provinsi Banten",
+        "phone": "02155723080",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 2",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3671241",
+        "name": "RS Metro Hospitals M. Toha",
+        "address": "Jl. Raya Mohammad Toha Km. 2  No. 1 Kel. Nambo Jaya Kecamatan Karawaci 15112",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang CHRYSANT",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Banten",
+    "city": "Kota Cilegon",
+    "hospitals": [
+      {
+        "id": "3672003",
+        "name": "RS Ibu dan Anak Mutiara Bunda",
+        "address": "Jl. S.A.Tirtayasa Ruko Maisonnete Blok B1-8 Simpang Tiga Cilegon",
+        "phone": "081283945764",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perawatan Anak dan Dewasa",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Banten",
+    "city": "Kota Serang",
+    "hospitals": [
+      {
+        "id": "3673012",
+        "name": "RS Umum Daerah Kota Serang",
+        "address": "Jl. Raya Jakarta KM. 04 Lingk Kp. Turus Rt. 02 Rw. 11 Kelurahan Penancangan Kecamatan Cipocok Jaya",
+        "phone": "081808853055",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Banten",
+    "city": "Kota Tangerang Selatan",
+    "hospitals": [
+      {
+        "id": "3674021",
+        "name": "RS Ibu dan Anak Bina Medika",
+        "address": "Jl. Rasuna Said Kav B7/A5-08 Sektor 7 CBD Bintaro Jaya",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DELUXE",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "3674193",
+        "name": "RS Buah Hati Ciputat",
+        "address": "Jl Aria Putra No 399 Serua Indah",
+        "phone": "08041808808",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I ANAK",
+            "info": "Diupdate 4 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Jembrana",
+    "hospitals": [
+      {
+        "id": "5101016",
+        "name": "RS Umum Daerah Negara",
+        "address": "Jl. Wijaya Kusuma No. 17 Kel. Baler Bale Agung Kec. Negara",
+        "phone": "036541006",
+        "available_beds": [
+          {
+            "available": 11,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang PURI RAHAYU",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Tabanan",
+    "hospitals": [
+      {
+        "id": "5102010",
+        "name": "RS Umum Daerah Tabanan",
+        "address": "Jl. Pahlawan No. 14 Tabanan Bali",
+        "phone": "0361811027",
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bougenvile kelas 1, Dahlia Garing kelas 1, Kemuning kelas 1, Anggrek kelas 1",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "5102043",
+        "name": "RS Umum Bhakti Rahayu Tabanan",
+        "address": "Jl. Batukaru No.2 Tuakilang Tabanan",
+        "phone": "0361810805",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 206a,206b,207a,207b,208a,208b,209a,209b,210a,210b,211a,211b,212a,212b,",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Badung",
+    "hospitals": [
+      {
+        "id": "5103021",
+        "name": "RS Khusus Bedah BIMC",
+        "address": "Jl. By Pass Ngurah Rai No. 100X Kuta Badung",
+        "phone": "0361761263",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "id": "5103032",
+        "name": "RS Daerah Mangusada",
+        "address": "Jl. Raya Kapal Mengwi, Badung",
+        "phone": "03619006813",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Legong Lt.4 (Ruang Perawatan Penyakit Dalam)",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "5103053",
+        "name": "RS Windu Husada",
+        "address": "Jl. Raya Mambal - Ubud, Mekar Bhuwana,\nKecamatan Abiansemal \nKabupaten Badung \nProvinsi Bali",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": -5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MAJAPAHIT",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Gianyar",
+    "hospitals": [
+      {
+        "id": "5104036",
+        "name": "RS Umum Famili Husada",
+        "address": "Jl. Astina Timur No. 8A Samplangan, Kecamatan Gianyar, Kabupaten Gianyar",
+        "phone": "03618493344",
+        "available_beds": [
+          {
+            "available": 22,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 210,211,212,214,215,216,303,304,305,306",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Klungkung",
+    "hospitals": [
+      {
+        "id": "5105017",
+        "name": "RS Umum Grha Bhakti Medika",
+        "address": "Jl. By Pass Prof. Dr. Ida Bagus Mantra Desa Negari Kec. Banjarangkan",
+        "phone": "03665584001",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Rama",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Karangasem",
+    "hospitals": [
+      {
+        "id": "5107015",
+        "name": "RS Umum Daerah Karangasem",
+        "address": "Jl. Ngurah Rai No. 58 Amlapura",
+        "phone": "036321011",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang WK III",
+            "info": "Diupdate 32 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Buleleng",
+    "hospitals": [
+      {
+        "id": "5108016",
+        "name": "RS Umum Daerah Kab. Buleleng",
+        "address": "Jl. Ngurah Rai 30 Singaraja",
+        "phone": "036222046",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Melati 2",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Bali",
+    "city": "Kota Denpasar",
+    "hospitals": [
+      {
+        "id": "5171016",
+        "name": "RSUP Prof. Dr. I.G.N.G. Ngoerah",
+        "address": "Jl. Diponegoro Denpasar Bali",
+        "phone": "0361226363",
+        "available_beds": [
+          {
+            "available": 55,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Kelas I",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "5171232",
+        "name": "RS Ibu dan Anak Bunda Denpasar",
+        "address": "Jl. Gatot Subroto Barat 455X",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Deluxe",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Barat",
+    "city": "Lombok Barat",
+    "hospitals": [
+      {
+        "id": "5201012",
+        "name": "RS Umum Daerah Awet Muda Narmada",
+        "address": "Jl. Ahmad Yani No. 69 Telaga Ngembeng Narmada Lombok Barat",
+        "phone": "03707561792",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 4",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Barat",
+    "city": "Lombok Timur",
+    "hospitals": [
+      {
+        "id": "5203042",
+        "name": "RS Ibu dan Anak Permata Hati Lombok Timur",
+        "address": "Jl. Raya Masbagik Selong Dusun Tanak Malit Selatan Kel. Masbagik Selatan",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "",
+            "room_name": "",
+            "info": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Barat",
+    "city": "Sumbawa",
+    "hospitals": [
+      {
+        "id": "5206027",
+        "name": "RS H. L. Manambai Abdulkadir",
+        "address": "Jl. Lintas Sumbawa-Bima KM. 5 Sumbawa Besar",
+        "phone": "085229229119",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Teratai (Ruang Anak)",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Timur",
+    "city": "Timor Tengah Utara",
+    "hospitals": [
+      {
+        "id": "5305015",
+        "name": "RS Umum Daerah Kefamenanu",
+        "address": "Jl. Letjen Suprapto Kefamenanu",
+        "phone": "085240145353",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Laki ( Asoka )",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Timur",
+    "city": "Belu",
+    "hospitals": [
+      {
+        "id": "5306016",
+        "name": "RS Umum Daerah MGR Gabriel Manek",
+        "address": "Jl. Dr Sutomo No.2 Atambua",
+        "phone": "082147511229",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ASOKA",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Timur",
+    "city": "Ngada",
+    "hospitals": [
+      {
+        "id": "5312014",
+        "name": "RS Umum Bajawa",
+        "address": "Jl. Diponegoro No. 5, Bajawa",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruangan Melati",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Nusa Tenggara Timur",
+    "city": "Kota Kupang",
+    "hospitals": [
+      {
+        "id": "5371057",
+        "name": "RS Kartini",
+        "address": "Jl. Frans Seda No. 17 Kel.Tuak Daun Merah Kec.Oebobo",
+        "phone": "0380831270",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Lunaria",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Tengah",
+    "city": "Kota Palangka Raya",
+    "hospitals": [
+      {
+        "id": "6271025",
+        "name": "RS Bhayangkara Palangka Raya",
+        "address": "Jl. Ahmad Yani No. 22",
+        "phone": "05363221520",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ASTER/KENANGA/DAHLIA",
+            "info": "Diupdate 16 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "city": "Banjar",
+    "hospitals": [
+      {
+        "id": "6303015",
+        "name": "RS Umum Daerah Ratu Zalecha",
+        "address": "Jl Menteri Empat Martapura Kabupaten Banjar Kalimantan Selatan",
+        "phone": "05114789455",
+        "available_beds": [
+          {
+            "available": 29,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Semua Ruangan - Kelas 1",
+            "info": "Diupdate 2 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "city": "Hulu Sungai Selatan",
+    "hospitals": [
+      {
+        "id": "6306011",
+        "name": "RS Umum Daerah Brigjed H. Hasan Basry Kandangan",
+        "address": "Jalan Jenderal  Sudirman No.26A RT.01 RK.I Hamalau, Sungai Raya, Kab. Hulu Sungai Selatan",
+        "phone": "051721866",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang BEDAH",
+            "info": "Diupdate 11 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "city": "Hulu Sungai Tengah",
+    "hospitals": [
+      {
+        "id": "6307012",
+        "name": "RS Umum Daerah  H Damanhuri Barabai",
+        "address": "Jl. Murakata No. 4, Kecamatan Barabai, Kab. Hulu Sungai Tengah",
+        "phone": "085249808800",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AL - ADN LT.1",
+            "info": "Diupdate 46 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "city": "Tanah Bumbu",
+    "hospitals": [
+      {
+        "id": "6310018",
+        "name": "RS Marina Permata",
+        "address": "Jl.Kodeco KM 4, Desa Sarigadung Kec. Simpang Empat Kab. Tanah Bumbu.",
+        "phone": "051871118",
+        "available_beds": [
+          {
+            "available": 13,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ZAMBRUD",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "city": "Kota Banjarmasin",
+    "hospitals": [
+      {
+        "id": "6371046",
+        "name": "RS Islam Banjarmasin",
+        "address": "JL. S PARMAN GG PURNAMA NO. 01, Desa/Kelurahan Pasar Lama,\nKec. Banjarmasin Tengah, Kota Banjarmasin, Provinsi Kalimantan Selatan,\nKode Pos: 70115",
+        "phone": "05113354896",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Al-Faraby, Al-Biruni, Al-Razi,Ibnu Sina",
+            "info": "Diupdate 41 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Selatan",
+    "city": "Kota Banjar baru",
+    "hospitals": [
+      {
+        "id": "6372017",
+        "name": "RS Umum Syifa Medika",
+        "address": "Jl. R.O Ulin No. 93 \nKel. Loktabat Selatan, \nKec. Banjarbaru Selatan \nKota Banjarbaru\nKalimantan Selatan",
+        "phone": "082153424447",
+        "available_beds": [
+          {
+            "available": 4,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang LANTAI 3",
+            "info": "Diupdate 9 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Timur",
+    "city": "Kota Balikpapan",
+    "hospitals": [
+      {
+        "id": "6471086",
+        "name": "RS Hermina Balikpapan",
+        "address": "Jl. MT Haryono No 45 Kelurahan Sepinggan Baru, Kecamatan Balikpapan Selatan, Kota Balikpapan",
+        "phone": "05428532525",
+        "available_beds": [
+          {
+            "available": 16,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang KELAS I",
+            "info": "Diupdate 28 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Timur",
+    "city": "Kota Samarinda",
+    "hospitals": [
+      {
+        "id": "6472131",
+        "name": "RS Mata Provinsi Kalimantan Timur",
+        "address": "Jl. Basuki Rahmat No. 1 Samarinda 75112",
+        "phone": "081341531480",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang RUANG GAHARU",
+            "info": "Diupdate 17 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Kalimantan Timur",
+    "city": "Kota Bontang",
+    "hospitals": [
+      {
+        "id": "6474010",
+        "name": "RS LNG Badak",
+        "address": "Kompleks PT Badak NGLBontang, Kalimantan Timur",
+        "phone": "0548552041",
+        "available_beds": [
+          {
+            "available": 7,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 4,10,15,16,17,18,19,20",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Utara",
+    "city": "Minahasa",
+    "hospitals": [
+      {
+        "id": "7102040",
+        "name": "RS Siloam GMIM Sonder",
+        "address": "Kolongan Atas, Sonder",
+        "phone": "0431356673",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Maria",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Utara",
+    "city": "Kepulauan Sangihe",
+    "hospitals": [
+      {
+        "id": "7103015",
+        "name": "RS Daerah Liun Kendage",
+        "address": "Jalan Tatehe Kelurahan Apengsembeka Kecamatan Tahuna",
+        "phone": "043224410",
+        "available_beds": [
+          {
+            "available": 9,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Ruang Keseluruhan",
+            "info": "Diupdate 19 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7103039",
+        "name": "RS Umum Liung Paduli",
+        "address": "Kampung Naha Kecamatan Tabukan Utara",
+        "phone": "082252690677",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas II",
+            "room_name": "Ruang Kawaluso",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Utara",
+    "city": "Kota Manado",
+    "hospitals": [
+      {
+        "id": "7171013",
+        "name": "RSUP Prof. Dr. R. D. Kandou",
+        "address": "Jl. Raya Tanawangko No.56, Manado",
+        "phone": "082196305119",
+        "available_beds": [
+          {
+            "available": 3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Irina D Rose",
+            "info": "Diupdate 37 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7171102",
+        "name": "RS Umum Manado Medical Center",
+        "address": "Jln. Rajawali No. 8 - Kec. Paal 2 - Kel. Paal 2 - Kota Manado - 95129",
+        "phone": "082196418416",
+        "available_beds": [
+          {
+            "available": 15,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 502A,511A,5012A,513A,514A,515A,301,302,303,304,305,306,307,308,309,310",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7171104",
+        "name": "RS Mata Provinsi Sulawesi Utara",
+        "address": "Jl. W. Z. Johanis No.I Kota Manado",
+        "phone": "08114319658",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang MELATI/L",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Utara",
+    "city": "Kota Bitung",
+    "hospitals": [
+      {
+        "id": "7172036",
+        "name": "RS Umum Daerah Manembo-Nembo Bitung",
+        "address": "Jl. S. H. Sarundajang Kel. Manembo-nembo Tengah Kec. Matuari",
+        "phone": "082348938008",
+        "available_beds": [
+          {
+            "available": 5,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang ANGGREK",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Tengah",
+    "city": "Kota Palu",
+    "hospitals": [
+      {
+        "id": "7271051",
+        "name": "RS Umum Daerah Madani Palu",
+        "address": "Jl. Thalua Kontji No. 11  Mamboro Kecamatan Palu Utara",
+        "phone": "081145600615",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang DURIAN",
+            "info": "Diupdate 9 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7271127",
+        "name": "RS Bhayangkara Palu",
+        "address": "Jl. DR. Suharso Lrg III No. 2 Palu",
+        "phone": "082190446545",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang PERAWATAN 1",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Selatan",
+    "city": "Jeneponto",
+    "hospitals": [
+      {
+        "id": "7304012",
+        "name": "RS Umum Daerah Rumbia",
+        "address": "Jl. Desa Lebang Manai Kec. Rumbia",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 8,
+            "bed_class": "Kelas III",
+            "room_name": "Ruang CEMARA (PENYAKIT INFEKSI) / LANTAI II",
+            "info": "Diupdate 8 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Selatan",
+    "city": "Maros",
+    "hospitals": [
+      {
+        "id": "7309016",
+        "name": "RS Umum Daerah dr. La Palaloi",
+        "address": "Jl. Poros Maros-Makassar KM 3 Maros",
+        "phone": "0411371166",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Seruni A (Anak)",
+            "info": "Diupdate 12 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Selatan",
+    "city": "Sidenreng Rappang",
+    "hospitals": [
+      {
+        "id": "7314013",
+        "name": "RS Umum Daerah Nene Mallomo",
+        "address": "Jl. Wolter Monginsidi Pangkajene, Kab. Sidenreng Rappang",
+        "phone": "082332704995",
+        "available_beds": [
+          {
+            "available": 6,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang BROTOWALI",
+            "info": "Diupdate 13 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Selatan",
+    "city": "Luwu",
+    "hospitals": [
+      {
+        "id": "7317075",
+        "name": "RS Umum Daerah Batara Guru",
+        "address": "Jl. Sawerigading, Desa Lebani, Kec. Belopa Utara Kab.Luwu Prov.Sulawesi Selatan",
+        "phone": "082346835354",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang FLAMBOYAN 1",
+            "info": "Diupdate 15 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Sulawesi Selatan",
+    "city": "Kota Makassar",
+    "hospitals": [
+      {
+        "id": "7371063",
+        "name": "RS Stella Maris",
+        "address": "Jl. Somba Opu No.273 Makassar",
+        "phone": "081340604910",
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bernadeth II",
+            "info": "Diupdate 7 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7371325",
+        "name": "RSUP Dr. Wahidin Sudirohusodo",
+        "address": "Jl. Perintis Kemerdekaan Km.11, Tamalanrea, Makassar, Sulawesi Selatan",
+        "phone": "0411584675",
+        "available_beds": [
+          {
+            "available": 0,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perawatan Infeksi Paru",
+            "info": "Diupdate 10 menit yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7371373",
+        "name": "RS Grestelina",
+        "address": "Jl. Hertasning Raya No.51 Makassar",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 20,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang AKASIA",
+            "info": "Diupdate 14 jam yang lalu"
+          }
+        ]
+      },
+      {
+        "id": "7371436",
+        "name": "RS Mata Makassar",
+        "address": "Jl. Wijaya Kusuma Raya No. 19,\nKelurahan Banta-Bantaeng, Kecamatan Rappocini, Kota Makassar\nProvinsi Sulawesi Selatan\n90222",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 2,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Perawatan Umum",
+            "info": "Diupdate 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Maluku Utara",
+    "city": "Halmahera Utara",
+    "hospitals": [
+      {
+        "id": "8201010",
+        "name": "RS Umum Daerah Tobelo",
+        "address": "Jl. Lanbouw Gamsungi Tobelo Halmahera Utara",
+        "phone": "09242621665",
+        "available_beds": [
+          {
+            "available": 1,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang Bougenvil A",
+            "info": "Diupdate kurang dari 1 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Papua",
+    "city": "Mimika",
+    "hospitals": [
+      {
+        "id": "9212011",
+        "name": "RS Umum Daerah Kabupaten Mimika",
+        "address": "Jl. Yos Sudarso KM 4. Nomor 00, Kelurahan Mawokauw Jaya, Kecamatan Wania, Kabupaten  Mimika, Propinsi Papua Tengah",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": -3,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang 12",
+            "info": "Diupdate 10 jam yang lalu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "province": "Papua",
+    "city": "Kota Jayapura",
+    "hospitals": [
+      {
+        "id": "9271067",
+        "name": "RS Bhayangkara Jayapura",
+        "address": "Jl. Jeruk Nipis Furia Kotaraja,Jayapura",
+        "phone": null,
+        "available_beds": [
+          {
+            "available": 12,
+            "bed_class": "Kelas I",
+            "room_name": "Ruang",
+            "info": "Diupdate 50 menit yang lalu"
+          }
+        ]
+      }
+    ]
+  }
+]

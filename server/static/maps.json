@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "1171015",
+    "name": "RS Umum Daerah  Dr. Zainoel Abidin",
+    "address": "Jl. Tgk Daud Beureueh, NO. 108 B. Aceh",
+    "lat": "5.563923143087138",
+    "long": "95.33748375715452",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Banda Aceh",
+    "province": "Aceh"
+  },
+  {
+    "id": "1171143",
+    "name": "RS Bhayangkara Banda Aceh",
+    "address": "Jl. Cut Nyak Dhien No. 23, Lamteumen Barat Banda Aceh",
+    "lat": "5.530134093895262",
+    "long": "95.29498460845947",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Banda Aceh",
+    "province": "Aceh"
+  },
+  {
+    "id": "1102027",
+    "name": "RS Umum Daerah Kota Subulussalam",
+    "address": "  Jl. Hamzah Fansyuri (Subulussalam-Rundeng) Kec. Simpang Kiri Kota Subulussalam Aceh 24782",
+    "lat": "2.63953",
+    "long": "98.0099",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Subulussalam",
+    "province": "Aceh"
+  },
+  {
+    "id": "1205046",
+    "name": "RS Umum Daerah Porsea",
+    "address": "Jl Raja Sipakko Napitulu, Ds. Parparean, Kec. Porsea, Kab. Toba Samosir",
+    "lat": "2.461886",
+    "long": "99.135438",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Toba Samosir",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1209065",
+    "name": "RS Umum Daerah Parapat",
+    "address": "Jl Kolonel TPR Sinaga Parapat",
+    "lat": "2.6679287",
+    "long": "98.9373894",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Simalungun",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1212171",
+    "name": "RS Umum Rahmad Hidayah",
+    "address": "Jl Limau Manis Pasar XIII No.61, Desa Limau Manis, Kecamatan Tanjung Morawa, Kabupaten Deli Serdang, Provinsi Sumatera Utara",
+    "lat": "3.52587",
+    "long": "98.79392",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Deli Serdang",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1212175",
+    "name": "RS Umum Mitra Sehat",
+    "address": "Jl. Sei Merah No. 300 Desa Dagang Kerawan - Tanjung Morawa",
+    "lat": "3.5110999260814633",
+    "long": "98.79465896241149",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Deli Serdang",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1212177",
+    "name": "RS Umum Yoshua",
+    "address": "Jl. Medan Lubuk Pakam N0. 70",
+    "lat": "3.5517597160857717",
+    "long": "98.85961190605167",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Deli Serdang",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1212179",
+    "name": "RS Umum Citra Medika",
+    "address": "Jl Medan-Bt Kuis No 377 Pasar X Desa Bandar Klippa",
+    "lat": "3.606164",
+    "long": "98.757849",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Deli Serdang",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1212185",
+    "name": "RS Umum Pancur Batu",
+    "address": "Jl. Jamin Ginting KM. 17,5 Desa Tengah Kec. Pancur Batu",
+    "lat": "3.4742249892463812",
+    "long": "98.59633552420654",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Deli Serdang",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1275013",
+    "name": "RS Umum Daerah Dr. Pirngadi",
+    "address": "Jl Prof H M Yamin SH No. 47, Medan",
+    "lat": "3.598184",
+    "long": "98.688600",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Medan",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1275046",
+    "name": "RS Bhayangkara Tingkat II",
+    "address": "Jl KH Wahid Hasyim No.1, Medan",
+    "lat": "3.5723470237937547",
+    "long": "98.6585174343586",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Medan",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1275655",
+    "name": "RS Umum Pusat H. Adam Malik",
+    "address": "Jl Bunga Lau No. 17, Medan",
+    "lat": "3.5191192",
+    "long": "98.608598",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Medan",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1277011",
+    "name": "RS Umum Daerah Padang Sidempuan",
+    "address": "Jl Dr. F.L. Tobing No. 10, Kel. Wek. V Kec. Padangsidimpuan Utara Kota Padangsidimpuan",
+    "lat": "1.3728464152296682",
+    "long": "99.27186357672119",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Padang Sidempuan",
+    "province": "Sumatera Utara"
+  },
+  {
+    "id": "1309022",
+    "name": "RS Umum Islam Ibnu Sina",
+    "address": "Jl M Natsir pasaman baru ",
+    "lat": "0.10805343873798136",
+    "long": "99.82772412357241",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pasaman Barat",
+    "province": "Sumatera Barat"
+  },
+  {
+    "id": "1374024",
+    "name": "RS Umum Ibnu Sina Padang Panjang",
+    "address": "Jl. Sukarno. Hatta No. 17, Kel. Bukit Surungan, Kec. Padang Panjang Barat",
+    "lat": "-0.4606626729078484",
+    "long": "100.40059835590579",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Padang Panjang",
+    "province": "Sumatera Barat"
+  },
+  {
+    "id": "1375040",
+    "name": "RS Umum Ibnu Sina Bukittinggi",
+    "address": "Jl. Batang Agam, Belakang Balok ",
+    "lat": "-0.3117379153099411",
+    "long": "100.37083215880375",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bukittinggi",
+    "province": "Sumatera Barat"
+  },
+  {
+    "id": "1407013",
+    "name": "RS Umum Azzahra",
+    "address": "Jl. Rambutan No. 03 RK Harapan, Ujung Batu",
+    "lat": "0.70933",
+    "long": "100.541",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Rokan Hulu",
+    "province": "Riau"
+  },
+  {
+    "id": "1408011",
+    "name": "RS Umum Daerah  Bengkalis",
+    "address": "Jl Kelapapati Tengah No.90, Bengkalis",
+    "lat": "1.46654",
+    "long": "102.251",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bengkalis",
+    "province": "Riau"
+  },
+  {
+    "id": "1409022",
+    "name": "RS Umum Daerah  Dr. RM. Pratomo Bagansiapiapi",
+    "address": "Jl Pahlawan No.13, Bagansiapiapi",
+    "lat": "2.1523",
+    "long": "100.81",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Rokan Hilir",
+    "province": "Riau"
+  },
+  {
+    "id": "1471022",
+    "name": "RS Tk. IV Pekanbaru",
+    "address": "Jl Kesehatan No 2 Pekanbaru",
+    "lat": "0.5364410602458536",
+    "long": "101.4410839240551",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Pekanbaru",
+    "province": "Riau"
+  },
+  {
+    "id": "1471146",
+    "name": "RS Jiwa Tampan",
+    "address": "Jl H.R. Subrantas Km.12,5 Pekanbaru",
+    "lat": "0.46485",
+    "long": "101.382",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Pekanbaru",
+    "province": "Riau"
+  },
+  {
+    "id": "1471384",
+    "name": "RS Awal Bros A. Yani",
+    "address": "Jln. Jend. A. Yani No. 73",
+    "lat": "0.521117",
+    "long": "101.443357",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Pekanbaru",
+    "province": "Riau"
+  },
+  {
+    "id": "1502014",
+    "name": "RS Umum Daerah Kolonel Abundjani/Bangko",
+    "address": "Jln. Kesehatan No. 20 Kelurahan Pematang Kandis Kecamatan Bangko Kabupaten Merangin Provinsi Jambi",
+    "lat": "-2.0690",
+    "long": "102.276",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Merangin",
+    "province": "Jambi"
+  },
+  {
+    "id": "1502018",
+    "name": "RS Andimas",
+    "address": "Jl. Sapta Marga RT. 021 RW. 003 Kel. Pematang Kandis Kec. Bangko",
+    "lat": "-2.0512476596705587",
+    "long": "102.27361469474181",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Merangin",
+    "province": "Jambi"
+  },
+  {
+    "id": "1504018",
+    "name": "RS Mitra Medika Batang Hari",
+    "address": "Jl. Gajah Mada Kel. Teratai Kec. Muara Bulian",
+    "lat": "-1.694305638169464",
+    "long": "103.26915556812287",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Batang Hari",
+    "province": "Jambi"
+  },
+  {
+    "id": "1505016",
+    "name": "RS Umum Daerah Ahmad Ripin",
+    "address": "Jl. Lintas Timur Komp. Perkantoran Bukit Cinto Kenang",
+    "lat": "-1.2967459932767695",
+    "long": "103.40451953124997",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Muaro Jambi",
+    "province": "Jambi"
+  },
+  {
+    "id": "1509028",
+    "name": "RS Umum Permata Hati",
+    "address": "Jl.Lebai Hasan, Rt 06/02, Sungai Pinang, Muara Bungo",
+    "lat": "-2.9879",
+    "long": "104.7603",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bungo",
+    "province": "Jambi"
+  },
+  {
+    "id": "1509029",
+    "name": "RS Ibu dan Anak Moelia",
+    "address": "Jl. Diponegoro RT. 13 RW. 04 Pasir Putih Muara Bungo",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bungo",
+    "province": "Jambi"
+  },
+  {
+    "id": "1571158",
+    "name": "RS Umum Daerah H. Abdul Manap",
+    "address": "Jl. SK.Rd.Syahbuddin Kel. Mayang Mangurai Kec.Kota Baru Jambi",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jambi",
+    "province": "Jambi"
+  },
+  {
+    "id": "1571163",
+    "name": "RS Umum Baiturahim Jambi",
+    "address": "Jl. Prof. M. Yamin SH, No. 30 Kel. Lebak Bandung",
+    "lat": "-1.6059351738661507",
+    "long": "103.60534756389006",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jambi",
+    "province": "Jambi"
+  },
+  {
+    "id": "1603090",
+    "name": "RS Ibu dan Anak Karunia Indah Medika",
+    "address": "Jl. Mayor Tjik Agus Kiemas Lintas Kepur Muara Enim (Kawasan Perkantoran Islamic Center)",
+    "lat": "-3.6297847737625455",
+    "long": "103.74950556960448",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Muara Enim",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1607016",
+    "name": "RS Umum Daerah Sukajadi",
+    "address": "Jl. Palembang Betung Km. 14.5 Kel. Tanah Mas Kec. Talang kelapa.",
+    "lat": "-2.9139233101479607",
+    "long": "104.6724322339569",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyuasin",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671072",
+    "name": "RS Umum Pusat Dr. Rivai Abdullah",
+    "address": "Jl. Sungai Kundur Kelurahan Mariana Kec. Banyuasin I ",
+    "lat": "-2.9795094329980407",
+    "long": "104.8638046119213",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyuasin",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1603085",
+    "name": "RS Umum Daerah Talang Ubi",
+    "address": "Jl. Taman Siswa RT. 014 RW. 05 Kel. Pasar Bhayangkara Kec. Talang Ubi",
+    "lat": "-3.2780980656971663",
+    "long": "103.82065646028514",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Penukal Abab Lematang Ilir ",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671013",
+    "name": "RS Umum Pusat Dr. Mohammad Hoesin Palembang",
+    "address": "Jl. Jendral Sudirman KM 3,5 Palembang",
+    "lat": "-2.9729",
+    "long": "104.752",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671024",
+    "name": "RS Umum Pertamina Palembang",
+    "address": "JL. Pengantingan NO I Komplek Pertamina Plaju, Palembang",
+    "lat": "-3.0008927511793027",
+    "long": "104.82427423858644",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671046",
+    "name": "RS Umum Pusri Palembang",
+    "address": "Jl May Zen Kompl Pusri, 2 Ilir Palembang",
+    "lat": "-2.9684",
+    "long": "104.816",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671083",
+    "name": "RS Islam Siti Khadijah",
+    "address": "Jl. Demang Lebar Daun No.26",
+    "lat": "-2.9714035538447767",
+    "long": "104.730974105835",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671301",
+    "name": "RS Muhammadiyah Palembang",
+    "address": "Jl. A. Yani 13 Ulu, Palembang",
+    "lat": "-2.996709841809831",
+    "long": "104.77676896762841",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671331",
+    "name": "RS Bhayangkara M. Hasan Palembang",
+    "address": "Jl. Jenderal Sudirman KM. 4.5",
+    "lat": "-2.958687",
+    "long": "104.737423",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671335",
+    "name": "RS Siloam Sriwijaya Palembang",
+    "address": "JL.POM IX (KOMPLEK PS MALL) KELURAHAN LOROK PAKJO",
+    "lat": "-2.9779351",
+    "long": "104.7422583",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671343",
+    "name": "RS Umum Ar-Rasyid Palembang",
+    "address": "JL. H. M. Saleh No. 02 KM. 7 Kel. Sukarami Kec. Sukarami Palembang",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1671347",
+    "name": "RS Umum Daerah Siti Fatimah Provinsi Sumatera Sela",
+    "address": "Jl. Kol. H. Burlian Km 6 ",
+    "lat": "-2.9892094654114896",
+    "long": "104.80050234999999",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1672002",
+    "name": "RS Umum Fadhilah Kota Prabumulih",
+    "address": "Jl. Jenderal Sudirman No.01 Kel. Patih Galung Kec. Prabumulih Barat",
+    "lat": "-2.402093887825247",
+    "long": "108.49396853652343",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Prabumulih",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1672015",
+    "name": "RS Umum Daerah Kota Prabumulih",
+    "address": "Jl. Lingkar, Kel. Gunung Ibul, Kec. Prabumulih Timur",
+    "lat": "-3.4023387",
+    "long": "104.2744922",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Prabumulih",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1672026",
+    "name": "RS Pertamina Kota Prabumulih",
+    "address": "Jl. Kesehatan No. 100 Komperta Prabumulih",
+    "lat": "-3.4422605",
+    "long": "104.2279785",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Prabumulih",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "id": "1771007",
+    "name": "RS Umum Ummi Bengkulu",
+    "address": "Jln. Hibrida Raya No. 01 RT 23 RW 08",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bengkulu",
+    "province": "Bengkulu"
+  },
+  {
+    "id": "1803034",
+    "name": "RS Ibu Anak Hidayah Ibu",
+    "address": "Jl. Kesuma Bangsa Kel. Way Urang Kec. Kalianda",
+    "lat": "-5.72990709000573",
+    "long": "105.58884649482115",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lampung Selatan",
+    "province": "Lampung"
+  },
+  {
+    "id": "1806035",
+    "name": "RS Umum Handayani",
+    "address": "Jl. Soekarno - Hatta No.94,Kotabumi lampung Utara",
+    "lat": "-4.839722932877921",
+    "long": "104.8852249160409",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lampung Utara",
+    "province": "Lampung"
+  },
+  {
+    "id": "1806036",
+    "name": "RS Umum HI. Muhammad Yusuf",
+    "address": "Jl. Lintas Sumatera No. 12 Ds. Kalibalangan Kec. Abung Selatan  ",
+    "lat": "-4.874584841218863",
+    "long": "104.96325414276123",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lampung Utara",
+    "province": "Lampung"
+  },
+  {
+    "id": "1807014",
+    "name": "RS Umum Daerah Zainal Abidin Pagar Alam",
+    "address": "Jl. Raya Lintas Sumatera, Umpu Semenguk",
+    "lat": "-4.588642",
+    "long": "104.5287645",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Way Kanan",
+    "province": "Lampung"
+  },
+  {
+    "id": "1810003",
+    "name": "RS Umum Surya Asih",
+    "address": "Jl. A. Yani No.51, Pringsewu",
+    "lat": "-2.0873216",
+    "long": "102.2492672",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pringsewu",
+    "province": "Lampung"
+  },
+  {
+    "id": "1813001",
+    "name": "RS Umum Daerah KH. Muhammad Thohir KRUI",
+    "address": "Jl. Atar Sedangkek Pekon Way Suluh Kecamatan Krui Selatan Kabupaten Pesisir Barat",
+    "lat": "-5.215154704779383",
+    "long": "103.97271900382384",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pesisir Barat",
+    "province": "Lampung"
+  },
+  {
+    "id": "1801017",
+    "name": "RS Umum Daerah Dr H Abdul Moeloek",
+    "address": "Jl. Dr. Rivai 6, Kelurahan Penengahan Kecamatan Tanjungkarang Pusat, Kota Bandar Lampung, Provinsi Lampung  35112",
+    "lat": "-5.403076783285577",
+    "long": "105.25862583184247",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandar Lampung",
+    "province": "Lampung"
+  },
+  {
+    "id": "1901043",
+    "name": "RS Umum Daerah Dr. (HC) Ir. Soekarno",
+    "address": "Jl. Zipur Desa Air Anyir Kec. Merawang",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bangka",
+    "province": "Kepulauan Bangka Belitung"
+  },
+  {
+    "id": "2071012",
+    "name": "RS Umum Budi Kemuliaan Batam",
+    "address": "Jl. Budi Kemuliaan No.1,Batam",
+    "lat": "1.1475758911915832",
+    "long": "104.01833346673811",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Batam",
+    "province": "Kepulauan Riau"
+  },
+  {
+    "id": "2071103",
+    "name": "RS Umum Awal Bros Batam",
+    "address": "Jl. Gajah Mada Kav.I Baloi",
+    "lat": "1.0518528",
+    "long": "103.9695872",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Batam",
+    "province": "Kepulauan Riau"
+  },
+  {
+    "id": "2072012",
+    "name": "RS Umum Daerah Kota Tanjung Pinang",
+    "address": "Jl. Sudirman 795,Tanjungpinang",
+    "lat": "0.9254348036073599",
+    "long": "104.44195889403132",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tanjung Pinang",
+    "province": "Kepulauan Riau"
+  },
+  {
+    "id": "3171574",
+    "name": "RS Umum Prikasih",
+    "address": "Jl. RS Fatmawati Raya No. 74, Pondok Labu, Cilandak",
+    "lat": "-6.314703805976116",
+    "long": "106.79392198826903",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171781",
+    "name": "RS Muhammadiyah Taman Puring",
+    "address": "Jl. Gandaria 1 No.20, RT.1/RW.2, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130",
+    "lat": "-6.241694638260965",
+    "long": "106.78754505902933",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171782",
+    "name": "RS Umum Andhika",
+    "address": "Jl. Warung Sila No. 8, RT.06/RW.04, Gudang Baru Ciganjur, Jagakarsa Jakarta Selatan",
+    "lat": "-6.3439395",
+    "long": "106.8121821",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171790",
+    "name": "RS Umum Daerah Tebet",
+    "address": "Jl. Prof. Dr. Soepomo, SH. No. 54, Tebet, Jakarta Selatan",
+    "lat": "-6.2265675",
+    "long": "106.8532496",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171793",
+    "name": "RS Umum Daerah Mampang Prapatan",
+    "address": "Jl. Kapten P. Tendean No. 9A Jakarta Selatan",
+    "lat": "-6.2477788",
+    "long": "106.8296488",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171800",
+    "name": "RS Umum Daerah Jati Padang",
+    "address": "Jl. Raya Ragunan No. 16 dan 17, Kelurahan Pasar Minggu, Kecamatan Pasar Minggu, Kota Administrasi Jakarta Selatan, Provinsi DKI Jakarta. Kode pos 12520",
+    "lat": "-6.285537",
+    "long": "106.842260",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171801",
+    "name": "RS Umum Daerah Kebayoran Baru",
+    "address": "Jl. Abdul Majid No 28, Kelurahan Cipete Utara, Kecamatan Kebayoran Baru, Kota Administrasi Jakarta S",
+    "lat": "-6.265490938830784",
+    "long": "106.7986488733635",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3171803",
+    "name": "RS Umum Daerah Kebayoran Lama",
+    "address": "Jl. Jatayu RT. 001 RW. 012 Kelurahan Kebayoran Lama Selatan Kecamatan Kebayoran Lama Jakarta Selatan",
+    "lat": "-6.2060819",
+    "long": "106.7989944",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172013",
+    "name": "RSUP Persahabatan",
+    "address": "Jl. Persahabatan Raya No. 1, Jakarta Timur",
+    "lat": "-6.2028134",
+    "long": "106.8840508",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172126",
+    "name": "RS Umum Daerah Pasar Rebo",
+    "address": "Jl. TB Simatupang No.30",
+    "lat": "-6.303669241427477",
+    "long": "106.86232222747805",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172243",
+    "name": "RS Umum Hermina Jatinegara",
+    "address": "Jl. Jatinegara Barat 126, Jakarta Timur ",
+    "lat": "-6.2202",
+    "long": "106.865",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172553",
+    "name": "RS Umum Harapan Bunda",
+    "address": "Jl. Raya Bogor Km.22 No.44 Jakarta Timur",
+    "lat": "-6.3030",
+    "long": "106.867",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172749",
+    "name": "RS Pusat Otak Nasional Prof DR. dr. Mahar Mardjono",
+    "address": "Jl. MT Haryono Kav. 11 Kel. Cawang Kec. Kramat Jati",
+    "lat": "-6.246382092630678",
+    "long": "106.87036223162994",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172756",
+    "name": "RS Ibu dan Anak SamMarie Basra",
+    "address": "Jl. Basuki Rachmat No. 31 Pondok Bambu, Kota Administrasi Jakarta Timur, Provinsi DKI Jakarta",
+    "lat": "-6.22910847166466",
+    "long": "106.89728417224883",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3172761",
+    "name": "RS Umum Daerah Kramat Jati",
+    "address": "Jln. Raya Inpres No. 48 ",
+    "lat": "-6.2879039",
+    "long": "106.8532497",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173014",
+    "name": "RSUPN Dr. Cipto Mangunkusumo",
+    "address": "Jl. Diponegoro 71 Jakarta Pusat",
+    "lat": "-6.1720518",
+    "long": "106.8147487",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173062",
+    "name": "RS Primaya PGI Cikini",
+    "address": "Jl. Raden Saleh No. 40 Jakpus",
+    "lat": "-6.191426",
+    "long": "106.842346",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173441",
+    "name": "RS Umum Primaya Evasari Hospital",
+    "address": "Jl. Rawamangun No. 47, Rawasari, Cempaka Putih, Jakarta Pusat",
+    "lat": "-6.193587016200888",
+    "long": "106.85974064581605",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173474",
+    "name": "RS Umum Pertamina Jaya",
+    "address": "Jl. A. Yani No. 2 By Pass Jakarta Pusat",
+    "lat": "-6.1742438",
+    "long": "106.8759497",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173645",
+    "name": "RS Menteng Mitra Afia",
+    "address": "Jl. Kalipasir No.9 Kel. Kebon Sirih, Kec. Menteng, Jakarta Pusat",
+    "lat": "-6.187065392580209",
+    "long": "106.83826200631992",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173700",
+    "name": "RS Umum Daerah Cempaka Putih",
+    "address": "Jl.Rawasari Selatan No1",
+    "lat": "-6.1847102",
+    "long": "106.8724449",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3173705",
+    "name": "RS Umum Daerah Tanah Abang",
+    "address": "Jalan K.H. Mas Mansyur No. 30 Kelurahan Kebon Kacang Kecamatan Tanah Abang, Jakarta Pusat 10240",
+    "lat": "-6.190905",
+    "long": "106.814798",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3174063",
+    "name": "RS Kanker Dharmais",
+    "address": "Jl. S Parman Kav.84-86 Slipi Jakarta Barat",
+    "lat": "-6.1869",
+    "long": "106.798",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Barat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3174260",
+    "name": "RS Anak dan Bunda Harapan Kita",
+    "address": "Jl. Let.Jend. S Parman Kav. 87 Slipi Jakbar",
+    "lat": "-6.184661316750199",
+    "long": "106.79793119049071",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Barat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3174282",
+    "name": "RS Jantung dan Pembuluh Darah Harapan Kita",
+    "address": "Jl. S. Parman Kav 87, Slipi",
+    "lat": "-6.1856416",
+    "long": "106.7987702",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Barat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3174351",
+    "name": "RS Umum Siloam Hospitals Kebon Jeruk",
+    "address": "Jl. Perjuangan Raya Kav.8 Jakarta Barat",
+    "lat": "-6.1908205",
+    "long": "106.7613427",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Barat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3175413",
+    "name": "RS Umum Daerah  Pademangan",
+    "address": "Jl. Budi Mulia Raya No.2 Pademangan Barat",
+    "lat": "-6.132835097699937",
+    "long": "106.84004552817228",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jakarta Utara",
+    "province": "DKI Jakarta"
+  },
+  {
+    "id": "3201024",
+    "name": "RS Paru Dr. M. Goenawan Partowidigdo",
+    "address": "Jl. Raya Puncak KM.83, Po Box 28 Cisarua Bogor 16750",
+    "lat": "-6.688932880795446",
+    "long": "106.93945441670836",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201083",
+    "name": "RS Umum Daerah Leuwiliang",
+    "address": "Jl. Raya Cibeber - Leuwiliang Bogor",
+    "lat": "-6.5705",
+    "long": "106.625",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201130",
+    "name": "RS Ibu dan Anak Citra Insani",
+    "address": "Jl. Raya Parung No.242 Lebakwangi, Pemagarsari - Bogor",
+    "lat": "-6.4848",
+    "long": "106.735",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201150",
+    "name": "RS Umum Family Medical Center",
+    "address": "Jl. Raya Bogor Km.51 Ciluar, Bogor",
+    "lat": "-6.5404",
+    "long": "106.826",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201231",
+    "name": "RS Sentosa",
+    "address": "Jl. Raya Kemang No. 18 Desa Pondok Udik Kec. Kemang Kab. Bogor",
+    "lat": "-6.494897543666451",
+    "long": "106.7512622376953",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201232",
+    "name": "RS Umum Daerah Cileungsi",
+    "address": " Jl. Raya Cileungsi - Jonggol KM. 10 Cipeucang, Kecamatan Cileungsi",
+    "lat": "-6.432431",
+    "long": "107.048559",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3202086",
+    "name": "RS Umum Kartika Cibadak",
+    "address": "Jl. Siliwangi No.139 ",
+    "lat": "-6.893734",
+    "long": "106.785200",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sukabumi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3203015",
+    "name": "RS Umum Daerah Sayang",
+    "address": "Jl. Rumah Sakit No.1 Cianjur",
+    "lat": "-6.8121",
+    "long": "107.141",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cianjur",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3203037",
+    "name": "RS Umum Daerah Cimacan",
+    "address": "Jl. Raya Cimacan No.17, Cianjur",
+    "lat": "-6.7204",
+    "long": "107.032",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cianjur",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3204086",
+    "name": "RS Umum Daerah Al Ihsan Provinsi Jawa Barat",
+    "address": "  Jl. Ki Astramanggala Bale Endah Kab. Bandung",
+    "lat": "-7.0081",
+    "long": "107.624",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3204134",
+    "name": "RS Umum Daerah Kesehatan Kerja",
+    "address": "Jl. Raya Rancaekek KM. 27 NO. 612 Desa Nanjungmekar Kec. Rancaekek",
+    "lat": "-6.9542829",
+    "long": "107.751334",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3204168",
+    "name": "RS Oetomo",
+    "address": "Jl. Raya Bojongsoang No. 156 RT. 003 RW. 002 Desa Lengkong Kec. Bojongsoang",
+    "lat": "-6.9748929",
+    "long": "107.6342586",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3205023",
+    "name": "RS Umum Nurhayati Garut",
+    "address": "Jl. Jendral Sudirman No. 6",
+    "lat": "-7.218302958036582",
+    "long": "107.92128839939011",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Garut",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3207059",
+    "name": "RS Khusus Orthopedi RSOP Ciamis",
+    "address": "Jl. Raya Ciamis Banjar KM 7 No. 341 RT 16 RW 06 Desa Cijeungjing Kec Cijeungjing",
+    "lat": "-7.33282304413458",
+    "long": "108.41155230012282",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Ciamis",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3208035",
+    "name": "RS Umum Sekar Kamulyan",
+    "address": "Jl. Rumah Sakit No. 28 Kec.  Cigugur Kab. Kuningan",
+    "lat": "-6.9701",
+    "long": "108.456",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kuningan",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3208046",
+    "name": "RS Umum Juanda",
+    "address": "Jl. Ir. H. Juanda No. 207 RT.006 RW.002 Kel.Purwawinangun  Kec.Kuningan Kab.Kuningan Propinsi.Jawabarat",
+    "lat": "-6.9732",
+    "long": "108.491",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kuningan",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3208059",
+    "name": "RS Umum Daerah Linggajati Kuningan",
+    "address": "Jln. Raya Bandorasa Wetan - Cilimus No.36 Kec.Cilimus  Kab. Kuningan",
+    "lat": "-6.88546",
+    "long": "108.49430",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kuningan",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3208061",
+    "name": "RS Jantung Hasna Medika Kuningan",
+    "address": "Jl. Raya Cigugur Lingkungan Manis RT. 030 RW. 011 Kecamatan Cigugur",
+    "lat": "-6.974557",
+    "long": "108.4678399",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kuningan",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3209014",
+    "name": "RS Umum Daerah Waled",
+    "address": " Jl. Prabu Kiansantang No. 4 Waled, Cirebon",
+    "lat": "-6.9142",
+    "long": "108.718",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cirebon",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3209025",
+    "name": "RS Pertamina Cirebon",
+    "address": "Jl. Patra Raya Klayan No 1 Cirebon",
+    "lat": "-6.6857",
+    "long": "108.549",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cirebon",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3209051",
+    "name": "RS Umum Mitra Plumbon",
+    "address": "Jl. Raya Plumbon Km.11 Cirebon",
+    "lat": "-6.701498345310198",
+    "long": "108.48156600203856",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cirebon",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3274136",
+    "name": "RS Jantung Hasna Medika",
+    "address": "Jl. Raden Gilap No 8 Palimanan, Kabupaten Cirebon",
+    "lat": "-6.709253281221901",
+    "long": "108.4335206704521",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cirebon",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3210014",
+    "name": "RS Umum Daerah Majalengka",
+    "address": " Jl. Kesehatan No.77 Majalengka",
+    "lat": "-6.8333",
+    "long": "108.233",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Majalengka",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3210036",
+    "name": "RS Bedah Budi Kasih",
+    "address": "Jl. Raya Siliwangi Panyingkiran Km.7 No.84 Kel. Karyamukti Kec. Panyingkiran Kab. Majalengka Prov. Jawa Barat",
+    "lat": "-6.800033",
+    "long": "108.182974",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Majalengka",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3210037",
+    "name": "RS Mitra Plumbon Majalengka",
+    "address": "Jl. Raya Barat Pasar Prapatan No. 109  Desa Panjalin Kidul \r\nKec. Sumberjaya , Kab. Majalengka 45455",
+    "lat": "-6.704744334955436",
+    "long": "108.35720678440657",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Majalengka",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3212071",
+    "name": "RS Islam Zam-Zam Muhammadiyah Jatibarang",
+    "address": "Jl. Raya Letnan Joni 1231, Jatibarang, Indramayu",
+    "lat": "-6.480668633931403",
+    "long": "108.30624664791986",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Indramayu",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3214036",
+    "name": "RS Ibu dan Anak Dian",
+    "address": "Jl. Raya Cibogo Hilir Kec. Plered Kab. Purwakarta",
+    "lat": "-6.653833",
+    "long": "107.389557",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Purwakarta",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3214038",
+    "name": "RS Umum Bhakti Husada II Purwakarta",
+    "address": "Jl. Raya Sadang-Subang KM 5 RT 01/01 Cikumpay Campaka Purwakarta",
+    "lat": "-6.504370617338761",
+    "long": "107.49098136931153",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Purwakarta",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3215012",
+    "name": "RS Umum Daerah Karawang",
+    "address": " Jl. Galuh Mas Raya No.1, Sukaharja, Teluk Jambe, Karawang",
+    "lat": "-6.3184112",
+    "long": "107.2966918",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karawang",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3215045",
+    "name": "RS Umum Dewi Sri",
+    "address": " Jl. Arif Rahman Hakim No. 1 A Karawang",
+    "lat": "-6.304557319969799",
+    "long": "107.29782686557617",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karawang",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3215100",
+    "name": "RS Umum Delima Asih Sisma Medika",
+    "address": "Jl. Wirasaba No.54, Johar - Karawang",
+    "lat": "-6.3152",
+    "long": "107.316",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karawang",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3215123",
+    "name": "RS Umum Citra Sari Husada",
+    "address": "Jl. Raya Kosambi -Telaga Sari Km.3 Klari, Karawang ",
+    "lat": "-6.349791",
+    "long": "107.377628",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karawang",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3215160",
+    "name": "RS Umum Puri Asih",
+    "address": "Jl. Raya Jatisari No. 3 Jatisari Karawang",
+    "lat": "-6.3717468",
+    "long": "107.5209409",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karawang",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216152",
+    "name": "Siloam Hospitals Lippo Cikarang",
+    "address": "Jl. MH Thamrin Kav.105 Bekasi",
+    "lat": "-6,33168",
+    "long": "107,13554",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216387",
+    "name": "RS Umum Dokter Adam Talib",
+    "address": "JL. TEUKU UMAR NO. 25 CIKARANG BARAT",
+    "lat": "-6.270790915185525",
+    "long": "107.09189222883606",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216388",
+    "name": "RS Umum Cibitung Medika",
+    "address": "Jl. H. Bosih No.117 Cibitung Kabupaten Bekasi",
+    "lat": "-6.253290519935998",
+    "long": "107.0861467620407",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216397",
+    "name": "RS Umum Asri Medika",
+    "address": "Jl. Citanduy Raya L 11 No 1, Simpangan, Cikarang Utara, Kab Bekasi, Jawa Barat",
+    "lat": "-6.277040",
+    "long": "107.181190",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216399",
+    "name": "RS Mitra Medika Narom",
+    "address": "Jl. Raya Jatiwangi Ds. Cikedokan  001/001 Cikarang Barat, Kab. Bekasi Jawa Barat",
+    "lat": "-6.3209389",
+    "long": "107.0893913",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216400",
+    "name": "RS Uni Medika Setu Bekasi",
+    "address": "Jl. Raya setu No.99 Desa Lubang Buaya Kec. Setu",
+    "lat": "-6.331774207404841",
+    "long": "107.04834526724241",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216408",
+    "name": "RS Umum Harapan Mulia",
+    "address": "Jl. Raya Cibarusah No. 5 Kebon Kopi Cibarusah Kelurahan Cibarusah Jaya, Kecamatan Cibarusah, Kabupaten Bekasi, Jawa Barat ",
+    "lat": "-6.434305559149993",
+    "long": "107.06901846618653",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216413",
+    "name": "RS Umum Kartika Husada Setu",
+    "address": "Jl. Raya Burangkeng Desa Burangkeng Rt. 001 Rw.06 Kec. Setu",
+    "lat": "-6.340061225390084",
+    "long": "107.03854178326665",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216439",
+    "name": "RS Umum Dr. Iqbali Taufan",
+    "address": "Villa Mutiara Cikarang 2 Blok. E3 No.16-20 Sukasejati Kec. Cikarang Selatan Kab. Bekasi",
+    "lat": "-6.341690,107",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216441",
+    "name": "RS Umum Permata Keluarga Jababeka",
+    "address": "Jl. DR. Cipto Mangunkusumo Blok A Nomor  1 A Medical City Kota Jababeka ",
+    "lat": "-6.284883915170983",
+    "long": "107.17369402054358",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3216450",
+    "name": "RS Eka Bekasi",
+    "address": "Kota Harapan Indah Blok i2-9 No. 9",
+    "lat": "-6.159382134260893",
+    "long": "106.97403578963622",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3275054",
+    "name": "RS Umum As-Shofwan",
+    "address": "Jl. Raya Karawang - Bekasi km.30 Ds. Bojongsari, Kec. Kedungwaringin.",
+    "lat": "-6.267740729075444",
+    "long": "107.24969143923863",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3217006",
+    "name": "RS Umum IMC",
+    "address": "Jl. Raya Cimareme RT. 01 RW. 02 Ds Cimareme Kec Ngamprah Kab Bandung Barat",
+    "lat": "-6.863308501136536",
+    "long": "107.5029080455284",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bandung Barat",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3217121",
+    "name": "RS Umum Cahya Kawaluyan",
+    "address": "Jl. Parahyangan KM. 3 - Kota Baru Parahyangan Kec. Padalarang KBB",
+    "lat": "-6.865707131743182",
+    "long": "107.47396546043547",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bandung Barat",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3218001",
+    "name": "RS Umum Daerah Pandega Pangandaran",
+    "address": "Jl. Merdeka No. 412 Desa Pananjung Kec.Pangandaran Kab. Pangandaran",
+    "lat": "-7.681545743360495",
+    "long": "108.64637969937667",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pangandaran",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201236",
+    "name": "RS Umum Medika Dramaga",
+    "address": "Jl. Raya Dramaga Km.7,3 Margajaya-Bogor Barat-Kota Bogor",
+    "lat": "-6.571260",
+    "long": "106.739660",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201246",
+    "name": "RS Ibu dan Anak Bunda Suryatni",
+    "address": "Jl. KH. Sholeh Iskandar No,21 Tanah Sareal Kota Bogor",
+    "lat": "-6.552456",
+    "long": "106.775590",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201251",
+    "name": "RS Umum Siloam Hospitals Bogor",
+    "address": "Jl. Pajajaran No. 27 Bogor Tengah, Kota Bogor",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3271046",
+    "name": "RS Jiwa dr. H. Marzoeki Mahdi",
+    "address": "Jl. dr. Sumeru No.114 Kota Bogor",
+    "lat": "-6.5894",
+    "long": "106.793",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3271072",
+    "name": "RS Umum Azra",
+    "address": "Jl. Raya Pajajaran No.219, Bogor Utara Kota Bogor",
+    "lat": "-6.5790",
+    "long": "106.807",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3271104",
+    "name": "RS Umum Daerah Kota Bogor",
+    "address": "Jl. DR. Sumeru No.120, Kota Bogor, Jawa Barat",
+    "lat": "-6.5803",
+    "long": "106.778",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3271115",
+    "name": "RS Umum Hermina Bogor",
+    "address": "Jl. Ring Road I Kav. 23,25,27 Perum Taman Yasmin Bogor",
+    "lat": "-6.5561",
+    "long": "106.777",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3271161",
+    "name": "RS Umum Melania",
+    "address": "Jl. Pahlawan No.91, Kota Bogor",
+    "lat": "-6.6113032736903525",
+    "long": "106.80069667857757",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bogor",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3204129",
+    "name": "RS Ibu dan Anak Grha Bunda",
+    "address": "Jl. Terusan Jakarta No. 15-17 Kec. Kiaracondong kota Bandung",
+    "lat": "-6.913093001690572",
+    "long": "107.64563826593356",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273015",
+    "name": "RS Umum Pusat Dr. Hasan Sadikin",
+    "address": "Jl. Pasteur No. 38 Bandung",
+    "lat": "-6.8991",
+    "long": "107.598",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273052",
+    "name": "RS Umum Immanuel Bandung",
+    "address": "Jl. Kopo 161 Bandung",
+    "lat": "-6.9354",
+    "long": "107.596",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273096",
+    "name": "RS Umum Pindad",
+    "address": "Jl. Gatot Soebroto No. 517 Kel. Sukapura Kec. Kiaracondong",
+    "lat": "-6.940032345148947",
+    "long": "107.64622323590517",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273145",
+    "name": "RS Umum Hermina Arcamanik",
+    "address": "Jl. A.H. Nasution No. 50 Antapani Kota Bandung",
+    "lat": "-6.90493425820712",
+    "long": "107.66675162883604",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273165",
+    "name": "RS Ibu dan Anak Limijati",
+    "address": "Jl. LLRE. Martadinata No. 39 Kota Bandung",
+    "lat": "-6.906056863699375",
+    "long": "107.61361355837926",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273176",
+    "name": "RS Umum Tk. IV 03.07.03 Sariningsih",
+    "address": "Jl. L. L. R.E. Martadinata No.09, Kel.Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+    "lat": "-6.906935057079031",
+    "long": "107.6111474707127",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273260",
+    "name": "RS Umum Daerah Bandung Kiwari",
+    "address": "Jl. KH. Wahid Hasyim No. 311 Bandung",
+    "lat": "-6.943197",
+    "long": "107.591405",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273528",
+    "name": "RS Ibu dan Anak Melinda ",
+    "address": "Jl. Pajajaran No.46 Kel Pasirkaliki, Kec. Cicendo, Kota Bandung",
+    "lat": "-6.906858580373824",
+    "long": "107.60332722949978",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273539",
+    "name": "RS Umum Hermina Pasteur ",
+    "address": "Jl. Dr. Djundjunan No.107 Kota Bandung",
+    "lat": "-6.8956",
+    "long": "107.589",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273541",
+    "name": "RS Ibu dan Anak Harapan Bunda Bandung",
+    "address": "Jl. Pluto Raya Blok C Margahayu Raya, Buah Batu, Kota Bandung",
+    "lat": "-6.955810694210075",
+    "long": "107.66209750380858",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273546",
+    "name": "RS Ibu dan Anak Al Islam ",
+    "address": "Jl. Awibitung No. 29-31 Kelurahan Cicadas Kecamatan Cibeunying Kidul ",
+    "lat": "-6.909709",
+    "long": "107.637942",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3273559",
+    "name": "RS Umum Mayapada Hospital Bandung",
+    "address": "Jl. Terusan Buah Batu No. 05 002/004 Batununggal",
+    "lat": "-6.9487473",
+    "long": "107.6348442",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3274020",
+    "name": "RS Umum Tk. III Ciremai",
+    "address": "Jl. Kesambi No. 237 Cirebon",
+    "lat": "-6.7379",
+    "long": "108.55",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Cirebon",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3275052",
+    "name": "RS Umum Juwita",
+    "address": "Jl. M. Hasibuan No.78, Bekasi Timur",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3275060",
+    "name": "RS Umum Satria Medika",
+    "address": "Jl. Raya Bantar Gebang Setu No 119 Kel Padurenan Kec Mustika Jaya",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3275066",
+    "name": "RS Umum Daerah Jatisampurna",
+    "address": "Jl. Raya Pasar Kranggan No. 26 RT 01 RW 04 Kelurahan Jatisampurna Kecamatan Jatisampurna Kota Bekasi Provinsi Jawa Barat 17433",
+    "lat": "-6.3635805",
+    "long": "106.9214097",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3275196",
+    "name": "RS Umum Bella",
+    "address": "Jl. Ir. H .Juanda No. 141, Bekasi",
+    "lat": "-6.246772",
+    "long": "107.010503",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3275274",
+    "name": "RS Umum Jati Sampurna",
+    "address": "Jl. Rawa Dolar RT. 003 RW. 007 Kel. Jatiraden Kec. Jatisampurna",
+    "lat": "-6.3468895",
+    "long": "106.9255828",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bekasi",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201061",
+    "name": "RS Umum Tugu Ibu",
+    "address": "Jl. Raya Bogor Km 29 Cimanggis - Depok",
+    "lat": "-6.3565",
+    "long": "106.86",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Depok",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201141",
+    "name": "RS Ibu dan Anak Tumbuh Kembang",
+    "address": "Jl. Raya Bogor Km.31 No.23 Cimanggis Kota Depok",
+    "lat": "-6.371662642563014",
+    "long": "106.86137282705306",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Depok",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3201256",
+    "name": "RS Universitas Indonesia",
+    "address": "Jl. Prof. Dr. Bahder Djohan, Kampus Universitas Indonesia Depok",
+    "lat": "-6.372143686685863",
+    "long": "106.8296793004547",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Depok",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3276124",
+    "name": "RS Umum Daerah Khidmat Sehat Afiat Kota Depok",
+    "address": "Jl. Raya Muchtar No. 99 Sawangan ",
+    "lat": "-6.403899",
+    "long": "106.758531",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Depok",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3276135",
+    "name": "RS Umum Simpangan Depok",
+    "address": "Jl. Raya Bogor Km.36 , Kel. Sukamaju, Kec. Cilodong, Depok 16414, Jawa Barat",
+    "lat": "-6.4085",
+    "long": "106.861",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Depok",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3206011",
+    "name": "RS Umum Daerah dr. Soekardjo",
+    "address": " Jl. Rumah Sakit 33 Tasikmalaya",
+    "lat": "-7.332236453653749",
+    "long": "108.22512536254271",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tasikmalaya",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3206070",
+    "name": "RS Umum Jasa Kartini",
+    "address": "Jalan Otto Iskandardinata No. 15 Kel. Empangsari Kec. Tawang Kota Tasikmalaya",
+    "lat": "-7.325659",
+    "long": "108.222793",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tasikmalaya",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3278014",
+    "name": "RS Umum Tasik Medika Citratama (TMC)",
+    "address": "Jl. K.H.Z. Mustofa No. 310 Kel. Tuguraja Kec. Cihideung ",
+    "lat": "-7.340349",
+    "long": "108.21767",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tasikmalaya",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3278015",
+    "name": "RS Ibu dan Anak Ummi",
+    "address": "Jl. Paseh No. 10 Tuguraja Cihideung Kota Tasikmalaya",
+    "lat": "-7.333403",
+    "long": "108.214747",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tasikmalaya",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3207023",
+    "name": "RS Umum Daerah Banjar",
+    "address": "  Jl. Rumah Sakit No. 5 Kota Banjar",
+    "lat": "-7.3698",
+    "long": "108.573",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Banjar",
+    "province": "Jawa Barat"
+  },
+  {
+    "id": "3301014",
+    "name": "RS Umum Daerah Cilacap",
+    "address": "Jl. Gatot Subroto 28 Cilacap RT 04 / RW 05 Kel. Sidanegara Kec. Cilacap Tengah Kab. Cilacap",
+    "lat": "-7.717242526654959",
+    "long": "109.01536478042605",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cilacap",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3301036",
+    "name": "RS Umum Pertamina Cilacap",
+    "address": "Jl. Dr. Setiabudi No.1 Tegal Kamulyan, Cilacap Selatan, Cilacap",
+    "lat": "-7.7024",
+    "long": "109.042",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cilacap",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3301073",
+    "name": "RS Umum Islam Fatimah",
+    "address": "Jl. Ir.H.Juanda No.20 Cilacap",
+    "lat": "-7.692089123519636",
+    "long": "109.02491449323043",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cilacap",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3301095",
+    "name": "RS Ibu dan Anak Annisa",
+    "address": "Jl. Gatot Subroto 31 A Cilacap",
+    "lat": "-7.717239",
+    "long": "109.014663",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cilacap",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3301108",
+    "name": "RS Umum Aghisna Medika Kroya",
+    "address": "Jl. Yos Sudarso No. 1 Karangmangu Kroya",
+    "lat": "-7.6331446",
+    "long": "109.2474818",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Cilacap",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3302015",
+    "name": "RS umum Daerah Banyumas",
+    "address": "Jl. Rumah Sakit No.1 Banyumas",
+    "lat": "-7.5302",
+    "long": "109.292",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyumas",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3302074",
+    "name": "RS Umum An Ni'mah",
+    "address": "Jalan Raya Klapagading Kulon Rt 01 Rw 14 Kec Wangon - Banyumas",
+    "lat": "-7.51806",
+    "long": "109.06227",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyumas",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3302121",
+    "name": "RS Umum Amanah",
+    "address": "Jl Raya Kebokura No.37 Kec Sumpiuh Kab Banyumas",
+    "lat": "-7.6132",
+    "long": "109.36",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyumas",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3302191",
+    "name": "RS Umum Daerah Ajibarang",
+    "address": "    Jl. Raya Pancasan No.1,Ajibarang Banyumas",
+    "lat": "-7.4033",
+    "long": "109.096",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyumas",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3303016",
+    "name": "RS Umum Daerah dr. R. Goeteng Taroenadibrata",
+    "address": " Jl. Tentara Pelajar Purbalingga No. 22",
+    "lat": "-7.3846",
+    "long": "109.362",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Purbalingga",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3303075",
+    "name": "RS Umum Harapan Ibu",
+    "address": "Jl. May.Jend.Soengkono KM.1,Kec. Kalimanah, Purbalingga dan JL. Soekarno Hatta No.02 Kec. Kalimanah ",
+    "lat": "-7.40055656238444",
+    "long": "109.35044282531737",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Purbalingga",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3303099",
+    "name": "RS Ibu dan Anak Ummu Hani",
+    "address": "Jl. D I Panjaitan No 40 A Purbalingga Jawa Tengah",
+    "lat": "-7.38687748974773",
+    "long": "109.36148306403197",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Purbalingga",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3305033",
+    "name": "RS Umum Palang Biru Gombong",
+    "address": "Jl. Yos Sudarso Timur Desa Kedungpuji Gombong",
+    "lat": "-7.6063",
+    "long": "109.516",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kebumen",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3309085",
+    "name": "RS Umum  Karanggede Sisma Medika",
+    "address": "Jl. Raya Karanggede - Solo KM.1, Boyolali",
+    "lat": "-7.5651",
+    "long": "110.62",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Boyolali",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3309136",
+    "name": "RS Umum Islam Boyolali",
+    "address": "Jl. Raya Boyolali Klaten Kemiri Mojosongo",
+    "lat": "-7.5506416",
+    "long": "110.6218153",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Boyolali",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3310015",
+    "name": "RS Umum Pusat Dr. Soeradji Tirtonegoro",
+    "address": "Jl. KRT. Suraji Tirtonegoro No.1, Klaten",
+    "lat": "-7.7151",
+    "long": "110.588",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Klaten",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3310395",
+    "name": "RS Umum Cakra Husada",
+    "address": "Jl. Merbabu No. 7 Klaten",
+    "lat": "-7.7091",
+    "long": "110.595",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Klaten",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3310405",
+    "name": "RS Khusus Bedah Diponegoro",
+    "address": "Jl. Diponegoro No.21 Klaten",
+    "lat": "-7.701593",
+    "long": "110.614390",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Klaten",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3310416",
+    "name": "RS Umum PKU Muhammadiyah Delanggu",
+    "address": "Jl. Raya Delanggu Utara No. 19 Desa/Kel. Gatak Kec. Delanggu Kab. Klaten",
+    "lat": "-7.613839959964223",
+    "long": "110.70143410468108",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Klaten",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3310417",
+    "name": "RS Umum Islam Cawas Klaten",
+    "address": "Jl. Raya Tugu - Cawas, Kelurahan Tugu, Kecamatan Cawas, Kabupaten Klaten, Provinsi Jawa Tengah. 57463",
+    "lat": "-7.773762",
+    "long": "110.698422",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Klaten",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3311016",
+    "name": "RS Umum Daerah Ir. Soekarno Kabupaten Sukoharjo",
+    "address": "Jl. Dr. Muwardi 71, Sukoharjo",
+    "lat": "-7.683475",
+    "long": "110.849939",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sukoharjo",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3311027",
+    "name": "RS Khusus Orthopedi Karima Utama",
+    "address": "Jl. Amarta 8-10 Ngabeyan Kartasura, Sukoharjo - Jawa Tengah ",
+    "lat": "-7.545390",
+    "long": "110.743270",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sukoharjo",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3311225",
+    "name": "RS Umum PKU Muhammadiyah Sukoharjo",
+    "address": "Jl. Mayor Sunaryo No. 37 Gawanan, Kelurahan Sukoharjo, Kecamatan Sukoharjo, Kabupaten Sukoharjo, Provinsi Jawa Tengah",
+    "lat": "-7.6777217",
+    "long": "110.8397659",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sukoharjo",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3311228",
+    "name": "RS Umum Universitas Sebelas Maret",
+    "address": "Jl. Ahmad Yani 200 Makamhaji Kartasura Sukoharjo",
+    "lat": "-7.5593403",
+    "long": "110.7731648",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sukoharjo",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372063",
+    "name": "RS Orthopedi Prof. Dr. R. Soeharso",
+    "address": "Jl. Jenderal Ahmad Yani Pabelan, Surakarta 57162",
+    "lat": "-7.5575",
+    "long": "110.774",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sukoharjo",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3312021",
+    "name": "RS Umum Maguan Husada",
+    "address": "Jl. Raya Pracimantoro-Giribelah Km.6  Suci, Kec. Pracimantoro, Kab. Wonogiri, Provinsi Jawa Tengah",
+    "lat": "-8.079018095577835",
+    "long": "110.8533389598633",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Wonogiri",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3312284",
+    "name": "RS Umum Muhammadiyah Selogiri",
+    "address": "Jl. Lama Bulak, RT.02, RW.04 Desa Nambangan Selogiri, Wonogiri",
+    "lat": "- 7.7568233626386",
+    "long": "110.88175445242",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Wonogiri",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3313011",
+    "name": "RS Umum Daerah Karanganyar",
+    "address": "Jl. Laksda Yos Sudarso Karanganyar",
+    "lat": "-7.5965",
+    "long": "110.951",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karanganyar",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3313042",
+    "name": "RS Ibu dan Anak Dian Pertiwi ",
+    "address": " Jl. Lawu Papahan, Tasikmadu Karanganyar ",
+    "lat": "-7.588168640478201",
+    "long": "110.92205539758301",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karanganyar",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3314056",
+    "name": "RS Umum Islam Amal Sehat Sragen",
+    "address": "Jl. Veteran No.35, Sragen, Jawa Tengah",
+    "lat": "-7.4311",
+    "long": "111.025",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sragen",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3314090",
+    "name": "RS Umum PKU Muhammadiyah Sragen ",
+    "address": "Jl. Raya Sragen - Solo Km.8, Masaran, Sragen",
+    "lat": "-7.460136999999999",
+    "long": "110.953102",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sragen",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3316014",
+    "name": "RS Umum Daerah Dr. R. Soetijono Blora",
+    "address": "  Jl. Dr Sutomo No. 42,Blora Jawa Tengah",
+    "lat": "-6.9711",
+    "long": "111.421",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Blora",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3316040",
+    "name": "RS Umum Permata Blora",
+    "address": "Jl. Reksodiputro No.57,Blora",
+    "lat": "-6.974958130882597",
+    "long": "111.41835242824173",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Blora",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3316062",
+    "name": "RS Umum Bantuan Blora",
+    "address": "Jl. Dr. Sutomo No.45, Blora",
+    "lat": "-6.969127599999999",
+    "long": "111.4186704",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Blora",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3316063",
+    "name": "RS Umum PKU Muhammadiyah Blora",
+    "address": "Jl. Raya Blora-Cepu Km 3 Desa Seso Kecamatan Jepon Kabupaten Blora Provinsi Jawa Tengah",
+    "lat": "-6.971525094733697",
+    "long": "111.45022902117921",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Blora",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3317015",
+    "name": "RS Umum Daerah dr. R. Soetrasno Rembang",
+    "address": "Jl. Pahlawan No.16 Rembang",
+    "lat": "-6.707561305507749",
+    "long": "111.37215583529814",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Rembang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3318016",
+    "name": "RS Umum Daerah RAA Soewondo",
+    "address": " Jl. Dr Soesanto  No. 114 Pati",
+    "lat": "-6.739049937713796",
+    "long": "111.04376174736024",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pati",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3319032",
+    "name": "RS Umum Mardi Rahayu",
+    "address": "Jl. AKBP R Agil  Kusumadya 110,Kudus",
+    "lat": "-6.8300",
+    "long": "110.831",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kudus",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3322023",
+    "name": "RS Umum Daerah dr. Gondo Suwarno",
+    "address": " Jl. Diponegoro 125,Ungaran",
+    "lat": "-7.1343",
+    "long": "110.404",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3323024",
+    "name": "RS Umum Ngesti Waluyo",
+    "address": "Jl. Pahlawan Parakan,Temanggung",
+    "lat": "-7.286822568320271",
+    "long": "110.10528457498549",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Temanggung",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3325037",
+    "name": "RS Umum Qim",
+    "address": "Jl. Urip Sumoharjo, Sambong",
+    "lat": "-6.915829382961784",
+    "long": "109.74580912795409",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Batang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3326011",
+    "name": "RS Umum Daerah Kraton Kab. Pekalongan",
+    "address": "  Jl. Veteran 31,Pekalongan",
+    "lat": "-6.881591883549501",
+    "long": "109.66754876686481",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pekalongan",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3326038",
+    "name": "RS Umum Daerah Kajen Kab. Pekalongan",
+    "address": "Jl. Raya Karangsari Karanganyar Kab. Pekalongan",
+    "lat": "-7.031035266808759",
+    "long": "109.61737222759552",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pekalongan",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3328078",
+    "name": "RS Umum Adella",
+    "address": "Jl. Prof.Moh. Yamin No.77 Slawi",
+    "lat": "-6.9728409",
+    "long": "109.1321289",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tegal",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3371025",
+    "name": "RS Umum Tk. II Dr. Soedjono",
+    "address": "Jl. Urip Soemoharjo No 48 Kelurahan Wates Kec. Magelang Utara",
+    "lat": "-7.974460801958966",
+    "long": "110.84298281874999",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Magelang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3371040",
+    "name": "RS Jiwa Prof. Dr. Soerojo",
+    "address": " Jl. Jenderal Ahmad Yani 169 Magelang",
+    "lat": "-7.4414273",
+    "long": "110.2234959",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Magelang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372015",
+    "name": "RS Umum Daerah Dr. Moewardi Surakarta",
+    "address": "  Jl. Kol Sutarto 132,Surakarta",
+    "lat": "-7.5589513202614755",
+    "long": "110.84209895875244",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372074",
+    "name": "RS Umum Panti Waluyo",
+    "address": "Jl. Jend A Yani No.1",
+    "lat": "-7.5599",
+    "long": "110.791",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372132",
+    "name": "RS Umum Islam Kustati",
+    "address": "Jl. Kapt. Mulyadi No.249",
+    "lat": "-7.5809",
+    "long": "110.831",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372191",
+    "name": "RS Umum Triharsi",
+    "address": "Jl. Monginsidi No.82,Surakarta",
+    "lat": "-7.557592770951934",
+    "long": "110.82503976917265",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372201",
+    "name": "RS Umum Pusat Surakarta",
+    "address": "Jl. Profesor DR. Soeharso No.28, Jajar, Kec. Laweyan",
+    "lat": "-7.554446",
+    "long": "110.787062",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372234",
+    "name": "RS Umum Daerah Ibu Fatmawati Soekarno",
+    "address": "Jl. Lettu Sumarto No. 1 Kel. Kadipiro Kec. Banjarsari",
+    "lat": "-7.526181827694067",
+    "long": "110.81283001846073",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372236",
+    "name": "RS Umum Hermina Solo",
+    "address": "jl kolonel sutarto no 16",
+    "lat": "-7.560173789241359",
+    "long": "110.8401933213745",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3372241",
+    "name": "RS JIH Solo",
+    "address": "Jl. Adi Sucipto No 118 Jajar Laweyan",
+    "lat": "-7.550387",
+    "long": "110.789842",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surakarta",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3373020",
+    "name": "RS Umum Tk. IV 04.07.03 dr. Asmir",
+    "address": "Jl. Dr Muwardi No. 50 Salatiga",
+    "lat": "-7.331209585917507",
+    "long": "110.5105015536817",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Salatiga",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3373042",
+    "name": "RS Paru Dr. Ario Wirawan",
+    "address": "Jl. Hasanudin No.806,Salatiga",
+    "lat": "-7.3699",
+    "long": "110.45",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Salatiga",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3373092",
+    "name": "RS Ibu dan Anak Hermina Mutiara Bunda",
+    "address": "Jl. Merak No. 8 Mangunsari Sidomukti",
+    "lat": "-7.329792385014612",
+    "long": "110.49464948147585",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Salatiga",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3374043",
+    "name": "RS Umum Telogorejo Semarang",
+    "address": "Jl. KH. Ahmad Dahlan Semarang",
+    "lat": "-6.9882",
+    "long": "110.427",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3374080",
+    "name": "RS Roemani Muhammadiyah Semarang",
+    "address": "Jl. Wonodri No. 22 Semarang",
+    "lat": "-7.000049512533664",
+    "long": "110.4280364460239",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3374112",
+    "name": "RS Umum Panti Wilasa Citarum",
+    "address": "Jl. Citarum No 98 Semarang",
+    "lat": "-6.970007855423362",
+    "long": "110.43951029488336",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3374134",
+    "name": "RS Umum Daerah Tugurejo Semarang",
+    "address": "Jl. WALISONGO KM 8,5 NO 137  Semarang",
+    "lat": "-6.9966",
+    "long": "110.373",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3374240",
+    "name": "RS Panti Wilasa ",
+    "address": "Jl. Dr. Cipto 50, Bugangan, Semarang Timur",
+    "lat": "-6.9752",
+    "long": "110.435",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3374342",
+    "name": "RS Daerah KRMT Wongsonegoro",
+    "address": "  Jl. Fatmawati Raya No.1",
+    "lat": "-7.033819593102745",
+    "long": "110.46669025564188",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3375033",
+    "name": "RS Umum Siti Khodijah",
+    "address": "Jl. Bandung No.39-47,Pekalongan",
+    "lat": "-6.8961525",
+    "long": "109.6758462",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Pekalongan",
+    "province": "Jawa Tengah"
+  },
+  {
+    "id": "3401037",
+    "name": "RS Umum Rizki Amalia Medika",
+    "address": "Jl raya Brosot - Wates Km.5 Jogahan Bumirejo Lendah Kulon Progo",
+    "lat": "-7.9121",
+    "long": "110.203",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kulon Progo",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3402016",
+    "name": "RS Umum Daerah Panembahan Senopati",
+    "address": "Jl Dr. Wahidin Sudiro Husodo Bantul",
+    "lat": "-8.023266309950854",
+    "long": "110.45884960937497",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bantul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3402020",
+    "name": "RS Umum Santa Elisabeth",
+    "address": "Ganjuran Sumbermulyo Bambanglipuro",
+    "lat": "-7.8855",
+    "long": "110.33",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bantul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3402053",
+    "name": "RS Umum Nur Hidayah",
+    "address": "Jl Imogiri Timur Km. 11,5 Trimulyo Jetis Bantul",
+    "lat": "-7.886063174907",
+    "long": "110.38799215385",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bantul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3402064",
+    "name": "RS Umum Rachma Husada ",
+    "address": " Jl Parangtritis Km.16 Gerselo Patalan Jetis Bantul ",
+    "lat": "-7.9096",
+    "long": "110.352",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bantul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3402076",
+    "name": "RS Khusus Bedah Ring Road Selatan",
+    "address": "Glugo Panggungharjo Sewon Bantul Yogyakarta",
+    "lat": "-7.833032",
+    "long": "110.360149",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bantul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3402086",
+    "name": "RS Rajawali Citra ",
+    "address": "Jl Pleret Km.2,5, Banjardadap Potorono Banguntapan Bantul ",
+    "lat": "-7.8855",
+    "long": "110.33",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Bantul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3403010",
+    "name": "RS Umum Daerah Wonosari",
+    "address": "Jl Taman Bakti No. 06 Wonosari",
+    "lat": "-7.961840618793007",
+    "long": "110.60291953372955",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Gunung Kidul",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3404011",
+    "name": "RS Umum Daerah Sleman",
+    "address": "JL Bhayangkara No 48 Triharjo Sleman",
+    "lat": "-7.6840848",
+    "long": "110.3428085",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sleman",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3404183",
+    "name": "RS Umum PKU Muhammadiyah Gamping",
+    "address": "Jl. Wates KM 5,5 Gamping Sleman",
+    "lat": "-7.800458",
+    "long": "110.315499",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sleman",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3404191",
+    "name": "RS Universitas Ahmad Dahlan",
+    "address": "Jl Cindelaras Raya - Karangsari, Wedomartani, Ngemplak",
+    "lat": "-7.80509033052684",
+    "long": "110.35868236591796",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sleman",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3471041",
+    "name": "RS PKU Muhammadiyah Yogyakarta",
+    "address": "Jl K.H. Ahmad Dahlan No. 20 Ngupasan Gondomanan Yogyakarta",
+    "lat": "-7.800881683136717",
+    "long": "110.36230577182766",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Yogyakarta",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3471052",
+    "name": "RS Umum Panti Rapih",
+    "address": "Jl. Cik Di Tiro 30 Yogyakarta",
+    "lat": "-7.777295569912091",
+    "long": "110.37669614737102",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Yogyakarta",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3471063",
+    "name": "RS Bethesda Yogyakarta",
+    "address": "Jl Jend. Sudirman No. 70 Kotabaru Yogyakarta",
+    "lat": "-7.7836",
+    "long": "110.377",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Yogyakarta",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3471096",
+    "name": "RS  Mata Dr. Yap",
+    "address": "Jl Cik Di Tiro No. 5 Yogyakarta",
+    "lat": "-7.7800",
+    "long": "110.375",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Yogyakarta",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3471234",
+    "name": "RS Umum Daerah Kota Yogyakarta",
+    "address": "Jl Wirosaban No. 1 Yogyakarta",
+    "lat": "-7.825852805323056",
+    "long": "110.37800252437592",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Yogyakarta",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "id": "3501017",
+    "name": "RSU Agung Mulia",
+    "address": "Jl. Sasuit Tubun Lingk. Bleber Kel. Sidoharjo Kec. Pacitan Kab. Pacitan",
+    "lat": "-8.192645369390256",
+    "long": "111.09795576593163",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pacitan",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3501019",
+    "name": "RS Umum Medical Mandiri Pacitan",
+    "address": "Jalur Lintas Selatan,Suruhan Desa Sirnoboyo, Kecamatan Pacitan, Kabupaten Pacitan, Provinsi Jawa Timur",
+    "lat": "-8.207561934478324",
+    "long": "111.12446456160887",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Pacitan",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3502123",
+    "name": "RS Umum Darmayu Ponorogo",
+    "address": "Jl. Dr. Sutomo No. 44-50 Ponorogo",
+    "lat": "-7.868403",
+    "long": "111.473378",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Ponorogo",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3502134",
+    "name": "RS Umum Muhammadiyah Ponorogo",
+    "address": "Jalan Diponegoro No. 50, Kelurahan Mangkujayan, Kecamatan Ponorogo, Kabupaten Ponorogo, Provinsi Jawa Timur, Kode Pos 63413",
+    "lat": "-7.8663",
+    "long": "111.464",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Ponorogo",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3502146",
+    "name": "RS Umum Muslimat Ponorogo",
+    "address": "Jl. Jend. A. Yani 155, Ponorogo",
+    "lat": "-7.877585759901253",
+    "long": "111.46986066308364",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Ponorogo",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3504012",
+    "name": "RS Umum Daerah Dr. Iskak Tulungagung",
+    "address": "Jl. Dr. Wahidin Sudiro Husodo Tulungagung",
+    "lat": "-8.054977218474445",
+    "long": "111.91822582911375",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tulungagung",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3504057",
+    "name": "RS Ibu dan Anak Fauziah ",
+    "address": "Jl. Dr. Sutomo 47 Tulungagung",
+    "lat": "-8.070032883834195",
+    "long": "111.89482181277617",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tulungagung",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3504069",
+    "name": "RS Umum Satiti Prima Husada",
+    "address": "Ds. Balesono, Kec. Ngunut Kab. Tulungagung",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tulungagung",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3505024",
+    "name": "RS Umum  Aulia Blitar",
+    "address": "Jl. Raya Utara No. 3 Kembangarum, Sutojayan, Kab. Blitar",
+    "lat": "-8.159466889749169",
+    "long": "112.21762362060545",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Blitar",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3506063",
+    "name": "RS Umum  Wilujeng",
+    "address": "Jl. Joyoboyo No.4 Padangan Kec Kayen Kidul, Kab. Kediri",
+    "lat": "-7.730893227637092",
+    "long": "112.11820456143971",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kediri",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3506064",
+    "name": "RS Ibu dan Anak Permata Hati Pare Kediri",
+    "address": "Jl. Raya Kediri Nomor 48, Ds. Darungan, Kec Pare Kab Kediri",
+    "lat": "-7.764707",
+    "long": "112.149580",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kediri",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3507015",
+    "name": "RS Bala Keselamatan Bokor",
+    "address": "Jl. A.Yani  No.91 Turen , Kab.Malang",
+    "lat": "-8.169896363001259",
+    "long": "112.6998439247737",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Malang",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3507026",
+    "name": "RS Jiwa Dr. Radjiman Wediodiningrat Lawang",
+    "address": "Jl. A. Yani, Lawang, Malang, Jawa Timur ",
+    "lat": "-7.824515854317013",
+    "long": "112.71624386405938",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Malang",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3507096",
+    "name": "RS Umum Wava Husada ",
+    "address": "Jln. Panglima Sudirman 99a Kepanjen Malang",
+    "lat": "-8.115965",
+    "long": "112.574593",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Malang",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3507230",
+    "name": "RS Sumber Sentosa",
+    "address": "Jl. Kebonsari No. 221 Malang, RT 003, RW 002 Desa Tumpang, Kec. Tumpang, Kab. Malang",
+    "lat": "-8.013331113784982",
+    "long": "112.75649878931046",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Malang",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3508058",
+    "name": "RS Umum Daerah Pasirian Kabupaten Lumajang",
+    "address": "Jl. Raya Pasirian No. 225A. Kec. Pasirian",
+    "lat": "-8.208416360481745",
+    "long": "113.11577096769989",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lumajang",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3509010",
+    "name": "RS Umum Daerah Dr. Soebandi",
+    "address": "Jl. Dr. Soebandi No.124, Jember",
+    "lat": "-8.15097569150269",
+    "long": "113.71547773247147",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jember",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3509135",
+    "name": "RS Bina Sehat Jember",
+    "address": "Jl. Jayanegara 7 Kaliwates Jember",
+    "lat": "-8.18050900983345",
+    "long": "113.68492952366068",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jember",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3509136",
+    "name": "RS Umum Citra Husada Jember",
+    "address": "jl. Teratai No. 22 Jember",
+    "lat": "-8.1674019",
+    "long": "113.680065",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jember",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3509137",
+    "name": "RS Umum Srikandi IBI Jember",
+    "address": "Jl. KH Agus Salim No. 20",
+    "lat": "-8.185869478098207",
+    "long": "113.6903798478851",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jember",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3509138",
+    "name": "RS Kaliwates Jember",
+    "address": "Jl. Diah Pitaloka Nomor 4 Jember",
+    "lat": "-8.18180418583249",
+    "long": "113.67510049548491",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jember",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3509140",
+    "name": "RS Siloam Jember",
+    "address": "Jl. Gajah Mada 104 Kelurahan Jember Kidul Kecamatan Kaliwates",
+    "lat": "-8.173807095679358",
+    "long": "113.68777356171873",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jember",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3510021",
+    "name": "RS Umum Bhakti Husada",
+    "address": "Jl. Krikilan-Glenmore Dusun Krajan, Tegalharjo",
+    "lat": "-8.3095916",
+    "long": "114.0398693",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyuwangi",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3510103",
+    "name": "RS Al Huda ",
+    "address": "Jl. Raya Gambiran No. 225, Desa Gambiran, Kec. Gambiran, Kab. Banyuwangi",
+    "lat": "-8.3772589",
+    "long": "114.146412,18",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banyuwangi",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3515136",
+    "name": "RS Mata Fatma",
+    "address": "Jl. Raya Kalijaten No. 40 ",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sidoarjo",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3516016",
+    "name": "RS Umum Daerah Sumberglagah",
+    "address": " Dsn. Sumberglagah Ds. Tanjungkenongo Kec. Pacet Mojokerto",
+    "lat": "-7.607144984108772",
+    "long": "112.54171803802873",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Mojokerto",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3520041",
+    "name": "RS Angkatan Udara dr. Efram Harsana",
+    "address": "Jl. Marsma TNI Anumerta R.Iswahjudi, Kelurahan Maospati, Kecamatan Maospati, Kab. Magetan",
+    "lat": "-7.603392480349213",
+    "long": "111.44261025374146",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Magetan",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3524047",
+    "name": "RS Muhammadiyah Babat",
+    "address": "Jl. KH. Ahmad Dahlan No. 14 Babat, Lamongan ",
+    "lat": "-7.104947",
+    "long": "112.167148",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lamongan",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3524048",
+    "name": "RS Umum Citra Medika Lamongan",
+    "address": "Jl. Lamongrejo No. 28 Lamongan",
+    "lat": "-7.11976",
+    "long": "112.41662",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lamongan",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3525076",
+    "name": "RS Petrokimia Gresik",
+    "address": "Jl. Jend. A. Yani No. 69 Kel. Ngipik, Kec. Ngipik, Kab. Gresik",
+    "lat": "-7.1598019497277265",
+    "long": "112.64305235385895",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Gresik",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3525092",
+    "name": "RS Grha Husada Gresik ",
+    "address": "Komplek Perum PT Petrokimia Gresik, Jalan Padi No.3, Tlogopojok, Kroman, Kec. Gresik, Kabupaten Gresik, Jawa Timur 61118",
+    "lat": "-7.154040",
+    "long": "112.646272",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Gresik",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3525099",
+    "name": "RS Umum Rachmi Dewi ",
+    "address": "Jl. Jawa No. 79 - 81, Gresik Kota Baru, Kec. Manyar, Kab. Gresik, Provinsi Jawa Timur 61151",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Gresik",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3572073",
+    "name": "RS Islam Aminah",
+    "address": "Jl. Kenari No. 54 Blitar",
+    "lat": "-8.114940",
+    "long": "112.163403",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Blitar",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3574012",
+    "name": "RS Umum Daerah dr. Mohamad Saleh Kota Probolinggo",
+    "address": "  Jl. Mayjend Panjaitan No.65 Kota Probolinggo",
+    "lat": "-7.7489",
+    "long": "113.21",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Probolinggo",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3576074",
+    "name": "RS Kamar Medika",
+    "address": "Jl. Empunala No.351, Kel. Kedundung, Kec. Magersari, Kota Mojokerto",
+    "lat": "-7.464920",
+    "long": "112.451321",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Mojokerto",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3577015",
+    "name": "RS Umum Daerah Dr. Soedono Madiun",
+    "address": "Jl. Dr. Soetomo 59, Madiun",
+    "lat": "-7.6264",
+    "long": "111.524",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Madiun",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3578086",
+    "name": "RS Primasatya Husada Citra (PHC) Surabaya",
+    "address": "Jl. Prapat Kurung Selatan no 1 Tanjung Perak Surabaya",
+    "lat": "-7.209710763179305",
+    "long": "112.735735815747",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3578122",
+    "name": "RS Umum Tk. III Brawijaya",
+    "address": "Jl. Kesatrian No.17 Surabaya",
+    "lat": "S7 17'49.6716",
+    "long": "E 112 43' 23.7828",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3578224",
+    "name": "RS Umum Islam Surabaya Jemursari ",
+    "address": "Jl. Jemursari No 51-57, Surabaya",
+    "lat": "-7.322839259760221",
+    "long": "112.73997147459106",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3578571",
+    "name": "RS Umum Daerah dr. Mohamad Soewandhie",
+    "address": "Jl. Tambakrejo No. 45-47 Surabaya",
+    "lat": "-7.2456214",
+    "long": "112.7580023",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3578593",
+    "name": "RS Ibu dan Anak Pura Raharja",
+    "address": "Jl. Pucang Adi No.12 - 14 Surabaya",
+    "lat": "-7.283090307315025",
+    "long": "112.75285013690947",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3578773",
+    "name": "RS Ibu dan Anak Bantuan 05.08.05 Surabaya",
+    "address": "Gubeng Pojok No.21 Surabaya",
+    "lat": "-7.2564257",
+    "long": "112.750954",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3579030",
+    "name": "RS Umum Karsa Husada Kota Batu ",
+    "address": " Jl. A.Yani No.10-13 Kota Batu ",
+    "lat": "-7.872318",
+    "long": "112.523449",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Batu",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3579074",
+    "name": "RS Baptis Batu",
+    "address": "Jln. Raya Panglima Sudirman No. 33 Desa Tlekung Kec. Junrejo Kota Batu",
+    "lat": "-7.8848",
+    "long": "112.53",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Batu",
+    "province": "Jawa Timur"
+  },
+  {
+    "id": "3603157",
+    "name": "RS Umum Daerah Balaraja",
+    "address": " Jl.Rumah Sakit NO. 88 Desa Tobat Kec. Balaraja",
+    "lat": "-6.197133620274746",
+    "long": "106.43957530092939",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3603172",
+    "name": "RS St. Carolus Summarecon Serpong ",
+    "address": "Jl Gading Golf Boulevard Kav. 08 Desa Cihuni Kec. Pagedangan",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3603175",
+    "name": "RS Umum Murni Asih",
+    "address": "Jl. Raya Legok No.86, Bojongnangka Kelurahan Medang, Kecamatan Pagedangan Kabupaten Tangerang - Banten ",
+    "lat": "-6.254351686397919",
+    "long": "106.60800411310538",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3603176",
+    "name": "RS Umum Keluarga Kita",
+    "address": "Jl. Raya PLP Curug KM. 4 No. 8 Curug",
+    "lat": "-6.251883581385074",
+    "long": "106.56214282080576",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3603189",
+    "name": "RS UniMedika Sepatan",
+    "address": "Jl. Raya Pakuhaji No. 3 RT. 002 RW. 001 Kel. Sepatan Kab. Tangerang",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671054",
+    "name": "RS Siloam Hospitals Lippo Village",
+    "address": "Jl. Siloam No. 6  Lippo Village Tangerang",
+    "lat": "-6.225391980261864",
+    "long": "106.5977724761963",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3604013",
+    "name": "RS Umum Daerah dr. Drajat Prawiranegara ",
+    "address": "Jl. Rumah Sakit No. 1 Serang",
+    "lat": "-6.11991713537838",
+    "long": "106.15262403097495",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Serang",
+    "province": "Banten"
+  },
+  {
+    "id": "3604047",
+    "name": "RS Kurnia Serang",
+    "address": "Jl. Raya Cilegon KM 8 Kramatwatu",
+    "lat": "-6.062888493034542",
+    "long": "106.1185921821165",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Serang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671021",
+    "name": "RS Daan Mogot Kesdam Jaya",
+    "address": "Jl. Daan Mogot No. 59 Kota Tangerang",
+    "lat": "-6.172119058589829",
+    "long": "106.63144767272831",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671126",
+    "name": "RS Murni Teguh Ciledug",
+    "address": "Jl. HOS Cokroaminoto (Ciledug Raya) No. 4A Kreo Selatan Larangan Tangerang 15156",
+    "lat": "-6.2381412",
+    "long": "106.7454657",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671136",
+    "name": "RS Umum Hermina Tangerang",
+    "address": "Jl. KS, Tubun No.10 Kel. Pasar Baru Kec. Karawaci Kota Tangerang",
+    "lat": "-6.22592",
+    "long": "106.8171264",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671208",
+    "name": "RS Umum Daerah Kota Tangerang",
+    "address": "Jl Pulau Puteri Raya Perumahan Modernland, Kel. Kelapa Indah Kec. Tangerang",
+    "lat": "-6.2007467630521855",
+    "long": "106.63466124739989",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671214",
+    "name": "RS Tiara ",
+    "address": "JALAN BERINGIN RAYA NO.3,4,5 KEL.NUSA JAYA. KEC.KARAWACI",
+    "lat": "-6.195513269573626",
+    "long": "106.61508931559145",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671217",
+    "name": "RS Ibu dan Anak Karunia Bunda",
+    "address": "Jl. Aria Santika No. 28, Kel. Margasari, Kec. Karawaci, Kota Tangerang 15113",
+    "lat": "-6.17797021768417",
+    "long": "106.6148880025421",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671222",
+    "name": "RS Ibu dan Anak Makiyah",
+    "address": "Jl. KH. Kuding RT. 005 RW. 006, Kelurahan Belendung, Kecamatan Benda, Kota Tangerang, Provinsi Banten",
+    "lat": "-6.150747",
+    "long": "106.663758",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3671241",
+    "name": "RS Metro Hospitals M. Toha",
+    "address": "Jl. Raya Mohammad Toha Km. 2  No. 1 Kel. Nambo Jaya Kecamatan Karawaci 15112",
+    "lat": "-6.1695963",
+    "long": "106.6097362",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang",
+    "province": "Banten"
+  },
+  {
+    "id": "3672003",
+    "name": "RS Ibu dan Anak Mutiara Bunda",
+    "address": "Jl. S.A.Tirtayasa Ruko Maisonnete Blok B1-8 Simpang Tiga Cilegon",
+    "lat": "-6.001830159747499",
+    "long": "106.04178576674803",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Cilegon",
+    "province": "Banten"
+  },
+  {
+    "id": "3673012",
+    "name": "RS Umum Daerah Kota Serang",
+    "address": "Jl. Raya Jakarta KM. 04 Lingk Kp. Turus Rt. 02 Rw. 11 Kelurahan Penancangan Kecamatan Cipocok Jaya",
+    "lat": "-6.112152",
+    "long": "106.201353",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Serang",
+    "province": "Banten"
+  },
+  {
+    "id": "3674021",
+    "name": "RS Ibu dan Anak Bina Medika",
+    "address": "Jl. Rasuna Said Kav B7/A5-08 Sektor 7 CBD Bintaro Jaya",
+    "lat": "-6.2720862",
+    "long": "106.7116815",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang Selatan",
+    "province": "Banten"
+  },
+  {
+    "id": "3674193",
+    "name": "RS Buah Hati Ciputat",
+    "address": "Jl Aria Putra No 399 Serua Indah",
+    "lat": "-6.312504697353869",
+    "long": "106.73277062334823",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Tangerang Selatan",
+    "province": "Banten"
+  },
+  {
+    "id": "5101016",
+    "name": "RS Umum Daerah Negara",
+    "address": "Jl. Wijaya Kusuma No. 17 Kel. Baler Bale Agung Kec. Negara",
+    "lat": "-8.3541",
+    "long": "114.622",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jembrana",
+    "province": "Bali"
+  },
+  {
+    "id": "5102010",
+    "name": "RS Umum Daerah Tabanan",
+    "address": "Jl. Pahlawan No. 14 Tabanan Bali",
+    "lat": "-8.53906679415402",
+    "long": "115.13218832065432",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tabanan",
+    "province": "Bali"
+  },
+  {
+    "id": "5102043",
+    "name": "RS Umum Bhakti Rahayu Tabanan",
+    "address": "Jl. Batukaru No.2 Tuakilang Tabanan  ",
+    "lat": "-8.5450",
+    "long": "115.12",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tabanan",
+    "province": "Bali"
+  },
+  {
+    "id": "5103021",
+    "name": "RS Khusus Bedah BIMC",
+    "address": "Jl. By Pass Ngurah Rai No. 100X Kuta Badung",
+    "lat": "-8.6777",
+    "long": "115.206",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Badung",
+    "province": "Bali"
+  },
+  {
+    "id": "5103032",
+    "name": "RS Daerah Mangusada",
+    "address": "Jl. Raya Kapal Mengwi, Badung ",
+    "lat": "-8.578751",
+    "long": "115.18242",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Badung",
+    "province": "Bali"
+  },
+  {
+    "id": "5103053",
+    "name": "RS Windu Husada",
+    "address": "Jl. Raya Mambal - Ubud, Mekar Bhuwana,\r\nKecamatan Abiansemal \r\nKabupaten Badung \r\nProvinsi Bali",
+    "lat": "-8.550483056291158",
+    "long": "115.23171189659868",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Badung",
+    "province": "Bali"
+  },
+  {
+    "id": "5104036",
+    "name": "RS Umum Famili Husada",
+    "address": "Jl. Astina Timur No. 8A Samplangan, Kecamatan Gianyar, Kabupaten Gianyar",
+    "lat": "-8.54061276775097",
+    "long": "115.3346493092555",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Gianyar",
+    "province": "Bali"
+  },
+  {
+    "id": "5105017",
+    "name": "RS Umum Grha Bhakti Medika",
+    "address": "Jl. By Pass Prof. Dr. Ida Bagus Mantra Desa Negari Kec. Banjarangkan",
+    "lat": "115.3744731",
+    "long": "-8.5678151",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Klungkung",
+    "province": "Bali"
+  },
+  {
+    "id": "5107015",
+    "name": "RS Umum Daerah Karangasem",
+    "address": "Jl. Ngurah Rai No. 58 Amlapura",
+    "lat": "-8.442321",
+    "long": "115.599747",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Karangasem",
+    "province": "Bali"
+  },
+  {
+    "id": "5108016",
+    "name": "RS Umum Daerah Kab. Buleleng",
+    "address": "Jl. Ngurah Rai 30 Singaraja",
+    "lat": "-8.1199",
+    "long": "115.092",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Buleleng",
+    "province": "Bali"
+  },
+  {
+    "id": "5171016",
+    "name": "RSUP Prof. Dr. I.G.N.G. Ngoerah",
+    "address": "Jl. Diponegoro Denpasar Bali",
+    "lat": "-8.675739393620859",
+    "long": "115.21175009059908",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Denpasar",
+    "province": "Bali"
+  },
+  {
+    "id": "5171232",
+    "name": "RS Ibu dan Anak Bunda Denpasar",
+    "address": "Jl. Gatot Subroto Barat 455X",
+    "lat": "-2.4185588",
+    "long": "108.4919086",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Denpasar",
+    "province": "Bali"
+  },
+  {
+    "id": "5201012",
+    "name": "RS Umum Daerah Awet Muda Narmada",
+    "address": "Jl. Ahmad Yani No. 69 Telaga Ngembeng Narmada Lombok Barat",
+    "lat": "-8.597514942471",
+    "long": "116.19096774818442",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lombok Barat",
+    "province": "Nusa Tenggara Barat"
+  },
+  {
+    "id": "5203042",
+    "name": "RS Ibu dan Anak Permata Hati Lombok Timur",
+    "address": "Jl. Raya Masbagik Selong Dusun Tanak Malit Selatan Kel. Masbagik Selatan",
+    "lat": "-8.634413549999998",
+    "long": "116.49172680000001",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Lombok Timur",
+    "province": "Nusa Tenggara Barat"
+  },
+  {
+    "id": "5206027",
+    "name": "RS H. L. Manambai Abdulkadir",
+    "address": "Jl. Lintas Sumbawa-Bima KM. 5 Sumbawa Besar",
+    "lat": "-8.532092885097919",
+    "long": "117.4480443227539",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sumbawa",
+    "province": "Nusa Tenggara Barat"
+  },
+  {
+    "id": "5305015",
+    "name": "RS Umum Daerah Kefamenanu",
+    "address": " Jl. Letjen Suprapto Kefamenanu",
+    "lat": "-9.4379",
+    "long": "124.471",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Timor Tengah Utara",
+    "province": "Nusa Tenggara Timur"
+  },
+  {
+    "id": "5306016",
+    "name": "RS Umum Daerah MGR Gabriel Manek",
+    "address": " Jl. Dr Sutomo No.2 Atambua",
+    "lat": "-9.098648175053663",
+    "long": "124.8971637163163",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Belu",
+    "province": "Nusa Tenggara Timur"
+  },
+  {
+    "id": "5312014",
+    "name": "RS Umum Bajawa",
+    "address": "Jl. Diponegoro No. 5, Bajawa",
+    "lat": "-8.7923",
+    "long": "120.961",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Ngada",
+    "province": "Nusa Tenggara Timur"
+  },
+  {
+    "id": "5371057",
+    "name": "RS Kartini",
+    "address": "Jl. Frans Seda No. 17 Kel.Tuak Daun Merah Kec.Oebobo",
+    "lat": "-10.157747",
+    "long": "123.624295,18",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Kupang",
+    "province": "Nusa Tenggara Timur"
+  },
+  {
+    "id": "6271025",
+    "name": "RS Bhayangkara Palangka Raya",
+    "address": "Jl. Ahmad Yani No. 22",
+    "lat": "-2.20945289384469",
+    "long": "113.93131046500548",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palangka Raya",
+    "province": "Kalimantan Tengah"
+  },
+  {
+    "id": "6303015",
+    "name": "RS Umum Daerah Ratu Zalecha",
+    "address": "Jl Menteri Empat Martapura Kabupaten Banjar Kalimantan Selatan",
+    "lat": "-3.419311041186391",
+    "long": "114.84594413757327",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Banjar",
+    "province": "Kalimantan Selatan"
+  },
+  {
+    "id": "6306011",
+    "name": "RS Umum Daerah Brigjed H. Hasan Basry Kandangan",
+    "address": " Jalan Jenderal  Sudirman No.26A RT.01 RK.I Hamalau, Sungai Raya, Kab. Hulu Sungai Selatan",
+    "lat": "-2.7789",
+    "long": "115.264",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Hulu Sungai Selatan",
+    "province": "Kalimantan Selatan"
+  },
+  {
+    "id": "6307012",
+    "name": "RS Umum Daerah  H Damanhuri Barabai",
+    "address": "Jl. Murakata No. 4, Kecamatan Barabai, Kab. Hulu Sungai Tengah",
+    "lat": "-2.58881065983498",
+    "long": "115.3747909331322",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Hulu Sungai Tengah",
+    "province": "Kalimantan Selatan"
+  },
+  {
+    "id": "6310018",
+    "name": "RS Marina Permata",
+    "address": "Jl.Kodeco KM 4, Desa Sarigadung Kec. Simpang Empat Kab. Tanah Bumbu.",
+    "lat": "-3.397010",
+    "long": "115.986127",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Tanah Bumbu",
+    "province": "Kalimantan Selatan"
+  },
+  {
+    "id": "6371046",
+    "name": "RS Islam Banjarmasin",
+    "address": "JL. S PARMAN GG PURNAMA NO. 01, Desa/Kelurahan Pasar Lama,\r\nKec. Banjarmasin Tengah, Kota Banjarmasin, Provinsi Kalimantan Selatan,\r\nKode Pos: 70115",
+    "lat": "-3.3073987484736502",
+    "long": "114.58922757927887",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Banjarmasin",
+    "province": "Kalimantan Selatan"
+  },
+  {
+    "id": "6372017",
+    "name": "RS Umum Syifa Medika",
+    "address": "Jl. R.O Ulin No. 93 \r\nKel. Loktabat Selatan, \r\nKec. Banjarbaru Selatan \r\nKota Banjarbaru\r\nKalimantan Selatan",
+    "lat": "-3.4585392",
+    "long": "114.8168002",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Banjar baru",
+    "province": "Kalimantan Selatan"
+  },
+  {
+    "id": "6471086",
+    "name": "RS Hermina Balikpapan",
+    "address": "Jl. MT Haryono No 45 Kelurahan Sepinggan Baru, Kecamatan Balikpapan Selatan, Kota Balikpapan",
+    "lat": "-1.2300408718401055",
+    "long": "116.8741618839334",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Balikpapan",
+    "province": "Kalimantan Timur"
+  },
+  {
+    "id": "6472131",
+    "name": "RS Mata Provinsi Kalimantan Timur",
+    "address": "Jl. Basuki Rahmat No. 1 Samarinda 75112",
+    "lat": "-0.496640",
+    "long": "117.153500",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Samarinda",
+    "province": "Kalimantan Timur"
+  },
+  {
+    "id": "6474010",
+    "name": "RS LNG Badak",
+    "address": "Kompleks PT Badak NGLBontang, Kalimantan Timur",
+    "lat": "0.11749",
+    "long": "117.47085",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bontang",
+    "province": "Kalimantan Timur"
+  },
+  {
+    "id": "7102040",
+    "name": "RS Siloam GMIM Sonder",
+    "address": "Kolongan Atas, Sonder",
+    "lat": "1.2543949317645304",
+    "long": "124.78016997391666",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Minahasa",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7103015",
+    "name": "RS Daerah Liun Kendage",
+    "address": " Jalan Tatehe Kelurahan Apengsembeka Kecamatan Tahuna",
+    "lat": "3",
+    "long": "125.5",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kepulauan Sangihe",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7103039",
+    "name": "RS Umum Liung Paduli",
+    "address": "Kampung Naha Kecamatan Tabukan Utara",
+    "lat": "3.6082874",
+    "long": "125.5033055",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kepulauan Sangihe",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7171013",
+    "name": "RSUP Prof. Dr. R. D. Kandou",
+    "address": "Jl. Raya Tanawangko No.56, Manado",
+    "lat": "1.4538025435658348",
+    "long": "124.80825559234619",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Manado",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7171102",
+    "name": "RS Umum Manado Medical Center",
+    "address": "Jln. Rajawali No. 8 - Kec. Paal 2 - Kel. Paal 2 - Kota Manado - 95129",
+    "lat": "1.486175250578651",
+    "long": "124.86107198586626",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Manado",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7171104",
+    "name": "RS Mata Provinsi Sulawesi Utara",
+    "address": "Jl. W. Z. Johanis No.I Kota Manado",
+    "lat": "1.4629627",
+    "long": "124.8430004",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Manado",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7172036",
+    "name": "RS Umum Daerah Manembo-Nembo Bitung",
+    "address": "Jl. S. H. Sarundajang Kel. Manembo-nembo Tengah Kec. Matuari",
+    "lat": "1.440320",
+    "long": "125.118171",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Bitung",
+    "province": "Sulawesi Utara"
+  },
+  {
+    "id": "7271051",
+    "name": "RS Umum Daerah Madani Palu",
+    "address": "Jl. Thalua Kontji No. 11  Mamboro Kecamatan Palu Utara",
+    "lat": "-0.7894480458632369",
+    "long": "119.86955691897973",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palu",
+    "province": "Sulawesi Tengah"
+  },
+  {
+    "id": "7271127",
+    "name": "RS Bhayangkara Palu",
+    "address": "   Jl. DR. Suharso Lrg III No. 2 Palu",
+    "lat": "-0.8893144506194536",
+    "long": "119.86766892261505",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Palu",
+    "province": "Sulawesi Tengah"
+  },
+  {
+    "id": "7304012",
+    "name": "RS Umum Daerah Rumbia",
+    "address": "Jl. Desa Lebang Manai Kec. Rumbia",
+    "lat": "-5.505260077732959",
+    "long": "119.85848927183841",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Jeneponto",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7309016",
+    "name": "RS Umum Daerah dr. La Palaloi",
+    "address": "  Jl. Poros Maros-Makassar KM 3 Maros",
+    "lat": "-5.0058",
+    "long": "119.574",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Maros",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7314013",
+    "name": "RS Umum Daerah Nene Mallomo",
+    "address": " Jl. Wolter Monginsidi Pangkajene, Kab. Sidenreng Rappang",
+    "lat": "-3.9204",
+    "long": "119.808",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Sidenreng Rappang",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7317075",
+    "name": "RS Umum Daerah Batara Guru",
+    "address": "   Jl. Sawerigading, Desa Lebani, Kec. Belopa Utara Kab.Luwu Prov.Sulawesi Selatan",
+    "lat": "-3.1592",
+    "long": "120.244",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Luwu",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7371063",
+    "name": "RS Stella Maris",
+    "address": "Jl. Somba Opu No.273 Makassar",
+    "lat": "-5.143802425167523",
+    "long": "119.40891910716246",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Makassar",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7371325",
+    "name": "RSUP Dr. Wahidin Sudirohusodo",
+    "address": "Jl. Perintis Kemerdekaan Km.11, Tamalanrea, Makassar, Sulawesi Selatan",
+    "lat": "-5.134719467804769",
+    "long": "119.49322768306729",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Makassar",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7371373",
+    "name": "RS Grestelina",
+    "address": "Jl. Hertasning Raya No.51 Makassar",
+    "lat": "-5.2107",
+    "long": "119.4704",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Makassar",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "7371436",
+    "name": "RS Mata Makassar",
+    "address": "Jl. Wijaya Kusuma Raya No. 19,\r\nKelurahan Banta-Bantaeng, Kecamatan Rappocini, Kota Makassar\r\nProvinsi Sulawesi Selatan\r\n90222",
+    "lat": "-5.158935923331915",
+    "long": "119.42581155830536",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Makassar",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "id": "8201010",
+    "name": "RS Umum Daerah Tobelo",
+    "address": "Jl. Lanbouw Gamsungi Tobelo Halmahera Utara",
+    "lat": "1.7752639593457222",
+    "long": "127.93291796874995",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Halmahera Utara",
+    "province": "Maluku Utara"
+  },
+  {
+    "id": "9212011",
+    "name": "RS Umum Daerah Kabupaten Mimika",
+    "address": " Jl. Yos Sudarso KM 4. Nomor 00, Kelurahan Mawokauw Jaya, Kecamatan Wania, Kabupaten  Mimika, Propinsi Papua Tengah",
+    "lat": "-4.3545",
+    "long": "139.365",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Mimika",
+    "province": "Papua"
+  },
+  {
+    "id": "9271067",
+    "name": "RS Bhayangkara Jayapura",
+    "address": "Jl. Jeruk Nipis Furia Kotaraja,Jayapura",
+    "lat": "-2.5412",
+    "long": "140.714",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=undefined,undefined",
+    "city": "Kota Jayapura",
+    "province": "Papua"
+  }
+]

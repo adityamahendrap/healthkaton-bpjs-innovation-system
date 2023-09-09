@@ -1,0 +1,89 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+enum InfoType {
+  Pendaftaran      @map("Pendaftaran")
+  HakKewajiban     @map("Hak & Kewajiban")
+  Sanksi           @map("Sanksi")
+  FasilitasManfaat @map("Fasilitas & Manfaat")
+  CaraPembayaran   @map("Cara Pembayaran")
+  FAQ              @map("FAQ")
+}
+
+model Info {
+  id      Int      @id @default(autoincrement())
+  type    InfoType
+  title   String
+  content String   @db.LongText
+
+  @@map("infos")
+}
+
+model Province {
+  id       Int        @id @default(autoincrement())
+  name     String
+  City     City[]
+  Hospital Hospital[]
+
+  @@map("provinces")
+}
+
+model City {
+  id          Int        @id @default(autoincrement())
+  name        String
+  province_id Int
+  Hospital    Hospital[]
+
+  Province Province @relation(fields: [province_id], references: [id])
+
+  @@map("cities")
+}
+
+model Hospital {
+  id          Int     @id @default(autoincrement())
+  name        String
+  address     String
+  phone       String?
+  latitude    Float?
+  longitude   Float?
+  city_id     Int
+  province_id Int
+  Beds        Bed[]
+
+  City     City     @relation(fields: [city_id], references: [id])
+  Province Province @relation(fields: [province_id], references: [id])
+
+  @@map("hospitals")
+}
+
+model Bed {
+  id          Int      @id @default(autoincrement())
+  hospital_id Int
+  bedclass_id Int
+  total       Int
+  empty       Int
+  queue       Int
+  last_update DateTime @updatedAt
+
+  BedClass BedClass @relation(fields: [bedclass_id], references: [id])
+  Hospital Hospital @relation(fields: [hospital_id], references: [id])
+
+  @@map("beds")
+}
+
+model BedClass {
+  id   Int    @id @default(autoincrement())
+  name String
+  Bed  Bed[]
+
+  @@map("bedclasses")
+}

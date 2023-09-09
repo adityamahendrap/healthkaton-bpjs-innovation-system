@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "```bash\r # install dependencies\r $ npm install",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "npx prisma migrate",
+    "generate": "npx prisma generate",
+    "seed-province": "node ./seeder/province.js",
+    "seed-city": "node ./seeder/city.js",
+    "seed-hospital": "node ./seeder/hospital.js",
+    "seed-bedclass": "node ./seeder/bedclass.js",
+    "seed-bed": "node ./seeder/bed.js",
+    "seed-info": "node ./seeder/info.js",
+    "seed:all": "npm run seed-province && npm run seed-city && npm run seed-hospital && npm run seed-bedclass && npm run seed-bed && npm run seed-info",
+    "reset": "npx prisma migrate reset --force"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.2.0",
+    "axios": "^1.5.0",
+    "openai": "^4.5.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.2.0"
+  }
+}
