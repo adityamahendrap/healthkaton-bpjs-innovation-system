@@ -5,3 +5,4 @@ python-dotenv
 tiktoken
 faiss-gpu
 faiss-cpu
+mysql-connector-python

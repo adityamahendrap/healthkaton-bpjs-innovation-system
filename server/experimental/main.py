@@ -18,8 +18,9 @@ from langchain.schema import Document
 from langchain.agents.agent_toolkits import create_retriever_tool
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
+from sqlalchemy import create_engine
 
-db = SQLDatabase.from_uri("sqlite:///Chinook.db")
+db = SQLDatabase.from_uri("mysql+mysqlconnector://root:@localhost:3306/jkn_bpjs")
 few_shots = {'List all artists.': 'SELECT * FROM artists;',
              "Find all albums for the artist 'AC/DC'.": "SELECT * FROM albums WHERE ArtistId = (SELECT ArtistId FROM artists WHERE Name = 'AC/DC');",
              "List all tracks in the 'Rock' genre.": "SELECT * FROM tracks WHERE GenreId = (SELECT GenreId FROM genres WHERE Name = 'Rock');",
@@ -133,5 +134,5 @@ def storePrompt():
 # generateInstantAnswer("What is the name of the artist of the track with the most track?")
 # print(tableInfo("Track"))
 # SQLAgent("List the total sales per country. Which country's customers spent the least?")
-# SQLAgent("How many total sales is Belgium?")
-# SQLAgentWithRetriever('List all artists.')
+# SQLAgent("Apakah ada rumah sakit di denpasar?")
+# SQLAgentWithRetriever('Apakah ada rumah sakit di denpasar?')

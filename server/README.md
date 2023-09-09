@@ -20,7 +20,7 @@ $ npm run seed:all
 For python environment:
 ```bash
 # change directory to experimental
-$ cd experimaental
+$ cd experimental
 
 # install dependencies
 $ pip install -r requirements.txt
