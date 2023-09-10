@@ -1,6 +1,7 @@
 import service from './service.js';
 import 'dotenv/config'
 import OpenAI from "openai";
+import "reflect-metadata"
 
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY,
