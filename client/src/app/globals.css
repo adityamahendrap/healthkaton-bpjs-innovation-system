@@ -2,4 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+  @apply w-[5px];
+}
 
+::-webkit-scrollbar-track {
+  @apply border border-gray-200 bg-gray-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300;
+}

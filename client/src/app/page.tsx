@@ -4,28 +4,68 @@ import Image from "next/image";
 import ellipse1 from "../../public/ellipse-1.svg";
 import ellipse2 from "../../public/ellipse-2.svg";
 
+interface MessageBubbleProps {
+  message: string;
+  isUser: boolean;
+  time: string;
+}
+
+const MessageBubble: React.FC<MessageBubbleProps> = ({
+  message,
+  isUser,
+  time,
+}: MessageBubbleProps) => {
+  // Determine the CSS class based on whether it's a user's message or another person's message
+  const bubbleClass = isUser
+    ? "bg-blue-500 text-white ml-auto rounded-b-md rounded-tl-md "
+    : "bg-gray-50 text-gray-700 mr-auto rounded-b-md rounded-tr-md";
+
+  return (
+    <div className={`max-w-[70%]  p-2 mb-3 ${bubbleClass} clear-both relative`}>
+      <div className="message-content p-2">{message}</div>
+      <div className="message-time text-xs  absolute right-2 bottom-0">
+        {time}
+      </div>
+    </div>
+  );
+};
+
 export default function Home() {
   return (
-    <main className="max-w-[360px] min-h-[560px] overflow-hidden mx-auto my-8 relative border">
-      <div className="absolute -right-[80px] top-[-40px]  overflow-hidden w-[400px] h-[400px]">
-        <Image src={ellipse1} alt="ellipse" fill={true} />
+    <div className="chat-app max-w-[380px] overflow-hidden relative h-screen mx-auto flex flex-col bg-gray-100 border rounded-lg shadow-lg">
+      <div className="absolute right-[-70px] top-[15px]  overflow-hidden w-[500px] h-[500px] ">
+        <Image src={ellipse1} alt="bubble" fill={true} />
       </div>
-      <div className="absolute -left-[80px] top-[120px]  overflow-hidden w-[400px] h-[400px]">
-        <Image src={ellipse2} alt="ellipse" fill={true} />
+      <div className="absolute left-[-70px] top-[80px]  overflow-hidden w-[500px] h-[500px] ">
+        <Image src={ellipse2} alt="bubble" fill={true} />
       </div>
-      <div className="absolute -right-[80px] top-[280px]  overflow-hidden w-[400px] h-[400px]">
-        <Image src={ellipse1} alt="ellipse" fill={true} />
+      <div className="absolute right-[40px] bottom-[0]  overflow-hidden w-[500px] h-[500px] ">
+        <Image src={ellipse1} alt="bubble" fill={true} />
       </div>
-
-      <section className="absolute top-0 w-full h-full">
-        <nav className="p-4 bg-white absolute z-[6] top-0 w-full shadow-lg">
-          navbar
-        </nav>
-        <div></div>
-        <div className="bg-white p-3 shadow-md w-[340px] mx-auto absolute bottom-0 border z-[5]">
-          test
-        </div>
-      </section>
-    </main>
+      <div className="relative z-[4] bg-white shadow-lg p-4">test</div>
+      <div className="relative z-[4]  flex-1  p-4 overflow-y-auto">
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={false} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={false} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={false} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+      </div>
+      <div className="relative z-[4]  bg-white p-4 flex items-center shadow-lg">
+        <input
+          type="text"
+          placeholder="Type your message"
+          className="flex-1 border rounded-md p-2 mr-2"
+        />
+        <button className="bg-blue-500 text-white py-2 px-4 rounded-md">
+          Send
+        </button>
+      </div>
+    </div>
   );
 }
