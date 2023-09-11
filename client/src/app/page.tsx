@@ -79,7 +79,9 @@ export default function Home() {
   };
 
   const askServer = async (message: string) => {
-    await getUserPosition();
+    if(!localStorage.getItem('lat') || !localStorage.getItem('long')) {
+      await getUserPosition();
+    }
     console.log("ask the server:", message);
     setIsLoading(true);
     const response = await axios.post("http://localhost:8000/driven-qna", {
