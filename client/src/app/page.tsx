@@ -3,8 +3,9 @@
 import Image from "next/image";
 import ellipse1 from "../../public/ellipse-1.svg";
 import ellipse2 from "../../public/ellipse-2.svg";
-import React, { useState } from 'react';
-import axios from 'axios';
+import React, { useState } from "react";
+import axios from "axios";
+import { get } from "http";
 
 interface MessageBubbleProps {
   message: string;
@@ -32,9 +33,7 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
   );
 };
 
-
 export default function Home() {
-
   const [messages, setMessages] = useState([
     {
       id: 1,
@@ -49,24 +48,45 @@ export default function Home() {
       time: "11:30 AM",
     },
   ]);
-  const [newMessage, setNewMessage] = useState('Dimana rumah sakit terdekat?');
-  const [isLoading, setIsLoading] = useState(false); 
+  const [newMessage, setNewMessage] = useState("Dimana rumah sakit terdekat?");
+  const [isLoading, setIsLoading] = useState(false);
 
   function getCurrentTime() {
     const now = new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
-    const ampm = hours >= 12 ? 'PM' : 'AM';
+    const ampm = hours >= 12 ? "PM" : "AM";
     const formattedHours = hours % 12 || 12;
     const formattedMinutes = minutes < 10 ? `0${minutes}` : minutes;
     const currentTime = `${formattedHours}:${formattedMinutes} ${ampm}`;
     return currentTime;
   }
 
+  const getUserPosition = () => {
+    return new Promise((resolve, reject) => {
+      const successCallback = (position: any) => {
+        localStorage.setItem('lat', position.coords.latitude);
+        localStorage.setItem('long', position.coords.longitude);
+        resolve(position);
+      };
+  
+      const errorCallback = (error: any) => {
+        reject(error);
+      };
+  
+      navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
+    });
+  };
+
   const askServer = async (message: string) => {
-    console.log('ask the server:', message);
+    await getUserPosition();
+    console.log("ask the server:", message);
     setIsLoading(true);
-    const response = await axios.post('http://localhost:8000/driven-qna', { question: message });
+    const response = await axios.post("http://localhost:8000/driven-qna", {
+      question: message,
+      lat: localStorage.getItem('lat'),
+      long: localStorage.getItem('long'),
+    });
     setIsLoading(false);
     const { data } = response;
     setMessages((prevMessages) => [
@@ -78,29 +98,29 @@ export default function Home() {
         time: getCurrentTime(),
       },
     ]);
-  }
+  };
 
   const sendMessage = () => {
-    if (newMessage.trim() === '') {
-      return; 
+    if (newMessage.trim() === "") {
+      return;
     }
 
     const message = {
       id: messages.length + 1,
       message: newMessage,
       isUser: true,
-      time: getCurrentTime()
+      time: getCurrentTime(),
     };
-    const tempMessage = message
+    const tempMessage = message;
 
     setMessages([...messages, message]);
-    setNewMessage('');
+    setNewMessage("");
 
     askServer(tempMessage.message);
   };
 
   const handleKeyPress = (event: React.KeyboardEvent<HTMLInputElement>) => {
-    if (event.key === 'Enter') {
+    if (event.key === "Enter") {
       sendMessage();
     }
   };
@@ -120,14 +140,14 @@ export default function Home() {
         JKNSMARTSUPPORT 😜
       </div>
       <div className="relative z-[4]  flex-1  p-4 overflow-y-auto">
-      {messages.map((message) => (
-        <MessageBubble
-          key={message.id}
-          message={message.message}
-          isUser={message.isUser}
-          time={message.time}
-        />
-      ))}
+        {messages.map((message) => (
+          <MessageBubble
+            key={message.id}
+            message={message.message}
+            isUser={message.isUser}
+            time={message.time}
+          />
+        ))}
       </div>
       <div className="relative z-[4]  bg-white p-4 flex items-center shadow-lg">
         <input
@@ -139,11 +159,12 @@ export default function Home() {
           onKeyPress={handleKeyPress}
           disabled={isLoading}
         />
-        <button 
+        <button
           onClick={sendMessage}
           disabled={isLoading}
-          className="bg-blue-500 text-white py-2 px-4 rounded-md">
-          {isLoading ? 'Processing...' : 'Send'}
+          className="bg-blue-500 text-white py-2 px-4 rounded-md"
+        >
+          {isLoading ? "Processing..." : "Send"}
         </button>
       </div>
     </div>

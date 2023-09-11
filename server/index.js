@@ -15,10 +15,11 @@ app.post('/ask-gpt', async (req, res) => {
 })
 
 app.post('/driven-qna', async (req, res) => {
-  let { long, lat, question } = req.body;
+  let { question } = req.body;
+  const long = Number(req.body.long);
+  const lat = Number(req.body.lat);
   let template
-  long = 115.21837733193006
-  lat = -8.687038481433506
+  console.log(long, lat, question);
 
   // check if user asking for nearest hospital
 template = `Apakah pertanyaan ini mengenai rumah sakit terdekat?
@@ -36,7 +37,7 @@ JAWABAN: `
     res.json(answer);
     return;
   }
-  
+
     // check if user asking for bed availability, answer with bed availability in nearest hospital
   template = `Apakah pertanyaan ini mengenai ketersediaan tempat tidur/kamar?
 Jika iya, silahkan balas dengan "true" atau "false"
