@@ -4,6 +4,7 @@ import Image from "next/image";
 import ellipse1 from "../../public/ellipse-1.svg";
 import ellipse2 from "../../public/ellipse-2.svg";
 import React, { useState } from 'react';
+import axios from 'axios';
 
 interface MessageBubbleProps {
   message: string;
@@ -48,7 +49,7 @@ export default function Home() {
       time: "11:30 AM",
     },
   ]);
-  const [newMessage, setNewMessage] = useState('');
+  const [newMessage, setNewMessage] = useState('Apakah ada rumah sakit terdekat?');
 
   function getCurrentTime() {
     const now = new Date();
@@ -59,6 +60,21 @@ export default function Home() {
     const formattedMinutes = minutes < 10 ? `0${minutes}` : minutes;
     const currentTime = `${formattedHours}:${formattedMinutes} ${ampm}`;
     return currentTime;
+  }
+
+  const askServer = async (message: string) => {
+    console.log('ask the server:', message);
+    const response = await axios.post('http://localhost:8000/driven-qna', { question: message });
+    const { data } = response;
+    setMessages((prevMessages) => [
+      ...prevMessages,
+      {
+        id: prevMessages.length + 1,
+        message: data,
+        isUser: false,
+        time: getCurrentTime(),
+      },
+    ]);
   }
 
   const sendMessage = () => {
@@ -72,9 +88,12 @@ export default function Home() {
       isUser: true,
       time: getCurrentTime()
     };
+    const tempMessage = message
 
     setMessages([...messages, message]);
     setNewMessage('');
+
+    askServer(tempMessage.message);
   };
 
   const handleKeyPress = (event: React.KeyboardEvent<HTMLInputElement>) => {

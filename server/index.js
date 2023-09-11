@@ -20,6 +20,23 @@ app.post('/driven-qna', async (req, res) => {
   long = 115.21837733193006
   lat = -8.687038481433506
 
+  // check if user asking for nearest hospital
+template = `Apakah pertanyaan ini mengenai rumah sakit terdekat?
+Jika iya, silahkan balas dengan "true" atau "false"
+PERTANYAAN: ${question}
+JAWABAN: `
+  const nearestHospitalQuestion = await service.askGPT(template);
+  if (Boolean(nearestHospitalQuestion)) {
+    const hospitals = await service.getNearestHospital(long, lat);
+    console.log(hospitals);
+    template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:
+DATA: ${JSON.stringify(hospitals)}
+JAWABAN: `
+    const answer = await service.askGPT(template);
+    res.json(answer);
+    return;
+  }
+  
     // check if user asking for bed availability, answer with bed availability in nearest hospital
   template = `Apakah pertanyaan ini mengenai ketersediaan tempat tidur/kamar?
 Jika iya, silahkan balas dengan "true" atau "false"
@@ -48,23 +65,6 @@ JAWABAN: `
     console.log(userPositionInformation);
     template = `Ini adalah data lokasi user, sampaikan kepada user:
 DATA: ${JSON.stringify(userPositionInformation)}
-JAWABAN: `
-    const answer = await service.askGPT(template);
-    res.json(answer);
-    return;
-  }
-
-  // check if user asking for nearest hospital
-  template = `Apakah pertanyaan ini mengenai rumah sakit terdekat?
-Jika iya, silahkan balas dengan "true" atau "false"
-PERTANYAAN: ${question}
-JAWABAN: `
-  const nearestHospitalQuestion = await service.askGPT(template);
-  if (Boolean(nearestHospitalQuestion)) {
-    const hospitals = await service.getNearestHospital(long, lat);
-    console.log(hospitals);
-    template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:
-DATA: ${JSON.stringify(hospitals)}
 JAWABAN: `
     const answer = await service.askGPT(template);
     res.json(answer);
