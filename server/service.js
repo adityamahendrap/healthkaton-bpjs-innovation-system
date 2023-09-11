@@ -1,13 +1,28 @@
 import prisma from './prisma/prisma.js';
 import Vector2 from './lib/Vector2.js';
 import axios from 'axios';
+import OpenAI from "openai";
+
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+});
 
 function longLatDistanceVector2ToKilometer(longLatVector2) {
   return Number((longLatVector2 * 1113.25).toFixed(2))
 }
 
 const service = {
+  askGPT: async (question) => {
+    console.log("asking gpt:", question)
+    const chatCompletion = await openai.chat.completions.create({
+      messages: [{ role: "user", content: question }],
+      model: "gpt-3.5-turbo",
+    });
+    return chatCompletion.choices[0].message.content;
+  },
+
   getUserPositionInformation: async (long, lat) => {
+    console.log("getting position from posstack:", long, lat);
     const { data } = await axios.get(`http://api.positionstack.com/v1/reverse?access_key=${process.env.POSITIONSTACK_API_KEY}&query=${lat},${long}`)
     return data.data[0]
   },
