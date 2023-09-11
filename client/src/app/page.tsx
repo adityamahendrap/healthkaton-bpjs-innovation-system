@@ -3,6 +3,7 @@
 import Image from "next/image";
 import ellipse1 from "../../public/ellipse-1.svg";
 import ellipse2 from "../../public/ellipse-2.svg";
+import React, { useState } from 'react';
 
 interface MessageBubbleProps {
   message: string;
@@ -30,7 +31,47 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
   );
 };
 
+
 export default function Home() {
+
+  const [messages, setMessages] = useState([
+    {
+      id: 1,
+      message: "Hello there!",
+      isUser: true,
+      time: "11:30 AM",
+    },
+    {
+      id: 2,
+      message: "Hello there!",
+      isUser: false,
+      time: "11:30 AM",
+    },
+  ]);
+  const [newMessage, setNewMessage] = useState('');
+
+  const sendMessage = () => {
+    if (newMessage.trim() === '') {
+      return; 
+    }
+
+    const message = {
+      id: messages.length + 1,
+      message: newMessage,
+      isUser: true,
+      time: "11:30 AM",
+    };
+
+    setMessages([...messages, message]);
+    setNewMessage('');
+  };
+
+  const handleKeyPress = (event: React.KeyboardEvent<HTMLInputElement>) => {
+    if (event.key === 'Enter') {
+      sendMessage();
+    }
+  };
+
   return (
     <div className="chat-app max-w-[380px] overflow-hidden relative h-screen mx-auto flex flex-col bg-gray-100 border rounded-lg shadow-lg">
       <div className="absolute right-[-70px] top-[15px]  overflow-hidden w-[500px] h-[500px] ">
@@ -42,27 +83,29 @@ export default function Home() {
       <div className="absolute right-[40px] bottom-[0]  overflow-hidden w-[500px] h-[500px] ">
         <Image src={ellipse1} alt="bubble" fill={true} />
       </div>
-      <div className="relative z-[4] bg-white shadow-lg p-4">test</div>
+      <div className="relative z-[4] bg-white shadow-lg p-4">
+        JKNSMARTSUPPORT 😜
+      </div>
       <div className="relative z-[4]  flex-1  p-4 overflow-y-auto">
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={false} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={false} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={false} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
-        <MessageBubble message="Hello there!" isUser={true} time="11:30 AM" />
+      {messages.map((message) => (
+        <MessageBubble
+          key={message.id}
+          message={message.message}
+          isUser={message.isUser}
+          time={message.time}
+        />
+      ))}
       </div>
       <div className="relative z-[4]  bg-white p-4 flex items-center shadow-lg">
         <input
           type="text"
           placeholder="Type your message"
           className="flex-1 border rounded-md p-2 mr-2"
+          value={newMessage}
+          onChange={(e) => setNewMessage(e.target.value)}
+          onKeyPress={handleKeyPress}
         />
-        <button className="bg-blue-500 text-white py-2 px-4 rounded-md">
+        <button onClick={sendMessage} className="bg-blue-500 text-white py-2 px-4 rounded-md">
           Send
         </button>
       </div>
