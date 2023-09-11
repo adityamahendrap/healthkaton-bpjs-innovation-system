@@ -49,7 +49,8 @@ export default function Home() {
       time: "11:30 AM",
     },
   ]);
-  const [newMessage, setNewMessage] = useState('Apakah ada rumah sakit terdekat?');
+  const [newMessage, setNewMessage] = useState('Dimana rumah sakit terdekat?');
+  const [isLoading, setIsLoading] = useState(false); 
 
   function getCurrentTime() {
     const now = new Date();
@@ -64,7 +65,9 @@ export default function Home() {
 
   const askServer = async (message: string) => {
     console.log('ask the server:', message);
+    setIsLoading(true);
     const response = await axios.post('http://localhost:8000/driven-qna', { question: message });
+    setIsLoading(false);
     const { data } = response;
     setMessages((prevMessages) => [
       ...prevMessages,
@@ -134,9 +137,13 @@ export default function Home() {
           value={newMessage}
           onChange={(e) => setNewMessage(e.target.value)}
           onKeyPress={handleKeyPress}
+          disabled={isLoading}
         />
-        <button onClick={sendMessage} className="bg-blue-500 text-white py-2 px-4 rounded-md">
-          Send
+        <button 
+          onClick={sendMessage}
+          disabled={isLoading}
+          className="bg-blue-500 text-white py-2 px-4 rounded-md">
+          {isLoading ? 'Processing...' : 'Send'}
         </button>
       </div>
     </div>
