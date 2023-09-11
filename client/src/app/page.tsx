@@ -50,6 +50,17 @@ export default function Home() {
   ]);
   const [newMessage, setNewMessage] = useState('');
 
+  function getCurrentTime() {
+    const now = new Date();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    const ampm = hours >= 12 ? 'PM' : 'AM';
+    const formattedHours = hours % 12 || 12;
+    const formattedMinutes = minutes < 10 ? `0${minutes}` : minutes;
+    const currentTime = `${formattedHours}:${formattedMinutes} ${ampm}`;
+    return currentTime;
+  }
+
   const sendMessage = () => {
     if (newMessage.trim() === '') {
       return; 
@@ -59,7 +70,7 @@ export default function Home() {
       id: messages.length + 1,
       message: newMessage,
       isUser: true,
-      time: "11:30 AM",
+      time: getCurrentTime()
     };
 
     setMessages([...messages, message]);
