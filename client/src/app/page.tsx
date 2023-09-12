@@ -18,6 +18,33 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
   isUser,
   time,
 }: MessageBubbleProps) => {
+  // Function to convert links in the message to clickable links
+  const formatMessageWithLinks = (message: string) => {
+    const regex = /(\bhttps?:\/\/\S+)/gi;
+    let parts = message.split(regex);
+    
+    // Replace each link with "Lihat Di Google Maps"
+    parts = parts.map((part, index) => {
+      if (part.match(regex)) {
+        return (
+          <a
+            key={index}
+            href={part}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Lihat Di Google Maps
+          </a>
+        );
+      } else {
+        return part;
+      }
+    });
+  
+    return <>{parts}</>;
+  };
+  
+
   // Determine the CSS class based on whether it's a user's message or another person's message
   const bubbleClass = isUser
     ? "bg-blue-500 text-white ml-auto rounded-b-md rounded-tl-md "
@@ -25,7 +52,9 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
 
   return (
     <div className={`max-w-[70%]  p-2 mb-3 ${bubbleClass} clear-both relative`}>
-      <div className="message-content p-2">{message}</div>
+      <div className="message-content p-2">
+        {formatMessageWithLinks(message)}
+      </div>
       <div className="message-time text-xs  absolute right-2 bottom-0">
         {time}
       </div>
