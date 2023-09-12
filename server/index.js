@@ -3,6 +3,7 @@ import 'dotenv/config'
 import "reflect-metadata"
 import exoress from 'express';
 import cors from 'cors'
+import fs from 'fs';
 
 const app = exoress();
 app.use(cors());
@@ -19,7 +20,6 @@ app.post('/driven-qna', async (req, res) => {
   const long = Number(req.body.long);
   const lat = Number(req.body.lat);
   let template
-  console.log(long, lat, question);
 
   // check if user asking for nearest hospital
 template = `Apakah pertanyaan ini mengenai rumah sakit terdekat?
@@ -74,6 +74,18 @@ JAWABAN: `
 
   // check if user question relevant from data in database
   // then handle with langchain in python
+  const dbSchema =  fs.readFileSync('./prisma/schema.prisma', 'utf8');
+  template = `Apakah pertanyaan ini relevan dengan data yang ada di database?
+Jika iya, silahkan balas dengan "true" atau "false"
+DATABASE: ${dbSchema}
+PERTANYAAN: ${question}
+JAWABAN: `
+  const relevantQuestion = await service.askGPT(template);
+  if (Boolean(relevantQuestion)) {
+    const answer = await axios.post('http://localhost:5000/langchain', { question })
+    res.json(answer);
+    return;
+  }
 
   // default, ask GPT
   const answer = await service.askGPT(question);

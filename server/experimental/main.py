@@ -19,8 +19,20 @@ from langchain.agents.agent_toolkits import create_retriever_tool
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from sqlalchemy import create_engine
+from flask import Flask
+from flask import request
 
-db = SQLDatabase.from_uri("mysql+mysqlconnector://root:@localhost:3306/jkn_bpjs")
+app = Flask(__name__)
+
+@app.route("/langchain", methods=['POST'])
+def langchain():
+    specific_value = request.get_json()
+    question = specific_value.get('question')
+    answer = SQLAgent(question)
+    return answer
+
+db_uri = "mysql+mysqlconnector://root:@localhost:3306/jkn_bpjs"
+db = SQLDatabase.from_uri(db_uri)
 few_shots = {'List all artists.': 'SELECT * FROM artists;',
              "Find all albums for the artist 'AC/DC'.": "SELECT * FROM albums WHERE ArtistId = (SELECT ArtistId FROM artists WHERE Name = 'AC/DC');",
              "List all tracks in the 'Rock' genre.": "SELECT * FROM tracks WHERE GenreId = (SELECT GenreId FROM genres WHERE Name = 'Rock');",
@@ -38,7 +50,7 @@ def generateInstantAnswer(question):
     llm = OpenAI(temperature=0, verbose=True)
     db_chain = SQLDatabaseChain.from_llm(llm, db, verbose=True)
     db_chain.run(question)
-    
+
 # Bassicaly generateInstantAnswer with more verbose but powerfull
 def SQLAgent(question):
     agent_executor = create_sql_agent(
@@ -47,7 +59,8 @@ def SQLAgent(question):
         verbose=True,
         agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
     )
-    agent_executor.run(question)
+    result = agent_executor.run(question)
+    return result
     
 def generateSQLByQuestion(question):
     chain = create_sql_query_chain(ChatOpenAI(temperature=0), db)
@@ -59,7 +72,7 @@ def runSQLQuery(sql):
 
 def tableInfo(tableName) :
     db = SQLDatabase.from_uri(
-        "sqlite:///Chinook.db",
+        db_uri,
         include_tables=[tableName],
         sample_rows_in_table_info=2
     )
