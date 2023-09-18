@@ -21,12 +21,17 @@ from langchain.vectorstores import FAISS
 from sqlalchemy import create_engine
 from flask import Flask
 from flask import request
+import time
 
 app = Flask(__name__)
 
 @app.route("/langchain", methods=['POST'])
 def langchain():
     specific_value = request.get_json()
+    openAiRequestCount = specific_value.get('openAiRequestCount')
+    if(openAiRequestCount == "3" or openAiRequestCount == 3):
+        print("waiting 60 seconds for time limit exceeded")
+        time.sleep(60)
     question = specific_value.get('question')
     answer = SQLAgent(question)
     return answer
@@ -143,9 +148,3 @@ def storePrompt():
     )
     custom_tool_list = [retriever_tool]
     
-# print(generateSQLByQuestion("Sebutkan 3 nama artist!"))
-# generateInstantAnswer("What is the name of the artist of the track with the most track?")
-# print(tableInfo("Track"))
-# SQLAgent("List the total sales per country. Which country's customers spent the least?")
-# SQLAgent("Apakah ada rumah sakit di denpasar?")
-# SQLAgentWithRetriever('Apakah ada rumah sakit di denpasar?')

@@ -3,8 +3,8 @@ import "dotenv/config";
 import "reflect-metadata";
 import express from "express";
 import cors from "cors";
-import fs from "fs";
 import axios from "axios";
+import { openAiRequestCount, icrementOpenAiRequestCount, resetOpenAiRequestCount } from './lib/helper.js';
 
 const app = express();
 app.use(cors());
@@ -48,10 +48,13 @@ Jika iya, silahkan balas dengan "1". Jika tidak, balas dengan "0".`;
     const formattedData = formattedHospitals.join("\n");
 
     // Update the template with the formatted data
-    template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:\nDATA:\n${formattedData}\nJAWABAN: \n${suffix}`;
+    template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:
+DATA:\n${formattedData}
+JAWABAN: \n${suffix}`;
 
     const answer = await service.askGPT(template);
     res.json(answer);
+    resetOpenAiRequestCount()
     return;
   }
 
@@ -65,7 +68,6 @@ PERTANYAAN: ${question}`;
     console.log(beds);
     template = `Ini adalah data ketersediaan tempat tidur di rumah sakit terdekat, sampaikan kepada user:
 DATA: ${JSON.stringify(beds)}
-JAWABAN: 
 ${suffix}`;
     const answer = await service.askGPT(template);
     res.json(answer);
@@ -73,7 +75,7 @@ ${suffix}`;
   }
 
   // check if user asking for user position information
-  template = `Apakah pertanyaan ini menanyakan  lokasi user secara eksplisit?
+  template = `Apakah pertanyaan ini menanyakan lokasi user secara eksplisit?
 Jika iya, silahkan balas dengan "1". Jika tidak, balas dengan "0".
 PERTANYAAN: ${question}`;
   const userPositionInformationQuestion = await service.askGPT(template);
@@ -85,10 +87,10 @@ PERTANYAAN: ${question}`;
     console.log(userPositionInformation);
     template = `Ini adalah data lokasi user, sampaikan kepada user:
 DATA: ${JSON.stringify(userPositionInformation)}
-JAWABAN: 
 ${suffix}`;
     const answer = await service.askGPT(template);
     res.json(answer);
+    resetOpenAiRequestCount()
     return;
   }
 
@@ -102,17 +104,23 @@ PERTANYAAN: ${question}`;
   question = question.toLowerCase();
   const matchString = question.includes('bpjs') || question.includes('jkn')
   if (Number(bpjsRelevance) || matchString) {
+    console.log('processing request with langchain...');
     const answer = await axios.post("http://localhost:5000/langchain", {
-      question
+      question,
+      openAiRequestCount
     });
-    console.log(answer.data);
+    icrementOpenAiRequestCount();
+    console.log('langchain:', answer.data);
     res.json(answer.data);
+    resetOpenAiRequestCount()
     return;
   }
 
   // default, ask GPT
   const answer = await service.askGPT(question);
   res.json(answer);
+  resetOpenAiRequestCount()
+  return
 });
 
 app.listen(8000, () => {

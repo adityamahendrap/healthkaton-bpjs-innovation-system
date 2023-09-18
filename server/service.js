@@ -2,6 +2,7 @@ import prisma from './prisma/prisma.js';
 import Vector2 from './lib/Vector2.js';
 import axios from 'axios';
 import OpenAI from "openai";
+import { handleRateLimit, openAiRequestCount, icrementOpenAiRequestCount } from './lib/helper.js';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -13,11 +14,18 @@ function longLatDistanceVector2ToKilometer(longLatVector2) {
 
 const service = {
   askGPT: async (question) => {
-    console.log("asking gpt:", question)
+    console.log(openAiRequestCount);
+    if (openAiRequestCount >= 3) {
+      await handleRateLimit();
+    }
     const chatCompletion = await openai.chat.completions.create({
       messages: [{ role: "user", content: question }],
       model: "gpt-3.5-turbo",
     });
+    icrementOpenAiRequestCount();
+    console.log('Q:', question);
+    console.log('A:', chatCompletion.choices[0].message.content);
+
     return chatCompletion.choices[0].message.content;
   },
 
