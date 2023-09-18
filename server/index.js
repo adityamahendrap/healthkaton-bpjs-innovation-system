@@ -4,6 +4,7 @@ import "reflect-metadata";
 import express from "express";
 import cors from "cors";
 import fs from "fs";
+import axios from "axios";
 
 const app = express();
 app.use(cors());
@@ -91,19 +92,21 @@ ${suffix}`;
     return;
   }
 
-  // check if user question relevant from data in database
+  // check if user asking for bpjs information
   // then handle with langchain in python
-  const dbSchema = fs.readFileSync("./prisma/schema.prisma", "utf8");
-  template = `Apakah pertanyaan ini relevan dengan data yang ada di database?
-DATABASE: ${dbSchema}
-PERTANYAAN: ${question}
-JAWABAN: `;
-  const relevantQuestion = await service.askGPT(template);
-  if (Number(relevantQuestion)) {
+  template = `Apakah pertanyaan ini menanyakan informasi seputar BPJS secara eksplisit?
+Jika iya, silahkan balas dengan "1". Jika tidak, balas dengan "0".
+PERTANYAAN: ${question}`;
+  const bpjsRelevance = await service.askGPT(template);
+  console.log(bpjsRelevance);
+  question = question.toLowerCase();
+  const matchString = question.includes('bpjs') || question.includes('jkn')
+  if (Number(bpjsRelevance) || matchString) {
     const answer = await axios.post("http://localhost:5000/langchain", {
-      question,
+      question
     });
-    res.json(answer);
+    console.log(answer.data);
+    res.json(answer.data);
     return;
   }
 
