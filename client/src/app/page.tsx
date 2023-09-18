@@ -167,6 +167,22 @@ export default function Home() {
     ]);
   };
 
+  // Function to send a prompt message when an element is clicked
+  const sendPromptMessage = (promptText: string) => {
+    const message = {
+      id: messages.length + 1,
+      message: promptText,
+      isUser: true,
+      time: getCurrentTime(),
+    };
+
+    // Add the message to the chat
+    setMessages([...messages, message]);
+
+    // Send the message to the server
+    askServer(message.message);
+  };
+
   const sendMessage = () => {
     if (newMessage.trim() === "") {
       return;
@@ -216,13 +232,22 @@ export default function Home() {
           />
         ))}
         <div className="default-ask w-full overflow-x-scroll whitespace-nowrap flex gap-2 mt-4 left-0 absolute bottom-2 z-[6]">
-          <div className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md">
+          <div
+            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
+            onClick={() => sendPromptMessage("Kamar yang Tersedia?")}
+          >
             Kamar yang Tersedia?
           </div>
-          <div className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md">
+          <div
+            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
+            onClick={() => sendPromptMessage("Rumah sakit terdekat?")}
+          >
             Rumah sakit terdekat?
           </div>
-          <div className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md">
+          <div
+            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
+            onClick={() => sendPromptMessage("Tentang JKNSMARTSUPPORT")}
+          >
             Tentang JKNSMARTSUPPORT
           </div>
         </div>
