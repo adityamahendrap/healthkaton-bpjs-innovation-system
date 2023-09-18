@@ -206,7 +206,7 @@ export default function Home() {
       <div className="relative z-[4] bg-white shadow-lg p-4">
         JKNSMARTSUPPORT
       </div>
-      <div className="relative z-[4]  flex-1  p-4 overflow-y-auto">
+      <div className="relative z-[4]  flex-1  p-4 overflow-y-auto overflow-x-hidden">
         {messages.map((message) => (
           <MessageBubble
             key={message.id}
@@ -215,6 +215,17 @@ export default function Home() {
             time={message.time}
           />
         ))}
+        <div className="default-ask w-full overflow-x-scroll whitespace-nowrap flex gap-2 mt-4 left-0 absolute bottom-2 z-[6]">
+          <div className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md">
+            Kamar yang Tersedia?
+          </div>
+          <div className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md">
+            Rumah sakit terdekat?
+          </div>
+          <div className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md">
+            Tentang JKNSMARTSUPPORT
+          </div>
+        </div>
       </div>
       <div className="relative z-[4]  bg-white p-4 flex items-center shadow-lg">
         <input
