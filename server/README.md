@@ -23,7 +23,7 @@ $ node .
 For python environment:
 ```bash
 # change directory
-$ cd experimental
+$ cd langchain
 
 # install dependencies
 $ pip install -r requirements.txt
