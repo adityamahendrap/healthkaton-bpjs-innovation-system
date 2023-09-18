@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "migrate": "npx prisma migrate",
+    "migrate": "npx prisma migrate dev --name init",
     "generate": "npx prisma generate",
     "seed-province": "node ./seeder/province.js",
     "seed-city": "node ./seeder/city.js",

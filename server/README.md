@@ -15,13 +15,19 @@ $ npm run generate
 
 # seed database
 $ npm run seed:all
+
+# run server
+$ node .
 ```
 
 For python environment:
 ```bash
-# change directory to experimental
-$ cd experimental
+# change directory
+$ cd langchain
 
 # install dependencies
 $ pip install -r requirements.txt
+
+# run server
+$ py --app main run
 ``` 

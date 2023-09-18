@@ -6,6 +6,7 @@ import ellipse2 from "../../public/ellipse-2.svg";
 import React, { useState } from "react";
 import axios from "axios";
 import { get } from "http";
+import { FaPaperPlane } from "react-icons/fa6";
 
 interface MessageBubbleProps {
   message: string;
@@ -18,14 +19,89 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
   isUser,
   time,
 }: MessageBubbleProps) => {
+  // const formatMessageWithLinks = (message: string) => {
+  //   const regex = /(\bhttps?:\/\/\S+)/gi;
+  //   let parts = message.split(regex);
+
+  // Replace each link with "Lihat Di Google Maps"
+  //   parts = parts.map((part, index) => {
+  //     if (part.match(regex)) {
+  //       return (
+  //         <a
+  //           key={index}
+  //           href={part}
+  //           target="_blank"
+  //           rel="noopener noreferrer"
+  //           className="underline"
+  //         >
+  //           Lihat di Google Maps
+  //         </a>
+  //       );
+  //     } else {
+  //       return part;
+  //     }
+  //   });
+
+  //   return <>{parts}</>;
+  // };
+
+  const formatHospitalAnswer = (answerText: string): React.ReactNode[] => {
+    // Regular expression to match URLs starting with 'https'
+    const urlRegex = /(https:\/\/\S+)/gi;
+
+    // Split the answer text into lines
+    const lines: string[] = answerText.split("\n");
+    const formattedLines: React.ReactNode[] = [];
+
+    // Iterate through each line of text
+    for (const line of lines) {
+      // Use the `split` function to separate the line into text and URLs
+      const parts: string[] = line.split(urlRegex);
+
+      // Process each part and create React elements
+      const lineElements: React.ReactNode[] = parts.map((part, index) => {
+        if (part.match(urlRegex)) {
+          // Format URLs as clickable links
+          return (
+            <a
+              key={index}
+              href={part}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline text-blue-700 mb-3 block"
+            >
+              Lihat Lokasi
+            </a>
+          );
+        } else if (part.includes("[Klik disini]")) {
+          return null;
+        } else {
+          return <span key={index}>{part}</span>;
+        }
+      });
+
+      // Filter out null elements (for removed "[Klik disini]")
+      const filteredLineElements = lineElements.filter(Boolean);
+
+      // Combine all elements in the line and add a newline
+      formattedLines.push(
+        <p key={formattedLines.length} className="mb-1">
+          {filteredLineElements}
+        </p>
+      );
+    }
+
+    return formattedLines;
+  };
+
   // Determine the CSS class based on whether it's a user's message or another person's message
   const bubbleClass = isUser
     ? "bg-blue-500 text-white ml-auto rounded-b-md rounded-tl-md "
     : "bg-gray-50 text-gray-700 mr-auto rounded-b-md rounded-tr-md";
 
   return (
-    <div className={`max-w-[70%]  p-2 mb-3 ${bubbleClass} clear-both relative`}>
-      <div className="message-content p-2">{message}</div>
+    <div className={`max-w-[80%] p-2 mb-3 ${bubbleClass} clear-both relative`}>
+      <div className="message-content p-2">{formatHospitalAnswer(message)}</div>
       <div className="message-time text-xs  absolute right-2 bottom-0">
         {time}
       </div>
@@ -39,13 +115,13 @@ export default function Home() {
       id: 1,
       message: "Hello there!",
       isUser: true,
-      time: "11:30 AM",
+      time: getCurrentTime(),
     },
     {
       id: 2,
       message: "Hello there!",
       isUser: false,
-      time: "11:30 AM",
+      time: getCurrentTime(),
     },
   ]);
   const [newMessage, setNewMessage] = useState("Dimana rumah sakit terdekat?");
@@ -65,27 +141,29 @@ export default function Home() {
   const getUserPosition = () => {
     return new Promise((resolve, reject) => {
       const successCallback = (position: any) => {
-        localStorage.setItem('lat', position.coords.latitude);
-        localStorage.setItem('long', position.coords.longitude);
+        localStorage.setItem("lat", position.coords.latitude);
+        localStorage.setItem("long", position.coords.longitude);
         resolve(position);
       };
-  
+
       const errorCallback = (error: any) => {
         reject(error);
       };
-  
+
       navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
     });
   };
 
   const askServer = async (message: string) => {
-    await getUserPosition();
+    if (!localStorage.getItem("lat") || !localStorage.getItem("long")) {
+      await getUserPosition();
+    }
     console.log("ask the server:", message);
     setIsLoading(true);
     const response = await axios.post("http://localhost:8000/driven-qna", {
       question: message,
-      lat: localStorage.getItem('lat'),
-      long: localStorage.getItem('long'),
+      lat: localStorage.getItem("lat"),
+      long: localStorage.getItem("long"),
     });
     setIsLoading(false);
     const { data } = response;
@@ -137,7 +215,7 @@ export default function Home() {
         <Image src={ellipse1} alt="bubble" fill={true} />
       </div>
       <div className="relative z-[4] bg-white shadow-lg p-4">
-        JKNSMARTSUPPORT 😜
+        JKNSMARTSUPPORT
       </div>
       <div className="relative z-[4]  flex-1  p-4 overflow-y-auto">
         {messages.map((message) => (
@@ -153,7 +231,7 @@ export default function Home() {
         <input
           type="text"
           placeholder="Type your message"
-          className="flex-1 border rounded-md p-2 mr-2"
+          className="flex-1 border border-gray-300 rounded-md p-2 mr-2"
           value={newMessage}
           onChange={(e) => setNewMessage(e.target.value)}
           onKeyPress={handleKeyPress}
@@ -162,9 +240,16 @@ export default function Home() {
         <button
           onClick={sendMessage}
           disabled={isLoading}
-          className="bg-blue-500 text-white py-2 px-4 rounded-md"
+          className="bg-blue-500 text-white py-3 px-4 rounded-md"
         >
-          {isLoading ? "Processing..." : "Send"}
+          {isLoading ? (
+            <div
+              className="w-4 h-4 rounded-full animate-spin
+            border border-solid border-white border-t-transparent"
+            ></div>
+          ) : (
+            <FaPaperPlane />
+          )}
         </button>
       </div>
     </div>
