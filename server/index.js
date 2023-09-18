@@ -20,16 +20,15 @@ app.post("/driven-qna", async (req, res) => {
   const long = Number(req.body.long);
   const lat = Number(req.body.lat);
   let template;
-  const suffix = 'SUFFIX: pada akhir jawaban sampaikan salam dari "JKNSMARTSUPPORT"'
+  const suffix = 'SUFFIX: pada akhir jawaban sampaikan salam hangat dari "JKNSMARTSUPPORT"'
 
   // Check if the user is asking about the nearest hospital
-  template = `Apakah pertanyaan ini mengenai rumah sakit terdekat?
-Jika iya, silahkan balas dengan "true" atau "false"
-PERTANYAAN: ${question}
-JAWABAN: `;
+  template = `PERTANYAAN: ${question}
+Apakah pertanyaan ini mengenai rumah sakit terdekat secara eksplisit?
+Jika iya, silahkan balas dengan "1". Jika tidak, balas dengan "0".`;
   const nearestHospitalQuestion = await service.askGPT(template);
 
-  if (Boolean(nearestHospitalQuestion)) {
+  if (Number(nearestHospitalQuestion)) {
     const hospitals = await service.getNearestHospital(long, lat);
     console.log(hospitals);
 
@@ -51,19 +50,16 @@ JAWABAN: `;
     template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:\nDATA:\n${formattedData}\nJAWABAN: \n${suffix}`;
 
     const answer = await service.askGPT(template);
-
     res.json(answer);
-
     return;
   }
 
   // check if user asking for bed availability, answer with bed availability in nearest hospital
-  template = `Apakah pertanyaan ini mengenai ketersediaan tempat tidur/kamar?
-Jika iya, silahkan balas dengan "true" atau "false"
-PERTANYAAN: ${question}
-JAWABAN: `;
+  template = `Apakah pertanyaan ini mengenai ketersediaan tempat tidur/kamar secara eksplisit?
+Jika iya, silahkan balas dengan "1". Jika tidak, balas dengan "0".
+PERTANYAAN: ${question}`;
   const bedAvailabilityQuestion = await service.askGPT(template);
-  if (Boolean(bedAvailabilityQuestion)) {
+  if (Number(bedAvailabilityQuestion)) {
     const beds = await service.getBedAvailabilityInNearestHospital(long, lat);
     console.log(beds);
     template = `Ini adalah data ketersediaan tempat tidur di rumah sakit terdekat, sampaikan kepada user:
@@ -76,12 +72,11 @@ ${suffix}`;
   }
 
   // check if user asking for user position information
-  template = `Apakah pertanyaan ini menanyakan  lokasi user (bukan rumah sakit)?
-Jika iya, silahkan balas dengan "true" atau "false"
-PERTANYAAN: ${question}
-JAWABAN: `;
+  template = `Apakah pertanyaan ini menanyakan  lokasi user secara eksplisit?
+Jika iya, silahkan balas dengan "1". Jika tidak, balas dengan "0".
+PERTANYAAN: ${question}`;
   const userPositionInformationQuestion = await service.askGPT(template);
-  if (Boolean(userPositionInformationQuestion)) {
+  if (Number(userPositionInformationQuestion)) {
     const userPositionInformation = await service.getUserPositionInformation(
       long,
       lat
@@ -100,12 +95,11 @@ ${suffix}`;
   // then handle with langchain in python
   const dbSchema = fs.readFileSync("./prisma/schema.prisma", "utf8");
   template = `Apakah pertanyaan ini relevan dengan data yang ada di database?
-Jika iya, silahkan balas dengan "true" atau "false"
 DATABASE: ${dbSchema}
 PERTANYAAN: ${question}
 JAWABAN: `;
   const relevantQuestion = await service.askGPT(template);
-  if (Boolean(relevantQuestion)) {
+  if (Number(relevantQuestion)) {
     const answer = await axios.post("http://localhost:5000/langchain", {
       question,
     });
