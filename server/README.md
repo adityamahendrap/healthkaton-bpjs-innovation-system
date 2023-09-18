@@ -29,5 +29,5 @@ $ cd langchain
 $ pip install -r requirements.txt
 
 # run server
-$ py --app main run
+$ flask --app main run
 ``` 
