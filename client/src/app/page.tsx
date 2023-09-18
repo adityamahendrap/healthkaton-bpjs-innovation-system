@@ -19,32 +19,6 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
   isUser,
   time,
 }: MessageBubbleProps) => {
-  // const formatMessageWithLinks = (message: string) => {
-  //   const regex = /(\bhttps?:\/\/\S+)/gi;
-  //   let parts = message.split(regex);
-
-  // Replace each link with "Lihat Di Google Maps"
-  //   parts = parts.map((part, index) => {
-  //     if (part.match(regex)) {
-  //       return (
-  //         <a
-  //           key={index}
-  //           href={part}
-  //           target="_blank"
-  //           rel="noopener noreferrer"
-  //           className="underline"
-  //         >
-  //           Lihat di Google Maps
-  //         </a>
-  //       );
-  //     } else {
-  //       return part;
-  //     }
-  //   });
-
-  //   return <>{parts}</>;
-  // };
-
   const formatHospitalAnswer = (answerText: string): React.ReactNode[] => {
     // Regular expression to match URLs starting with 'https'
     const urlRegex = /(https:\/\/\S+)/gi;
@@ -73,7 +47,10 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
               Lihat Lokasi
             </a>
           );
-        } else if (part.includes("[Klik disini]")) {
+        } else if (
+          part.includes("[Klik disini]") ||
+          part.includes("[Lihat di Google Maps]")
+        ) {
           return null;
         } else {
           return <span key={index}>{part}</span>;
@@ -121,6 +98,18 @@ export default function Home() {
       id: 2,
       message: "Hello there!",
       isUser: false,
+      time: getCurrentTime(),
+    },
+    {
+      id: 3,
+      message: "Dimanakah rumah sakit terdekat?",
+      isUser: true,
+      time: getCurrentTime(),
+    },
+    {
+      id: 4,
+      message: "Apakah ada kamar yang tersedia di rumah sakit terdekat?",
+      isUser: true,
       time: getCurrentTime(),
     },
   ]);
