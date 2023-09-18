@@ -1,13 +1,13 @@
 import service from "./service.js";
 import "dotenv/config";
 import "reflect-metadata";
-import exoress from "express";
+import express from "express";
 import cors from "cors";
 import fs from "fs";
 
-const app = exoress();
+const app = express();
 app.use(cors());
-app.use(exoress.json());
+app.use(express.json());
 
 app.post("/ask-gpt", async (req, res) => {
   const { question } = req.body;
