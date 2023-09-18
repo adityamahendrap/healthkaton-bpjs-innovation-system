@@ -1,13 +1,13 @@
 import service from "./service.js";
 import "dotenv/config";
 import "reflect-metadata";
-import exoress from "express";
+import express from "express";
 import cors from "cors";
 import fs from "fs";
 
-const app = exoress();
+const app = express();
 app.use(cors());
-app.use(exoress.json());
+app.use(express.json());
 
 app.post("/ask-gpt", async (req, res) => {
   const { question } = req.body;
@@ -20,6 +20,7 @@ app.post("/driven-qna", async (req, res) => {
   const long = Number(req.body.long);
   const lat = Number(req.body.lat);
   let template;
+  const suffix = 'SUFFIX: pada akhir jawaban sampaikan salam dari "JKNSMARTSUPPORT"'
 
   // Check if the user is asking about the nearest hospital
   template = `Apakah pertanyaan ini mengenai rumah sakit terdekat?
@@ -47,7 +48,7 @@ JAWABAN: `;
     const formattedData = formattedHospitals.join("\n");
 
     // Update the template with the formatted data
-    template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:\nDATA:\n${formattedData}\nJAWABAN: `;
+    template = `Ini adalah data rumah sakit terdekat, sampaikan kepada user:\nDATA:\n${formattedData}\nJAWABAN: \n${suffix}`;
 
     const answer = await service.askGPT(template);
 
@@ -67,7 +68,8 @@ JAWABAN: `;
     console.log(beds);
     template = `Ini adalah data ketersediaan tempat tidur di rumah sakit terdekat, sampaikan kepada user:
 DATA: ${JSON.stringify(beds)}
-JAWABAN: `;
+JAWABAN: 
+${suffix}`;
     const answer = await service.askGPT(template);
     res.json(answer);
     return;
@@ -87,7 +89,8 @@ JAWABAN: `;
     console.log(userPositionInformation);
     template = `Ini adalah data lokasi user, sampaikan kepada user:
 DATA: ${JSON.stringify(userPositionInformation)}
-JAWABAN: `;
+JAWABAN: 
+${suffix}`;
     const answer = await service.askGPT(template);
     res.json(answer);
     return;

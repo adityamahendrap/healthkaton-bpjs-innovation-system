@@ -8,7 +8,7 @@ const openai = new OpenAI({
 });
 
 function longLatDistanceVector2ToKilometer(longLatVector2) {
-  return Number((longLatVector2 * 1113.25).toFixed(2))
+  return Number((longLatVector2 * 111.325).toFixed(2))
 }
 
 const service = {
