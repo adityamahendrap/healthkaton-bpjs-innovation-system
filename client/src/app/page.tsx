@@ -49,6 +49,7 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
           );
         } else if (
           part.includes("[Klik disini]") ||
+          part.includes("[Klik di sini]") ||
           part.includes("[Lihat di Google Maps]")
         ) {
           return null;
@@ -90,31 +91,14 @@ export default function Home() {
   const [messages, setMessages] = useState([
     {
       id: 1,
-      message: "Hello there!",
-      isUser: true,
-      time: getCurrentTime(),
-    },
-    {
-      id: 2,
-      message: "Hello there!",
+      message: "Halo, JKNSMARTSUPPORT disini. Ada yang bisa kami bantu? 👋",
       isUser: false,
       time: getCurrentTime(),
-    },
-    {
-      id: 3,
-      message: "Dimanakah rumah sakit terdekat?",
-      isUser: true,
-      time: getCurrentTime(),
-    },
-    {
-      id: 4,
-      message: "Apakah ada kamar yang tersedia di rumah sakit terdekat?",
-      isUser: true,
-      time: getCurrentTime(),
-    },
+    }
   ]);
-  const [newMessage, setNewMessage] = useState("Dimana rumah sakit terdekat?");
+  const [newMessage, setNewMessage] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const [faq, setFaq] = useState(['Dimana lokasi saya?', 'Dimana rumah sakit terdekat?', 'Apa itu BPJS Kesehatan?']);
 
   function getCurrentTime() {
     const now = new Date();
@@ -178,6 +162,7 @@ export default function Home() {
 
     // Add the message to the chat
     setMessages([...messages, message]);
+    setNewMessage("");
 
     // Send the message to the server
     askServer(message.message);
@@ -231,32 +216,25 @@ export default function Home() {
             time={message.time}
           />
         ))}
-        <div className="default-ask w-full overflow-x-scroll whitespace-nowrap flex gap-2 mt-4 left-0 absolute bottom-2 z-[6]">
-          <div
-            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
-            onClick={() => sendPromptMessage("Kamar yang Tersedia?")}
-          >
-            Kamar yang Tersedia?
-          </div>
-          <div
-            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
-            onClick={() => sendPromptMessage("Rumah sakit terdekat?")}
-          >
-            Rumah sakit terdekat?
-          </div>
-          <div
-            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
-            onClick={() => sendPromptMessage("Tentang JKNSMARTSUPPORT")}
-          >
-            Tentang JKNSMARTSUPPORT
-          </div>
+        <div className="default-ask w-full overflow-x-scroll whitespace-nowrap flex gap-2 mt-4 absolute left-0 bottom-2 z-[6]">
+          <div className="px-1"></div>
+          {faq.map((item, index) => (
+            <div
+              key={index}
+              className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
+              onClick={() => sendPromptMessage(item)}
+            >
+              {item}
+            </div>
+          ))}
+          <div className="px-1"></div>
         </div>
       </div>
       <div className="relative z-[4]  bg-white p-4 flex items-center shadow-lg">
         <input
           type="text"
           placeholder="Type your message"
-          className="flex-1 border border-gray-300 rounded-md p-2 mr-2"
+          className={"flex-1 border border-gray-300 rounded-md p-2 mr-2" + (isLoading ? " cursor-not-allowed" : "")}
           value={newMessage}
           onChange={(e) => setNewMessage(e.target.value)}
           onKeyPress={handleKeyPress}
@@ -265,7 +243,7 @@ export default function Home() {
         <button
           onClick={sendMessage}
           disabled={isLoading}
-          className="bg-blue-500 text-white py-3 px-4 rounded-md"
+          className={"bg-blue-500 text-white py-3 px-4 rounded-md" + (isLoading ? " cursor-not-allowed" : "")}
         >
           {isLoading ? (
             <div
