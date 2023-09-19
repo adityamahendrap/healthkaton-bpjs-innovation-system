@@ -94,11 +94,15 @@ export default function Home() {
       message: "Halo, JKNSMARTSUPPORT disini. Ada yang bisa kami bantu? 👋",
       isUser: false,
       time: getCurrentTime(),
-    }
+    },
   ]);
   const [newMessage, setNewMessage] = useState("");
   const [isLoading, setIsLoading] = useState(false);
-  const [faq, setFaq] = useState(['Dimana lokasi saya?', 'Dimana rumah sakit terdekat?', 'Apa itu BPJS Kesehatan?']);
+  const [faq, setFaq] = useState([
+    "Dimana lokasi saya?",
+    "Dimana rumah sakit terdekat?",
+    "Apa itu BPJS Kesehatan?",
+  ]);
 
   function getCurrentTime() {
     const now = new Date();
@@ -207,7 +211,7 @@ export default function Home() {
       <div className="relative z-[4] bg-white shadow-lg p-4">
         JKNSMARTSUPPORT
       </div>
-      <div className="relative z-[4]  flex-1  p-4 overflow-y-auto overflow-x-hidden">
+      <div className="relative z-[4] h-full flex-1  p-4 overflow-y-auto overflow-x-hidden">
         {messages.map((message) => (
           <MessageBubble
             key={message.id}
@@ -216,25 +220,28 @@ export default function Home() {
             time={message.time}
           />
         ))}
-        <div className="default-ask w-full overflow-x-scroll whitespace-nowrap flex gap-2 mt-4 absolute left-0 bottom-2 z-[6]">
-          <div className="px-1"></div>
-          {faq.map((item, index) => (
-            <div
-              key={index}
-              className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
-              onClick={() => sendPromptMessage(item)}
-            >
-              {item}
-            </div>
-          ))}
-          <div className="px-1"></div>
-        </div>
+      </div>
+      <div className="default-ask w-full overflow-x-scroll whitespace-nowrap flex gap-2 mt-4 absolute left-0 bottom-[72px] z-[6]">
+        <div className="px-1"></div>
+        {faq.map((item, index) => (
+          <div
+            key={index}
+            className="p-2 inline-block bg-blue-500 text-white text-sm whitespace-nowrap rounded-md cursor-pointer"
+            onClick={() => sendPromptMessage(item)}
+          >
+            {item}
+          </div>
+        ))}
+        <div className="px-1"></div>
       </div>
       <div className="relative z-[4]  bg-white p-4 flex items-center shadow-lg">
         <input
           type="text"
           placeholder="Type your message"
-          className={"flex-1 border border-gray-300 rounded-md p-2 mr-2" + (isLoading ? " cursor-not-allowed" : "")}
+          className={
+            "flex-1 border border-gray-300 rounded-md p-2 mr-2" +
+            (isLoading ? " cursor-not-allowed" : "")
+          }
           value={newMessage}
           onChange={(e) => setNewMessage(e.target.value)}
           onKeyPress={handleKeyPress}
@@ -243,7 +250,10 @@ export default function Home() {
         <button
           onClick={sendMessage}
           disabled={isLoading}
-          className={"bg-blue-500 text-white py-3 px-4 rounded-md" + (isLoading ? " cursor-not-allowed" : "")}
+          className={
+            "bg-blue-500 text-white py-3 px-4 rounded-md" +
+            (isLoading ? " cursor-not-allowed" : "")
+          }
         >
           {isLoading ? (
             <div
