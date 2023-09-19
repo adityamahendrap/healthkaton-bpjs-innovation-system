@@ -50,6 +50,7 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({
         } else if (
           part.includes("[Klik disini]") ||
           part.includes("[Klik di sini]") ||
+          part.includes("[Klik di sini untuk melihat lokasi]") ||
           part.includes("[Lihat di Google Maps]")
         ) {
           return null;
