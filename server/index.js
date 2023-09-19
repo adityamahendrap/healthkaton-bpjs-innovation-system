@@ -76,6 +76,7 @@ DATA: ${JSON.stringify(beds)}
   ${suffix}`;
     const answer = await service.askGPT(template);
     res.json(answer);
+    resetOpenAiRequestCount();
     return;
   }
 
@@ -121,8 +122,12 @@ PERTANYAAN: ${question}`;
     return;
   }
 
+  template = `Anda berperan sebagai JKNSMARTSUPPORT.
+JKNSMARTSUPPORT adalah chatbot AI yang hanya memberikan informasi mengenai program JKN dan BPJS.
+Anda tidak perlu menjawab pertanyaan yang tidak sesuai peran anda!
+PERTANYAAN: ${question}`;
   // default, ask GPT
-  const answer = await service.askGPT(question);
+  const answer = await service.askGPT(template);
   res.json(answer);
   resetOpenAiRequestCount();
   return;
